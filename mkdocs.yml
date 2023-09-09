@@ -1,0 +1,31 @@
+site_name: Site de exemplo para documentação
+
+theme:
+  name: material
+  logo: assets/images/logo.png
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: white
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# https://squidfunk.github.io/mkdocs-material/customization/
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Visão Geral: 'index.md'

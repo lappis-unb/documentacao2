@@ -1,0 +1,13 @@
+version: '3.0'
+
+services:
+  docs:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/docs
+    entrypoint: ["mkdocs", "serve", "-a", "0.0.0.0:8000"]
+    container_name: sample-docs
+    ports:
+      - "8000:8000"
