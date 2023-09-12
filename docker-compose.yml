@@ -8,6 +8,6 @@ services:
     volumes:
       - ./:/docs
     entrypoint: ["mkdocs", "serve", "-a", "0.0.0.0:8000"]
-    container_name: sample-docs
+    container_name: mkdocs
     ports:
       - "8000:8000"

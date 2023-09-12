@@ -1,4 +1,9 @@
-# mkdocs-sample
+# Autenticação secundária - Brasil Participativo
 
-Repositório de exemplo para documentação com mkdocs. Execute `make docs` para
-acessar o servidor.
+Repositório para documentação da avaliação das tecnologias de autenticação e registro de usuários do ecossistema Decidim e necessidades de integração para atender às demandas da plataforma Brasil Participativo.
+
+
+## Configuração
+
+Execute `make docs` para acessar o servidor. Para construir os estáticos, execute `make build-docs`.
+
