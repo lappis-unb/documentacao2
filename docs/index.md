@@ -1,7 +1,8 @@
+## Introdução
 
-Este repositório contém os estudos feitos sobre as ferramentas de autenticação e registro de usuários disponíveis no ecossistema Decidim, mais especificamente sobre [Keycloak](https://www.keycloak.org/) e [Devise](https://github.com/heartcombo/devise), ferramentas utilizadas pelo Decidim para autenticação e registro de usuários.
+Este repositório contém os estudos feitos sobre as ferramentas de autenticação e registro de usuários disponíveis no ecossistema Decidim, mais especificamente sobre [Keycloak](https://www.keycloak.org/) e [Devise](https://github.com/heartcombo/devise), como alternativas viáveis para uso no **Brasil Participativo**. Foram levados em consideração e avaliados também os demais [módulos de autenticação](https://decidim.org/modules/#auth) da comunidade e possíveis aplicabilidades ao cenário de uso da plataforma.
 
-Foram levados em consideração e avaliados também os demais [módulos de autenticação](https://decidim.org/modules/#auth) da comunidade e possíveis aplicabilidades ao cenário de uso da plataforma **Brasil Participativo**.
+Foram levantadas as características e requisitos principais da solução e quais cenários de uso precisam contemplar para atender às necessidades de negócio, para então avaliar características técnicas e o impacto geral das soluções para a plataforma. Na seção sobre a [estrutura](#estrutura) é possível acessar os conteúdos específicos que foram avaliados.
 
 ## Requisitos gerais
 
@@ -18,3 +19,13 @@ A autenticação de pessoas estrangeiras é uma garantia legal e precisa ser dis
 Já para pessoas jurídicas, a autenticação precisa garantir a unicidade e veracidade dos dados fornecidos. Nesse sentido, foram avaliadas APIs públicas e governamentais de consulta de dados da receita para validação das informações com a finalidade última de evitar perfis falsos e robôs. Nessa avaliação, inclímos as bases do SISP que a presidência já possui acesso.
 
 Além das questões que dizem respeito exclusivamente aos dados de acesso à plataforma, foi necessário incorporar na pesquisa, soluções que possibilitem o enriquecimento da base, para que o cidadão possa informar dados como: número de telefone, número de inscrição do trabalhador (NIS), municipío, unidade da Federação e região de residência, data de nascimento, sexo legal, raça/cor, deficiência, profissão, grau de instrução, se é beneficiário do Bolsa Família, situação domiciliar, função principal de trabalho, grupos populacionais tradicionais e específicos, família quilombola, residência em reserva indígena e renda. Esse fluxo precisa ser possibilitado fora do registro, porém serão dados incorporados ao Perfil e deverão ser confgurados como uma extensão do Decidim. Uma solução semelhante seria o módulo [extra_user_fields](https://github.com/PopulateTools/decidim-module-extra_user_fields).
+
+## Estrutura
+
+A análise foi dividida em 4 tópicos principais: 
+
+1. **Avaliação curta dos módulos do Decidim:** elencar soluções que podem ser utilizados no contexto da plataforma Brasil Participativo para autenticação e cadastro de usuários e compreender os porquês da seleção de Keycloack e Devise.
+2. **Avaliação mais detalhada do Keycloak:** contextos e aplicabilidades da plataforma da solução e os implicações do uso do Keycloak para autenticação na plataforma.
+3. **Avaliação do uso do Devise/Rails:** análise do uso da estrutura de autenticação do próprio Decidim (que utiliza o Devise) e avaliação da incorporação de novos atributos ao perfil do usuário.
+4. **Definições alcançadas:** Resultados alcançados com o estudo e definições dos requisitos técnicos e de negócio pensados para a solução proposta.
+

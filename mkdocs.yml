@@ -32,3 +32,4 @@ markdown_extensions:
 
 nav:
   - Visão Geral: 'index.md'
+  - Módulos Decidim: 'modulos.md'
