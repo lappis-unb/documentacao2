@@ -3,6 +3,7 @@ site_name: Autenticação secundária - Brasil Participativo
 theme:
   name: material
   logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -28,8 +29,14 @@ markdown_extensions:
   - md_in_html
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
   - Visão Geral: 'index.md'
   - Módulos Decidim: 'modulos.md'
+  - Keycloak: 'keycloak.md'
+  - Devise: 'devise.md'
