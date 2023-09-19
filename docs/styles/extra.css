@@ -1,3 +1,6 @@
+:root {
+}
 :root [data-md-color-primary=white] {
   --md-typeset-a-color: var(--md-accent-fg-color) !important;
+  --md-typeset-mark-color: var(--md-mermaid-node-bg-color);
 }

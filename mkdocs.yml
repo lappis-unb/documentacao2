@@ -4,6 +4,10 @@ theme:
   name: material
   logo: assets/images/logo.png
   favicon: assets/images/favicon.png
+  features:
+    - navigation.tabs
+    - toc.integrate
+    - content.tabs.link
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -29,6 +33,10 @@ markdown_extensions:
   - md_in_html
   - admonition
   - pymdownx.details
+  - pymdownx.critic
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -40,3 +48,4 @@ nav:
   - Módulos Decidim: 'modulos.md'
   - Keycloak: 'keycloak.md'
   - Devise: 'devise.md'
+  - Conclusões: 'conclusoes.md'
