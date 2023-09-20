@@ -4,3 +4,7 @@
   --md-typeset-a-color: var(--md-accent-fg-color) !important;
   --md-typeset-mark-color: var(--md-mermaid-node-bg-color);
 }
+
+.md-tabs__item.md-tabs__item--active {
+  color: var(--md-typeset-a-color);
+}
