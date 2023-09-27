@@ -1,7 +1,6 @@
-# Autenticação secundária - Brasil Participativo
+# Relatórios
 
-Repositório para documentação da avaliação das tecnologias de autenticação e registro de usuários do ecossistema Decidim e necessidades de integração para atender às demandas da plataforma Brasil Participativo.
-
+Repositório para documentação de relatórios
 
 ## Configuração
 

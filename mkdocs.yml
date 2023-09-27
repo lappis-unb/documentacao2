@@ -1,4 +1,5 @@
-site_name: Autenticação secundária - Brasil Participativo
+site_name: Relatórios
+repo_url: "https://gitlab.com/lappis-unb/decidimbr/ecossistemasl/-/blob/160-geracao-de-relatorio-automatico-com-jupyter-notebooks/relat%C3%B3rios/conjuv/relatorio_conjuv.md?ref_type=heads" 
 
 theme:
   name: material
@@ -44,8 +45,4 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
-  - Visão Geral: 'index.md'
-  - Módulos Decidim: 'modulos.md'
-  - Keycloak: 'keycloak.md'
-  - Devise: 'devise.md'
-  - Conclusões: 'conclusoes.md'
+  - Relatórios: 'relatorio_conjuv.md'
