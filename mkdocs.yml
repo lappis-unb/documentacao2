@@ -46,8 +46,11 @@ markdown_extensions:
 
 nav:
   - Home: 'index.md'
+  - Moderadores: 'moderacao.md'
   - 'Conferência da Juventude':
     - 'Relatório 13/09': 'conjuv/relatorio_conjuv-13-09.md'
     - 'Relatório 27/09': 'conjuv/relatorio_conjuv-27-09.md'
+
+
 
 
