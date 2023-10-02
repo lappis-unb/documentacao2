@@ -1,5 +1,5 @@
 site_name: Relatórios
-repo_url: "https://gitlab.com/lappis-unb/decidimbr/ecossistemasl/-/blob/160-geracao-de-relatorio-automatico-com-jupyter-notebooks/relat%C3%B3rios/conjuv/relatorio_conjuv.md?ref_type=heads" 
+repo_url: "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/blob/master/conjuv/relatorio_conjuv.md?ref_type=heads" 
 
 theme:
   name: material
