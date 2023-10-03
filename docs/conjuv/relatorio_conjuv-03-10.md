@@ -19,11 +19,13 @@ O presente relatório apresenta a participação digital da 4 Conferência Nacio
   - [*Análise Qualitativa das Propostas*](#análise-qualitativa-das-propostas)
 
 ## *Dados Totais da Conjuv (Geral)*
+
 |   Número Total de Propostas |   Número Total de Votos |   Total de Comentários |
 |----------------------------:|------------------------:|-----------------------:|
 |                         315 |                   11058 |                   3211 |
 
 ## *Dados Totais da Conjuv (Semanal)*
+
 |   Número Total de Propostas |   Número Total de Votos |   Total de Comentários |
 |----------------------------:|------------------------:|-----------------------:|
 |                          57 |                    1034 |                    345 |
@@ -32,11 +34,13 @@ Os dados de acesso são referentes à visitação da página da conferência. Um
 Essas métricas auxiliam os organizadores da conferência a verificar se a quantidade de acesso na plataforma está de acordo com o previsto. Essas métricas também guiam a revisita das estratégias de mobilização e de comunicação na plataforma.
 
 ## *Dados de Acesso (Geral)*
+
 |   Visitantes únicos |   Visitas |   Média da duração das visitas (em segundos) |   Taxa de Rejeição |
 |--------------------:|----------:|---------------------------------------------:|-------------------:|
 |              102065 |    116589 |                                      100.294 |           0.683824 |
 
 ## *Dados de Acesso (Semanal)*
+
 |   Visitantes únicos |   Visitas |   Média da duração das visitas (em segundos) |   Taxa de Rejeição |
 |--------------------:|----------:|---------------------------------------------:|-------------------:|
 |               23181 |     26509 |                                       112.75 |             0.6575 |
@@ -47,7 +51,7 @@ Abaixo, tem uma imagem do comportamento real de um usuário típico. Temos que a
 Nos próximos relatórios traremos mais detalhes desse uso e dos fluxos realizados pelos usuários.
 
 <p align="center">
-  <img src="../conjuv/data/arquivos/painel_visitante_03-10.png"
+  <img src="../../conjuv/data/arquivos/painel_visitante_03-10.png"
  alt=" Exemplo de um Painel de Visitante"/>
 </p>
 
@@ -55,7 +59,7 @@ Nos próximos relatórios traremos mais detalhes desse uso e dos fluxos realizad
 ### *Qtd de Propostas, Votos e Comentários (Geral)*
 Esse gráfico monstra o comportamento da quantidade total de Propostas, Votos e comentários do dia 31/08 até 03/10.
 <p align="center">
-  <img src="../conjuv/data/arquivos/conjuv_grafico_geral_03-10.png"
+  <img src="../../conjuv/data/arquivos/conjuv_grafico_geral_03-10.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -64,7 +68,7 @@ Esse gráfico monstra o comportamento da quantidade total de Propostas, Votos e 
 ### *Qtd de Propostas, Votos e Comentários (Semanal)*
 Esse gráfico monstra o comportamento da quantidade total de Propostas, Votos e comentários do dia 26/09 até 03/10.
 <p align="center">
-  <img src="../conjuv/data/arquivos/conjuv_grafico_semana_03-10.png"
+  <img src="../../conjuv/data/arquivos/conjuv_grafico_semana_03-10.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -72,7 +76,7 @@ Esse gráfico monstra o comportamento da quantidade total de Propostas, Votos e 
 ### *Mapa com a Qtd de visitas por UF (Geral)*
 Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, durante o periodo do dia 31/08 até 03/10.
 <p align="center">
-  <img src="../conjuv/data/arquivos/conjuv_regiao_geral_03-10.png"
+  <img src="../../conjuv/data/arquivos/conjuv_regiao_geral_03-10.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
@@ -80,13 +84,14 @@ Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, dura
 ### *Mapa com a Qtd de visitas por UF (Semanal)*
 Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, durante o periodo do dia 26/09 até 03/10.
 <p align="center">
-  <img src="../conjuv/data/arquivos/conjuv_regiao_semana_03-10.png"
+  <img src="../../conjuv/data/arquivos/conjuv_regiao_semana_03-10.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
 ## *TOP 20 Propostas por Voto no Geral*
 
 As top 20 propostas mais votadas evidenciam as propostas com maior mobilização e maior interesse do jovem participante. Vale observar também o número de comentários por propostas.
+
 |    ID | Propostas                                                                                                                                                                                                                                     | Temas                                                                               |   Nº de Votos |   Nº de Comentários |
 |------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|--------------:|--------------------:|
 | 11773 | [Casa da juventude](http://brasilparticipativo.presidencia.gov.br/assemblies/confjuv4/f/10/proposals/11773)                                                                                                                                   | XII - Sistema Nacional de Juventude - SINAJUVE                                      |           959 |                 174 |
@@ -110,8 +115,10 @@ As top 20 propostas mais votadas evidenciam as propostas com maior mobilização
 | 11927 | [Programa de Incentivo a Representação Juvenil nas Periferias.](http://brasilparticipativo.presidencia.gov.br/assemblies/confjuv4/f/10/proposals/11927)                                                                                       | I - Direito à Cidadania, à Participação Social e Política e à Representação Juvenil |           107 |                  11 |
 | 11735 | [InovaJovem: Democratizando o Acesso à Tecnologia e Inovação para a Juventude](http://brasilparticipativo.presidencia.gov.br/assemblies/confjuv4/f/10/proposals/11735)                                                                        | II - Direito à Educação                                                             |           107 |                  45 |
 
+
 ## *Análise Qualitativa das Propostas* 
  Os temas com o maior número de propostas são: 
+
 |    | Temas                                                                               |   Nº de Propostas |   Nº de Votos |   Nº de Comentários |
 |---:|:------------------------------------------------------------------------------------|------------------:|--------------:|--------------------:|
 |  1 | II - Direito à Educação                                                             |                63 |          2178 |                 610 |
@@ -126,5 +133,7 @@ As top 20 propostas mais votadas evidenciam as propostas com maior mobilização
 |  9 | X - Direito ao Território e à Mobilidade                                            |                13 |           305 |                  89 |
 |  5 | V - Direito à Saúde                                                                 |                19 |           265 |                 110 |
 |  7 | VII - Direito à Comunicação e à Liberdade de Expressão                              |                 7 |           143 |                  29 |
+
+
 - De 315 propostas atuais, apenas 4 delas apresentam votação acima de 30;
 - 194 propostas estão com menos de 20 votos (61.59% do total de propostas);
