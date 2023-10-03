@@ -46,7 +46,7 @@ markdown_extensions:
 
 nav:
   - Home: 'index.md'
-  - Conferencias: 'conferencia.md'
+  - 'Checklist Conferências': 'conferencias.md'
   - Moderadores: 'moderacao.md'
   - 'Conferência da Juventude':
     - 'Relatório 13/09': 'conjuv/relatorio_conjuv-13-09.md'
