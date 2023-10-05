@@ -65,14 +65,14 @@
 ### *Mapa com a Qtd de visitas por UF (Geral)*
 
 <p align="center">
-  <img src="../conjuv/data/arquivos/conjuv_regiao_geral_03-10.png"
+  <img src="../../conjuv/data/arquivos/conjuv_regiao_geral_03-10.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
 ### *Mapa com a Qtd de visitas por UF (Semanal)*
 
 <p align="center">
-  <img src="../conjuv/data/arquivos/conjuv_regiao_semana_03-10.png"
+  <img src="../../conjuv/data/arquivos/conjuv_regiao_semana_03-10.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
@@ -104,6 +104,7 @@
 ## *Análise Qualitativa das Propostas* 
 
  Os temas com o maior número de propostas são: 
+ 
 |    | Temas                                                                               |   Nº de Propostas |   Nº de Votos |   Nº de Comentários |
 |---:|:------------------------------------------------------------------------------------|------------------:|--------------:|--------------------:|
 |  1 | II - Direito à Educação                                                             |                63 |          2178 |                 610 |
