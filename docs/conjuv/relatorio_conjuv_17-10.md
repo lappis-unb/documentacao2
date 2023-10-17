@@ -101,7 +101,7 @@ Nos próximos relatórios traremos mais detalhes desse uso e dos fluxos realizad
 
 
 <p align="center">
-  <img src="../../conjuv/data/arquivos/painel_visitante_17-10.png"
+  <img src="../../conjuv/data/arquivos/painel_visitante.png"
  alt=" Exemplo de um Painel de Visitante"/>
 </p>
 
