@@ -45,7 +45,7 @@ Esse gráfico mostra o comportamento da quantidade total de Propostas, Votos e c
 
 
 ### *Qtd de Propostas, Votos e Comentários (Semana)*
-Esse gráfico mostra o comportamento da quantidade total de Propostas, Votos e comentários do dia 04/10 até 11/10.
+Esse gráfico mostra o comportamento da quantidade total de Propostas, Votos e comentários do dia 10/10 até 17/10.
 
 
 <p align="center">
@@ -57,7 +57,7 @@ Esse gráfico mostra o comportamento da quantidade total de Propostas, Votos e c
 
 Os dados de acesso são referentes à visitação da página da conferência. Um indicador da mobilização realizada,
 mas principalmente sobre o comportamento do usuário padrão na plataforma (quanto tempo permanecem no contexto da conferência digital).
-Vale observar que a taxa de abandono está em torno de 68%. Isso significa que o usuário acessa a plataforma,
+Vale observar que a taxa de abandono está em torno de 44%. Isso significa que o usuário acessa a plataforma,
 mas não realiza qualquer ação na mesma. Essas métricas auxiliam os organizadores da conferência a verificar se a
 quantidade de acesso na plataforma está de acordo com o previsto. Essas métricas também guiam a revisita das estratégias
 de mobilização e de comunicação na plataforma.
@@ -75,7 +75,7 @@ de mobilização e de comunicação na plataforma.
 |                7639 |      9795 |           0.435714 |
 
 Esses gráficos mostram a quantidade de Visitantes novos e Visitantes de retorno ao logo do período completo do
-espaço participativo e no período da semana. Visitantes novos são usuários que nuncam utilizaram a plataforma e os
+espaço participativo e no período da semana. Visitantes novos são usuários que nunca utilizaram a plataforma e os
 Visitantes de retorno são aqueles que ao menos uma vez interagiram na plataforma.
 
 
@@ -115,7 +115,7 @@ Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, dura
 </p>
 
 ### *Mapa com a Qtd de visitas por UF (Semanal)*
-Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, durante o período do dia 04/10 até 11/10.
+Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, durante o período do dia 10/10 até 17/10.
 
 
 <p align="center">
