@@ -204,7 +204,7 @@ Os temas com o maior número de propostas são:
 | VIII - Direito ao Desporto e ao Lazer                                               |                40 |           859 |                 576 |
 | VII - Direito à Comunicação e à Liberdade de Expressão                              |                35 |           438 |                 152 |
 
-- De 973 propostas atuais, apenas 11 delas apresentam votação acima de 30;
+- De 973 propostas atuais, apenas 11 delas apresentam votação acima de 300;
 - 682 propostas estão com menos de 20 votos (70.09% do total de propostas);
 
 ## Dados dos Participantes
