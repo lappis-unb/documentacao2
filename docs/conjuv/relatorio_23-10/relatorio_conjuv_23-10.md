@@ -39,7 +39,7 @@ Esse gráfico mostra o comportamento da quantidade total de Propostas, Votos e c
 
 
 <p align="center">
-  <img src="../../conjuv/relatorio_23-10/assets/conjuv_grafico.png"
+  <img src="../../relatorio_23-10/assets/conjuv_grafico.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -48,7 +48,7 @@ Esse gráfico mostra o comportamento da quantidade total de Propostas, Votos e c
 
 
 <p align="center">
-  <img src="../../conjuv/relatorio_23-10/assets/conjuv_grafico_semana.png"
+  <img src="../../relatorio_23-10/assets/conjuv_grafico_semana.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -89,14 +89,14 @@ Visitantes de retorno são aqueles que ao menos uma vez interagiram na plataform
 ### *Visitantes novos e Visitantes de Retorno (Geral)*
 
 <p align="center">
-  <img src="../../conjuv/relatorio_23-10/assets/participantes_conjuv.png"
+  <img src="../../relatorio_23-10/assets/participantes_conjuv.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
 ### *Visitantes novos e Visitantes de Retorno (Semana)*
 
 <p align="center">
-  <img src="../../conjuv/relatorio_23-10/assets/participantes_conjuv_semana.png"
+  <img src="../../relatorio_23-10/assets/participantes_conjuv_semana.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -119,7 +119,7 @@ Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, dura
 
 
 <p align="center">
-  <img src="../../conjuv/relatorio_23-10/assets/conjuv_regiao.png"
+  <img src="../../relatorio_23-10/assets/conjuv_regiao.png"
   alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -129,7 +129,7 @@ Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, dura
 
 
 <p align="center">
-  <img src="../../conjuv/relatorio_23-10/assets/conjuv_regiao_semana.png"
+  <img src="../../relatorio_23-10/assets/conjuv_regiao_semana.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -144,14 +144,14 @@ que podem ser valiosas para a tomada de decisões estratégicas.
 ### *Tipos de Dispositivos (Geral)*
 
 <p align="center">
-  <img src="../../conjuv/relatorio_23-10/assets/conjuv_dispositivos.png"
+  <img src="../../relatorio_23-10/assets/conjuv_dispositivos.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
 ### *Tipos de Dispositivos (Semanal)*
 
 <p align="center">
-  <img src="../../conjuv/relatorio_23-10/assets/conjuv_dispositivos_semana.png"
+  <img src="../../relatorio_23-10/assets/conjuv_dispositivos_semana.png"
   alt="Descrição do Gráfico 1"/>
 </p>
 
