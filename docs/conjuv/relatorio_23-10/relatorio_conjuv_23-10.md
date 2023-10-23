@@ -39,7 +39,7 @@ Esse gráfico mostra o comportamento da quantidade total de Propostas, Votos e c
 
 
 <p align="center">
-  <img src=f"relatorio_{data_arquivo}/assets/conjuv_grafico.png"
+  <img src="../../conjuv/relatorio_23-10/assets/conjuv_grafico.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -48,7 +48,7 @@ Esse gráfico mostra o comportamento da quantidade total de Propostas, Votos e c
 
 
 <p align="center">
-  <img src=f"relatorio_{data_arquivo}/assets/conjuv_grafico_semana.png"
+  <img src="../../conjuv/relatorio_23-10/assets/conjuv_grafico_semana.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -89,14 +89,14 @@ Visitantes de retorno são aqueles que ao menos uma vez interagiram na plataform
 ### *Visitantes novos e Visitantes de Retorno (Geral)*
 
 <p align="center">
-  <img src=f"relatorio_{data_arquivo}/assets/participantes_conjuv.png"
+  <img src="../../conjuv/relatorio_23-10/assets/participantes_conjuv.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
 ### *Visitantes novos e Visitantes de Retorno (Semana)*
 
 <p align="center">
-  <img src=f"relatorio_{data_arquivo}/assets/participantes_conjuv_semana.png"
+  <img src="../../conjuv/relatorio_23-10/assets/participantes_conjuv_semana.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -106,7 +106,6 @@ Abaixo, tem uma imagem do comportamento real de um usuário típico.
 Temos que a maioria dos usuários fazendo e comentando as propostas utilizam celulares, e as pessoas que passam mais
 tempo na plataforma (normalmente cadastrando conferências regionais) utilizam o computador para acessar a plataforma.
 Nos próximos relatórios traremos mais detalhes desse uso e dos fluxos realizados pelos usuários.
-
 
 
 <p align="center">
@@ -120,8 +119,8 @@ Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, dura
 
 
 <p align="center">
-  <img src=f"relatorio_{data_arquivo}/assets/conjuv_regiao.png"
- alt="Descrição do Gráfico 1"/>
+  <img src="../../conjuv/relatorio_23-10/assets/conjuv_regiao.png"
+  alt="Descrição do Gráfico 1"/>
 </p>
 
 ### *Mapa com a Qtd de visitas por UF (Semanal)*
@@ -130,11 +129,11 @@ Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, dura
 
 
 <p align="center">
-  <img src=f"relatorio_{data_arquivo}/assets/conjuv_regiao_semana.png"
+  <img src="../../conjuv/relatorio_23-10/assets/conjuv_regiao_semana.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
-### *Dipostivos*
+### *Dipositivos*
 
 Neste relatório, exploramos os dados relativos às visitas a um determinado site, analisando o 
 tráfego por diferentes tipos de dispositivos. Ao investigar a distribuição de visitantes em 
@@ -145,15 +144,15 @@ que podem ser valiosas para a tomada de decisões estratégicas.
 ### *Tipos de Dispositivos (Geral)*
 
 <p align="center">
-  <img src=f"relatorio_{data_arquivo}/assets/conjuv_dispositivos.png"
+  <img src="../../conjuv/relatorio_23-10/assets/conjuv_dispositivos.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
 ### *Tipos de Dispositivos (Semanal)*
 
 <p align="center">
-  <img src=f"relatorio_{data_arquivo}/assets/conjuv_dispositivos_semana.png"
- alt="Descrição do Gráfico 1"/>
+  <img src="../../conjuv/relatorio_23-10/assets/conjuv_dispositivos_semana.png"
+  alt="Descrição do Gráfico 1"/>
 </p>
 
 ## Top 20 Propostas
