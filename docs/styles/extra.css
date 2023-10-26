@@ -8,3 +8,12 @@
 .md-tabs__item.md-tabs__item--active {
   color: var(--md-typeset-a-color);
 }
+
+footer {
+  background-color: #00FFFF;
+}
+
+/* Change the text color in the footer */
+footer {
+  color: #00FFFF;
+}

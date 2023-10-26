@@ -9,6 +9,7 @@ theme:
     - navigation.tabs
     - toc.integrate
     - content.tabs.link
+    - navigation.footer
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -25,6 +26,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  extra:
+    social:
+      - icon: fontawesome/brands/gitlab
+        link: https://gitlab.com/lappis-unb/decidimbr
 
 # https://squidfunk.github.io/mkdocs-material/customization/
 extra_css:
