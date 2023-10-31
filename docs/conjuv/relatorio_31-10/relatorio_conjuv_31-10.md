@@ -164,7 +164,7 @@ que podem ser valiosas para a tomada de decisões estratégicas.
 
 
 <p align="center">
-  <img src="../../relatorio_31-10/dispositivos.png"
+  <img src="../../relatorio_31-10/assets/dispositivos.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
@@ -172,7 +172,7 @@ que podem ser valiosas para a tomada de decisões estratégicas.
 
 
 <p align="center">
-  <img src="../../relatorio_31-10/dispositivos_semana.png"
+  <img src="../../relatorio_31-10/assets/dispositivos_semana.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
