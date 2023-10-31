@@ -1,0 +1,27 @@
+Rótulo	Visitas	Ações	Ações máximas em uma visita	Tempo total gasto pelos visitantes (em segundos)	Rejeições	Visitas com conversões	Visitantes únicos (Soma diária)	Usuários (Soma diária)	Metadados: segment	Metadados: region	Metadados: country	Metadados: country_name	Metadados: region_name	Metadados: logo
+São Paulo	60104	273635	993	12646059	24597	0	54560	0	regionCode==SP;countryCode==br	SP	br	Brasil	São Paulo	plugins/Morpheus/icons/dist/flags/br.png
+Rio de Janeiro	15627	72704	360	3416821	6208	0	14262	0	regionCode==RJ;countryCode==br	RJ	br	Brasil	Rio de Janeiro	plugins/Morpheus/icons/dist/flags/br.png
+Minas Gerais	13293	60495	752	2800106	5507	0	12133	0	regionCode==MG;countryCode==br	MG	br	Brasil	Minas Gerais	plugins/Morpheus/icons/dist/flags/br.png
+Pernambuco	10530	42608	217	2520798	4450	0	9441	0	regionCode==PE;countryCode==br	PE	br	Brasil	Pernambuco	plugins/Morpheus/icons/dist/flags/br.png
+Bahia	9820	43465	232	2299384	3940	0	8860	0	regionCode==BA;countryCode==br	BA	br	Brasil	Bahia	plugins/Morpheus/icons/dist/flags/br.png
+Ceará	9557	45648	661	2541238	3947	0	8408	0	regionCode==CE;countryCode==br	CE	br	Brasil	Ceará	plugins/Morpheus/icons/dist/flags/br.png
+Paraná	9025	38796	249	1818500	3712	0	8279	0	regionCode==PR;countryCode==br	PR	br	Brasil	Paraná	plugins/Morpheus/icons/dist/flags/br.png
+Amapá	8042	42858	170	2959385	2277	0	6363	0	regionCode==AP;countryCode==br	AP	br	Brasil	Amapá	plugins/Morpheus/icons/dist/flags/br.png
+Rio Grande do Sul	6068	28320	326	1227492	2456	0	5625	0	regionCode==RS;countryCode==br	RS	br	Brasil	Rio Grande do Sul	plugins/Morpheus/icons/dist/flags/br.png
+Santa Catarina	4944	23991	392	1083918	2038	0	4471	0	regionCode==SC;countryCode==br	SC	br	Brasil	Santa Catarina	plugins/Morpheus/icons/dist/flags/br.png
+Goiás	4226	18169	102	791451	1698	0	3867	0	regionCode==GO;countryCode==br	GO	br	Brasil	Goiás	plugins/Morpheus/icons/dist/flags/br.png
+Amazonas	3692	16272	342	1029706	1449	0	3075	0	regionCode==AM;countryCode==br	AM	br	Brasil	Amazonas	plugins/Morpheus/icons/dist/flags/br.png
+Pará	2992	14822	256	905255	1118	0	2763	0	regionCode==PA;countryCode==br	PA	br	Brasil	Pará	plugins/Morpheus/icons/dist/flags/br.png
+Paraíba	2588	9986	130	491287	1112	0	2348	0	regionCode==PB;countryCode==br	PB	br	Brasil	Paraíba	plugins/Morpheus/icons/dist/flags/br.png
+Espírito Santo	2530	10335	90	488936	1083	0	2329	0	regionCode==ES;countryCode==br	ES	br	Brasil	Espírito Santo	plugins/Morpheus/icons/dist/flags/br.png
+Rio Grande do Norte	1986	9861	451	419480	790	0	1809	0	regionCode==RN;countryCode==br	RN	br	Brasil	Rio Grande do Norte	plugins/Morpheus/icons/dist/flags/br.png
+Maranhão	1756	7680	118	395395	720	0	1633	0	regionCode==MA;countryCode==br	MA	br	Brasil	Maranhão	plugins/Morpheus/icons/dist/flags/br.png
+Sergipe	1364	5633	76	286867	573	0	1248	0	regionCode==SE;countryCode==br	SE	br	Brasil	Sergipe	plugins/Morpheus/icons/dist/flags/br.png
+Rondônia	1322	5485	147	427227	561	0	1135	0	regionCode==RO;countryCode==br	RO	br	Brasil	Rondônia	plugins/Morpheus/icons/dist/flags/br.png
+Alagoas	1260	5640	191	272284	530	0	1127	0	regionCode==AL;countryCode==br	AL	br	Brasil	Alagoas	plugins/Morpheus/icons/dist/flags/br.png
+Piauí	1047	4381	140	229554	435	0	922	0	regionCode==PI;countryCode==br	PI	br	Brasil	Piauí	plugins/Morpheus/icons/dist/flags/br.png
+Mato Grosso do Sul	1017	4725	144	237626	438	0	925	0	regionCode==MS;countryCode==br	MS	br	Brasil	Mato Grosso do Sul	plugins/Morpheus/icons/dist/flags/br.png
+Mato Grosso	984	4282	64	181418	415	0	912	0	regionCode==MT;countryCode==br	MT	br	Brasil	Mato Grosso	plugins/Morpheus/icons/dist/flags/br.png
+Tocantins	465	2146	105	115030	186	0	416	0	regionCode==TO;countryCode==br	TO	br	Brasil	Tocantins	plugins/Morpheus/icons/dist/flags/br.png
+Acre	404	1839	56	135507	163	0	363	0	regionCode==AC;countryCode==br	AC	br	Brasil	Acre	plugins/Morpheus/icons/dist/flags/br.png
+Roraima	99	448	37	22723	42	0	89	0	regionCode==RR;countryCode==br	RR	br	Brasil	Roraima	plugins/Morpheus/icons/dist/flags/br.png

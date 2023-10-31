@@ -14,10 +14,16 @@ dados_acesso:
   - |
     Os dados de acesso são referentes à visitação da página da conferência. Um indicador da mobilização realizada,
     mas principalmente sobre o comportamento do usuário padrão na plataforma (quanto tempo permanecem no contexto da conferência digital).
-    Vale observar que a taxa de abandono está em torno de 68%. Isso significa que o usuário acessa a plataforma,
+    Vale observar a taxa de abandono. Isso significa que o usuário acessa a plataforma,
     mas não realiza qualquer ação na mesma. Essas métricas auxiliam os organizadores da conferência a verificar se a
     quantidade de acesso na plataforma está de acordo com o previsto. Essas métricas também guiam a revisita das estratégias
     de mobilização e de comunicação na plataforma.
+    
+dados_visitantes:
+  - |
+    Esses gráficos mostram a quantidade de Visitantes novos e Visitantes de retorno ao logo do período completo do
+    espaço participativo e no período da semana. Visitantes novos são usuários que nuncam utilizaram a plataforma e os
+    Visitantes de retorno são aqueles que ao menos uma vez interagiram na plataforma.
 
 perfil_visitante:
   - |
@@ -57,3 +63,19 @@ participantes:
     de participantes e a distribuição de participantes com pontuações que variam de 0 à mais de 100 pontos, essa pontuação reflete
     diretamente em como o usuário se comportou na plataforma.
     Também é apresentado um histograma que indica a frequência de votos dados por participantes.
+
+dispositivos:
+  - |
+    Neste relatório, exploramos os dados relativos às visitas a um determinado site, analisando o 
+    tráfego por diferentes tipos de dispositivos. Ao investigar a distribuição de visitantes em 
+    relação aos dispositivos utilizados, podemos identificar tendências e preferências de acesso 
+    que podem ser valiosas para a tomada de decisões estratégicas.
+
+
+rodape:
+  - |
+    ¹ A taxa de rejeição é a porcentagem de visitantes que acessam uma única página em um site e saem 
+    (ou "rejeitam") sem interagir com outras páginas do site.
+
+    ² Visitas únicas representam o número de visitantes individuais únicos que acessaram
+    um site em um determinado período de tempo.
