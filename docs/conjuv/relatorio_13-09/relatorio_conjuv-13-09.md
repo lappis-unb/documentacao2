@@ -37,7 +37,7 @@ Abaixo, tem uma imagem do comportamento real de um usuário típico. Temos que a
 Nos próximos relatórios traremos mais detalhes desse uso e dos fluxos realizados pelos usuários.
 
 <p align="center">
-  <img src="../../conjuv/data/arquivos/painel_visitante.png"
+  <img src="../../relatorio_13-09/assets/painel_visitante.png"
  alt=" Exemplo de um Painel de Visitante"/>
 </p>
 
