@@ -46,7 +46,7 @@ Nos próximos relatórios traremos mais detalhes desse uso e dos fluxos realizad
 Esse gráfico monstra o comportamento da quantidade total de Propostas, Votos e comentários desde o inicio da 4 Conjuv até o dia 13/08.
 
 <p align="center">
-  <img src="../../conjuv/data/arquivos/conjuv_grafico.png"
+  <img src="../../relatorio_13-09/assets/conjuv_grafico.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -55,7 +55,7 @@ Esse gráfico monstra o comportamento da quantidade total de Propostas, Votos e 
 Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, durante o periodo do relatório.
 
 <p align="center">
-  <img src="../../conjuv/data/arquivos/conjuv_regiao.png"
+  <img src="../../relatorio_13-09/assets/conjuv_regiao.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 

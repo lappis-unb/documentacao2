@@ -48,7 +48,7 @@ Esse gráfico mostra o comportamento da quantidade total de Propostas, Votos e c
 
 
 <p align="center">
-  <img src="../../conjuv/data/arquivos/conjuv_grafico_geral_10-10.png"
+  <img src="../../relatorio_11-10/assets/conjuv_grafico_geral_10-10.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
@@ -84,7 +84,7 @@ Nos próximos relatórios traremos mais detalhes desse uso e dos fluxos realizad
 
 
 <p align="center">
-  <img src="../../conjuv/data/arquivos/painel_visitante_10-10.png"
+  <img src="../../relatorio_11-10/assets/painel_visitante_10-10.png"
  alt=" Exemplo de um Painel de Visitante"/>
 </p>
 
@@ -94,7 +94,7 @@ Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, dura
 
 
 <p align="center">
-  <img src="../../conjuv/data/arquivos/conjuv_regiao_geral_10-10.png"
+  <img src="../../relatorio_11-10/assets/conjuv_regiao_geral_10-10.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
@@ -104,7 +104,7 @@ Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, dura
 
 
 <p align="center">
-  <img src="../../conjuv/data/arquivos/conjuv_regiao_semana_10-10.png"
+  <img src="../../relatorio_11-10/assets/conjuv_regiao_semana_10-10.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
