@@ -1,4 +1,4 @@
-# **Fluxo de Moderação de conteúdos na plataforma Brasil Participativo**
+# Fluxo de Moderação de conteúdos na plataforma Brasil Participativo
 
 1. O usuário órgão deverá ter uma equipe mínima para a gestão do processo participativo na plataforma digital Brasil Participativo e _Telegram_.
 2. Cada processo participativo terá seu _bot_ no Telegram, onde os conteúdos das propostas deverão ser moderados por uma equipe do usuário órgão, que precisa verificar se há algum conteúdo de teor violento, ofensivo ou que viola direitos assegurados pela Constituição Federal e por outras leis que integram o nosso ordenamento jurídico.
