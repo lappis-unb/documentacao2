@@ -36,21 +36,21 @@ Abaixo, tem uma imagem do comportamento real de um usuário típico. Temos que a
 
 Nos próximos relatórios traremos mais detalhes desse uso e dos fluxos realizados pelos usuários.
 <p align="center">
-  <img src="../../relatorio_27-08/assets/painel_visitante.png"
+  <img src="../../relatorio_27-09/assets/painel_visitante.png"
  alt=" Exemplo de um Painel de Visitante"/>
 </p>
 
 ### *Qtd de Propostas, Votos e Comentários de 20/09 até 27/09*
 Esse gráfico monstra o comportamento da quantidade total de Propostas, Votos e comentários do dia 20/09 até 27/09.
 <p align="center">
-  <img src="../../relatorio_27-08/assets/conjuv_grafico.png"
+  <img src="../../relatorio_27-09/assets/conjuv_grafico.png"
  alt="Descrição do Gráfico 1"/>
 </p>
 
 ### **Mapa com a Qtd de visitas por UF**
 Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, durante o periodo do relatório.
 <p align="center">
-  <img src="../../relatorio_27-08/assets/conjuv_regiao.png"
+  <img src="../../relatorio_27-09/assets/conjuv_regiao.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
