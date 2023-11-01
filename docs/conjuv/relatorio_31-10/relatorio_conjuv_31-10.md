@@ -132,8 +132,7 @@ Nos próximos relatórios traremos mais detalhes desse uso e dos fluxos realizad
 </p>
 
 ### *Mapa com a Qtd de visitas por UF (Geral)*
-Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, do dia 31/08 até 31/10.
-
+Obs: Os dados de acesso do Distrito Federal não foram contabilizados.
 
 Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, durante o período do dia 31/08 até 11/10.
 
