@@ -142,6 +142,7 @@ Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, dura
 </p>
 
 ### *Mapa com a Qtd de visitas por UF (Semanal)*
+
 Esse mapa explica a quantidade de acessos por Unidade Federativa do Brasil, do dia 24/10 até 31/10.
 
 
