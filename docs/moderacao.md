@@ -1,8 +1,31 @@
-# Fluxo de Moderação de conteúdos na plataforma Brasil Participativo
 
-1. O usuário órgão deverá ter uma equipe mínima para a gestão do processo participativo na plataforma digital Brasil Participativo e _Telegram_.
-2. Cada processo participativo terá seu _bot_ no Telegram, onde os conteúdos das propostas deverão ser moderados por uma equipe do usuário órgão, que precisa verificar se há algum conteúdo de teor violento, ofensivo ou que viola direitos assegurados pela Constituição Federal e por outras leis que integram o nosso ordenamento jurídico.
+# Importância de moderação de conteúdo
+
+A moderação de conteúdo em processos participativos no Brasil Participativo é um elemento fundamental para garantir um ambiente online seguro, inclusivo e produtivo. Esse processo consiste na supervisão, avaliação e, quando necessário, na intervenção em interações e contribuições dos usuários. A moderação desempenha um papel crucial na promoção da civilidade e na manutenção de padrões de conduta aceitáveis, evitando a disseminação de conteúdo ofensivo, abusivo, desinformativo ou prejudicial. Além disso, ela viabiliza a preservação da qualidade das discussões, favorecendo a diversidade de perspectivas e o respeito à pluralidade de opiniões.
+
+A ausência ou deficiência na moderação pode resultar em uma série de problemas, impactando negativamente a dinâmica da plataforma. A proliferação de discurso de ódio, desinformação, spam, bullying online e outras formas de comportamento prejudicial podem minar a credibilidade da plataforma e desencorajar a participação ativa dos usuários. Isso pode levar à marginalização de grupos, à perda de confiança na comunidade e, em casos extremos, à violação das normas legais e dos direitos dos usuários.
+
+Portanto, a moderação eficaz não apenas protege os usuários de experiências negativas, mas também fortalece a integridade da plataforma, promovendo um ambiente inclusivo, seguro e propício ao engajamento construtivo e à troca saudável de ideias.
+
+# Como é feita a moderação na Plataforma Brasil Participativo
+
+1. Para cada processo participativo, é criado um bot que envia as propostas e comentários em tempo real para um grupo no telegram. Cada processo participativo terá seu _bot_ no Telegram, onde os conteúdos das propostas deverão ser moderados por uma equipe do usuário órgão, que precisa verificar se há algum conteúdo de teor violento, ofensivo ou que viola direitos assegurados pela Constituição Federal e por outras leis que integram o nosso ordenamento jurídico.
+
+2. O usuário órgão deverá ter uma equipe mínima para a gestão do processo participativo na plataforma digital Brasil Participativo e _Telegram_.
+ 
+
+3. Ao identificar propostas/comentários com conteúdo que possa violar termo de uso, a coordenação do processo deve decidir pela moderação do conteúdo e a razão pela moderação.
+
+
 3. Há conteúdo de teor violento, ofensivo ou que viola direitos? A proposta deverá ser **rejeitada**** e ocultada** no painel de admin da plataforma.
+
+
+4. A moderação é feita no painel administrador da plataforma. Além de rejeitar a proposta, deve-se documentar a razão da moderação para informar ao usuário. 
+
+5. Uma vez feito a moderação, garantir que o conteúdo não está mais disponível na plataforma.
+
+
+
 
 # São conteúdos com teor violento, ofensivo ou que violam direitos humanos
 
@@ -25,14 +48,12 @@
 9. Conteúdos falsos ou enganosos: conteúdos que propagam informações inverídicas ou enganosas que possam prejudicar a saúde ou a segurança das pessoas.
 
  
- **Caminho na Plataforma Brasil Participação**
+ # Como moderar na Plataforma Brasil Participativo
+
 ```
-Clicar na aba Assembleias → 4confjuv → ao lado esquerdo, Etapa Digital → 
+Clicar na aba Assembleias → Conferência → ao lado esquerdo, Etapa Digital → 
 buscar o ID da proposta a ser rejeitada → Abrir a proposta e clicar em rejeitada → responder com o texto padrão.
 ```
-
-
-
 
 **Mensagem Padrão:**
 ```
@@ -50,15 +71,14 @@ Reiteramos que o objetivo do (a) xxxxxx é proporcionar a participação
 Agradecemos novamente a sua participação.
 ```
 
-
 1. Se a proposta apresentar conteúdo de teor violento, ofensivo ou que viola direitos e que necessite ser ocultada da plataforma, seguir o passo a passo:
 
- **Caminho na Plataforma Brasil Participação**
+ **Caminho na Plataforma Brasil Participativo**
 ```
-Clicar na aba Assembleias → 4confjuv → ao lado esquerdo, Etapa Digital → 
+Clicar na aba Assembleias → Conferência → ao lado esquerdo, Etapa Digital → 
 buscar o ID da proposta a ser ocultada → clicar no link da proposta → 
 clicar na bandeirinha ao lado da proposta e escolher o motivo da denúncia → 
-retornar ao menu da 4confjuv e clicar em Moderação → 
+retornar ao menu da Conferência e clicar em Moderação → 
 localizar a proposta e clicar em ocultar.
 ```
 
@@ -67,9 +87,9 @@ localizar a proposta e clicar em ocultar.
 2. Se o conteúdo da proposta configurar crime, o usuário órgão poderá acionar, de acordo com a avaliação da área, a assessoria jurídica do usuário órgão para as devidas providências e notificar a Secretaria Nacional de Participação Social (SNPS) via SUPER para o bloqueio definitivo do usuário na plataforma Brasil Participativo.
 3. Não há conteúdo de teor violento, ofensivo ou que viola direitos, mas a proposta está fora do escopo do processo participativo? É uma mensagem que não contém proposta de política pública? É uma proposta que contém pedidos pessoais? A proposta poderá ser **rejeitada na plataforma e, dependendo do conteúdo, pode conter uma mensagem padrão específica.**
 
- **Caminho na Plataforma Brasil Participação**
+ **Caminho na Plataforma Brasil Participativo**
 ```
-Clicar na aba Assembleias → 4confjuv → ao lado esquerdo, Etapa Digital → 
+Clicar na aba Assembleias → Conferência → ao lado esquerdo, Etapa Digital → 
 buscar o ID da proposta a ser rejeitada → Abrir a proposta e 
 clicar em rejeitada → responder com o texto padrão.
 ```
@@ -178,10 +198,10 @@ Agradecemos novamente a sua participação.
 
 1. Não há conteúdo de teor violento, ofensivo ou que viola direitos? A proposta pode ser **recebida** no painel de admin.
 
- **Caminho na Plataforma Brasil Participação**
+ **Caminho na Plataforma Brasil Participativo**
 
  ```
-  Clicar na aba Assembleias → 4confjuv → ao lado esquerdo, Etapa Digital → buscar o ID da proposta a ser
+  Clicar na aba Assembleias → Conferência → ao lado esquerdo, Etapa Digital → buscar o ID da proposta a ser
    recebida → Abrir a proposta e clicar em recebida → responder com o texto padrão.
 ```
 

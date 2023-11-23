@@ -30,30 +30,6 @@ As funcionalidades básicas disponibilizadas na plataforma Brasil participativo,
 12. **Documentação de apoio**: documentação para gerir a conferência na plataforma.
 
 
-## Responsabilidades dos Organizadores da conferência
-
-Para que seja possível utilizar a plataforma Brasil Participativo para a organização de Conferências Nacionais, a organização deve disponibilizar e se comprometer os seguintes recursos:
-
-1. Uma pessoa da para a administrador do espaço da conferência. Tarefa dessa pessoa: registrar informações na plataforma,exportar relatórios, dados, e moderar propostas que violam os termos de uso da plataforma/conferência.
-
-2. Kit divulgação/comunicação - banner, conteúdos a serem disponibilizados na plataforma. Além de registrar na plataforma os dados referentes à conferência - perguntas frequentes, nomes da comissão organizadora, resoluções e qualquer documentação norteadora da conferência
-
-3. Pessoas moderadoras para a etapa digital - sugerimos que pessoas que conheçam da legislação dos eixos temáticos da conferência moderem as propostas e comentários na plataforma. 
-
-4. Teste e validação do espaço da conferência
-
-
-## Responsabilidade da Secretaria
-
-A Secretaria de Participação Digital, por meio da Diretoria de Participação Digital, tem os seguintes compromissos com as comissões organizadoras de conferências:
-
-- Disponibilizar um espaço de conferência e dar acesso administrador do espaço para a comissão organizadora da conferência
-
-- Capacitar pessoas moderadoras, administradoras da plataforma
-
-- Gerar os relatórios semanais da participação referentes à conferência na plataforma
-
-- Dar consultorias e tirar dúvidas pontuais do processo
 
 
 
