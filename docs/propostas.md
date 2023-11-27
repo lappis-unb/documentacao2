@@ -74,7 +74,8 @@ Após importar o arquivo e publicar o documento, o Texto Participativo estará d
 ## Observações sobre a importação do Markdown
 
 Textos participativos são divididos em 3 tipos de blocos:
-- Seção: produzida por cabeçalhos principais (parágrafos começando com "# ")
+
+- Seção: produzida por cabeçalhos principais (parágrafos começando com "#")
 
 - Subseção: produzida por cabeçalhos secundários (parágrafos começando com mais de um "#") até 6 níveis.
   
