@@ -75,7 +75,9 @@ Após importar o arquivo e publicar o documento, o Texto Participativo estará d
 
 Textos participativos são divididos em 3 tipos de blocos:
 - Seção: produzida por cabeçalhos principais (parágrafos começando com "# ")
+
 - Subseção: produzida por cabeçalhos secundários (parágrafos começando com mais de um "#") até 6 níveis.
+  
 - Artigo: produzido por parágrafos e listas.
 
 Para parágrafos e listas, todos os blocos devem ser separados por uma linha em branco entre eles.
