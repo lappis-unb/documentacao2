@@ -13,10 +13,10 @@ Nela é visivél que já tem um template de colegiados prontos e tudo que precis
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20Assembleias%201.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 01 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 01 (Fonte: DECIDIM 2024)
 </p></h6>
 
-## Duplicando uma assembléia
+## Duplicando o template de colegiados
 
 <p align="justify">
 &emsp;&emsp; Após selecionar a opção de duplicar presente na Imagem 01, o administrador é direcionado para a tela representada pela Imagem 02.
@@ -27,7 +27,7 @@ Onde para duplicar a assembléia é necessário alterar o Título (mas não é o
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20duplicar%20assembleia%201.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 02 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 02 (Fonte: DECIDIM 2024)
 </p></h6>
 
 Na Imagem 03 tem um exemplo de como os campos podem ser alterados.
@@ -36,7 +36,7 @@ Na Imagem 03 tem um exemplo de como os campos podem ser alterados.
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20duplicar%20assembleia%202.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 03 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 03 (Fonte: DECIDIM 2024)
 </p></h6>
 
 E na Imagem 04 já apresenta a assembléia duplicada listada entre as outras assembléias já existentes.
@@ -45,7 +45,7 @@ E na Imagem 04 já apresenta a assembléia duplicada listada entre as outras ass
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20Assembleias%202.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 04 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 04 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
@@ -56,14 +56,14 @@ E na Imagem 04 já apresenta a assembléia duplicada listada entre as outras ass
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20template%20duplicado%201.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 05 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 05 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20template%20duplicado%202.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 06 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 06 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
@@ -74,14 +74,14 @@ E na Imagem 04 já apresenta a assembléia duplicada listada entre as outras ass
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20template%20duplicado%203.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 07 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 07 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20template%20duplicado%20-%20alterar%20ambito.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 08 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 08 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
@@ -92,10 +92,10 @@ E na Imagem 04 já apresenta a assembléia duplicada listada entre as outras ass
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20template%20duplicado%204.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 09 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 09 (Fonte: DECIDIM 2024)
 </p></h6>
 
-## Os componentes
+### Os componentes
 
 <p align="justify">
 &emsp;&emsp; Na Imagem 05 está marcado na cor laranja na lateral esquerda o que da acesso aos 'componentes' e ao clicar nele o usuário será direcionado para uma tela como a da Imagem 10, onde vemos componentes necessário para fazer um colegiado funcionar, eles são a prestação de contas, os debates e as reuniões. 
@@ -106,7 +106,7 @@ Esses componentes vem importados da assembléia "Template Colegiados Gts" duplic
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20componentes%20do%20template%20duplicado.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 10: (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 10: (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
@@ -117,27 +117,68 @@ Esses componentes vem importados da assembléia "Template Colegiados Gts" duplic
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20colegiado%20bp.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 11: (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 11: (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20prestacao%20de%20contas.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 12: (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 12: (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20debates.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 13: (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 13: (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20reuniao.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 14: (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 14: (Fonte: DECIDIM 2024)
 </p></h6>
 
+### Um novo debate
+<p align="justify">
+&emsp;&emsp; Para criar um novo tópico dentro de debates basta selecionar o botão 'novo debate' disponível na Imagem 13.
+</p>Após fazer isso, será direcionado para uma página como a representada na Imagem 15, assim é só preencher todos os campos.  
+
+<figure markdown>
+<img src= "" alt="Colegiados" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)
+</p></h6>
+
+Na Imagem 16 tem um exemplo de como ficam os debates adicionadosna página após preencher todos os campos disponiveis na Imagem 15.
+
+<figure markdown>
+<img src= "" alt="Colegiados" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 16 (Fonte: DECIDIM 2024)
+</p></h6>
+
+### Uma nova reunião
+<p align="justify">
+&emsp;&emsp; Para criar uma nova reunião basta selecionar o botão 'nova reunião' disponível na Imagem 14.
+</p>Após fazer isso, será direcionado para uma página como a representada na Imagem 17, assim é só preencher todos os campos.
+
+<figure markdown>
+<img src= "" alt="Colegiados" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 17 (Fonte: DECIDIM 2024)
+</p></h6>
+
+Na Imagem 18 tem um exemplo de como ficam as reuniões adicionadas na página após preencher todos os campos disponiveis na Imagem 17.
+
+<figure markdown>
+<img src= "" alt="Colegiados" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 18 (Fonte: DECIDIM 2024)
+</p></h6>
