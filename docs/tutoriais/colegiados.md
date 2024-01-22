@@ -128,14 +128,14 @@ Esses componentes vem importados da assembléia "Template Colegiados Gts" duplic
 </p></h6>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/Colegiados/docs/assetsTutoriais/colegiados/Tela%20debates.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20debates.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 13: (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/Colegiados/docs/assetsTutoriais/colegiados/Tela%20reuniao.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/Tela%20reuniao.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 14: (Fonte: DECIDIM 2024)
@@ -147,7 +147,7 @@ Esses componentes vem importados da assembléia "Template Colegiados Gts" duplic
 </p>  
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/Colegiados/docs/assetsTutoriais/colegiados/novo%20debate.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/novo%20debate.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)
@@ -156,7 +156,7 @@ Esses componentes vem importados da assembléia "Template Colegiados Gts" duplic
 Na Imagem 16 tem um exemplo de como ficam os debates adicionados na página após preencher todos os campos disponiveis na Imagem 15.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/Colegiados/docs/assetsTutoriais/colegiados/exemplo%20debates%20criados.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/exemplo%20debates%20criados.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 16 (Fonte: DECIDIM 2024)
@@ -168,7 +168,7 @@ Na Imagem 16 tem um exemplo de como ficam os debates adicionados na página apó
 </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/Colegiados/docs/assetsTutoriais/colegiados/nova%20reuni%C3%A3o.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/nova%20reuni%C3%A3o.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 17 (Fonte: DECIDIM 2024)
@@ -177,7 +177,7 @@ Na Imagem 16 tem um exemplo de como ficam os debates adicionados na página apó
 Na Imagem 18 tem um exemplo de como ficam as reuniões adicionadas na página após preencher todos os campos disponiveis na Imagem 17.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/Colegiados/docs/assetsTutoriais/colegiados/exemplo%20reuni%C3%B5es%20criadas.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/colegiados/exemplo%20reuni%C3%B5es%20criadas.png?ref_type=heads" alt="Colegiados" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 18 (Fonte: DECIDIM 2024)
