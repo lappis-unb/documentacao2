@@ -57,6 +57,7 @@ nav:
   - 'Jornada da Presidência': 'jornadadapresidencia.md'
   - 'Jornada da Comissão Organizadora': 'jornadacomissaoorg.md'
   - 'Tutoriais de Criação':
+    - 'Sumário de Documentações': 'tutoriais/sumario.md'
     - 'Colegiados': 'tutoriais/colegiados.md'
     - 'Questionário Perfil': 'tutoriais/perfil.md'
     
