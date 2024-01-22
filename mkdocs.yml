@@ -59,6 +59,7 @@ nav:
   - 'Tutoriais de Criação':
     - 'Colegiados': 'tutoriais/colegiados.md'
     - 'Questionário Perfil': 'tutoriais/perfil.md'
+    
   - 'Relatórios Semanais Automatizados':
     - 'Relatório 13/09': 'conjuv/relatorio_13-09/relatorio_conjuv-13-09.md'
     - 'Relatório 27/09': 'conjuv/relatorio_27-09/relatorio_conjuv-27-09.md'
