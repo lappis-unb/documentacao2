@@ -4,15 +4,15 @@
 
 ## Perfil
 
-* [Template]()
+* [Template](https://lab-decide.dataprev.gov.br/processes/Enquete-Perfil)
 * [Documentação de criação]()
 * [Exemplo do Participa +]()
 
 ## Consulta Pública
 
-* [Template]()
-* [Documentação de criação]()
-* [Exemplo do Participa +]()
+* [Template](https://lab-decide.dataprev.gov.br/processes/consultaspublicas)
+* [Documentação de criação](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/consultaspublicas/)
+* [Exemplo do Participa +](https://www.gov.br/participamaisbrasil/consultas-publicas)
 	* 
 
 ## Enquete
@@ -25,7 +25,7 @@
 	
 ## Audiências Públicas
 
-* [Template]()
+* [Template](https://lab-decide.dataprev.gov.br/processes/Audiencia)
 * [Documentação de criação]()
 * [Exemplo do Participa +]()
 * Requisitos Faltantes:
@@ -33,8 +33,8 @@
 
 ## Colegiados
 
-* [Template]()
-* [Documentação de criação]()
-* [Exemplo do Participa +]()
+* [Template](https://lab-decide.dataprev.gov.br/assemblies/colegiados-gts)
+* [Documentação de criação](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/colegiados/)
+* [Exemplo do Participa +](https://www.gov.br/participamaisbrasil/colegiados)
 * Requisitos Faltantes:
 	* 
