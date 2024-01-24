@@ -43,28 +43,28 @@ de mobilização e de comunicação na plataforma.
 ### Estatisticas de Visitas
 
 <p align="center">
-  <img src="../../assets/visits.png"
+  <img src="../..//engd/assets/visits.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
 ### Visitas por UF
 
 <p align="center">
-  <img src="../../assets/uf.png"
+  <img src="../../engd/assets/uf.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
 ### Acessos por Dispositivos
 
 <p align="center">
-  <img src="../../assets/devices.png"
+  <img src="../../engd/assets/devices.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
 ### Proporcão de Acessos pela Porcentagem de População de cada UF
 
 <p align="center">
-  <img src="../../assets/proporcao.png"
+  <img src="../../engd/assets/proporcao.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
