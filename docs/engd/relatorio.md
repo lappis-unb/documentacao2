@@ -49,22 +49,25 @@ de mobilização e de comunicação na plataforma.
 
 ### Visitas por UF
 
+Esse mapa de calor indica a quantidade total de acessos por Unidade Federativa do Brasil.
+
+
 <p align="center">
-  <img src="../../engd/assets/uf.png"
+  <img src="../../assets/uf.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
 ### Acessos por Dispositivos
 
 <p align="center">
-  <img src="../../engd/assets/devices.png"
+  <img src="../../assets/devices.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
 ### Proporcão de Acessos pela Porcentagem de População de cada UF
 
 <p align="center">
-  <img src="../../engd/assets/proporcao.png"
+  <img src="../../assets/proporcao.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
