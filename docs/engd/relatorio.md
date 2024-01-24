@@ -51,7 +51,6 @@ de mobilização e de comunicação na plataforma.
 
 Esse mapa de calor indica a quantidade total de acessos por Unidade Federativa do Brasil.
 
-
 <p align="center">
   <img src="../../assets/uf.png"
  alt="Descrição do Gráfico 2"/>
