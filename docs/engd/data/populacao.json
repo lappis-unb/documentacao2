@@ -1,0 +1,137 @@
+{
+    "S\u00e3o Paulo": {
+        "UF": "SP",
+        "populacao": 44420459,
+        "porcentagem": 21.88
+    },
+    "Minas Gerais": {
+        "UF": "MG",
+        "populacao": 20538718,
+        "porcentagem": 10.11
+    },
+    "Rio de Janeiro": {
+        "UF": "RJ",
+        "populacao": 16054524,
+        "porcentagem": 7.91
+    },
+    "Bahia": {
+        "UF": "BA",
+        "populacao": 14136417,
+        "porcentagem": 6.96
+    },
+    "Paran\u00e1": {
+        "UF": "PR",
+        "populacao": 11443208,
+        "porcentagem": 5.64
+    },
+    "Rio Grande do Sul": {
+        "UF": "RS",
+        "populacao": 10880506,
+        "porcentagem": 5.36
+    },
+    "Pernambuco": {
+        "UF": "PE",
+        "populacao": 9058155,
+        "porcentagem": 4.46
+    },
+    "Cear\u00e1": {
+        "UF": "CE",
+        "populacao": 8791688,
+        "porcentagem": 4.33
+    },
+    "Par\u00e1": {
+        "UF": "PA",
+        "populacao": 8116132,
+        "porcentagem": 4
+    },
+    "Santa Catarina": {
+        "UF": "SC",
+        "populacao": 7609601,
+        "porcentagem": 3.75
+    },
+    "Goi\u00e1s": {
+        "UF": "GO",
+        "populacao": 7055228,
+        "porcentagem": 3.47
+    },
+    "Maranh\u00e3o": {
+        "UF": "MA",
+        "populacao": 6775152,
+        "porcentagem": 3.34
+    },
+    "Para\u00edba": {
+        "UF": "PB",
+        "populacao": 3974495,
+        "porcentagem": 1.96
+    },
+    "Amazonas": {
+        "UF": "AM",
+        "populacao": 3941175,
+        "porcentagem": 1.94
+    },
+    "Esp\u00edrito Santo": {
+        "UF": "ES",
+        "populacao": 3833486,
+        "porcentagem": 1.89
+    },
+    "Mato Grosso": {
+        "UF": "MT",
+        "populacao": 3658813,
+        "porcentagem": 1.8
+    },
+    "Rio Grande do Norte": {
+        "UF": "RN",
+        "populacao": 3302406,
+        "porcentagem": 1.63
+    },
+    "Piau\u00ed": {
+        "UF": "PI",
+        "populacao": 3269200,
+        "porcentagem": 1.61
+    },
+    "Alagoas": {
+        "UF": "AL",
+        "populacao": 3127511,
+        "porcentagem": 1.54
+    },
+    "Distrito Federal": {
+        "UF": "DF",
+        "populacao": 2817068,
+        "porcentagem": 1.39
+    },
+    "Mato Grosso do Sul": {
+        "UF": "MS",
+        "populacao": 2756700,
+        "porcentagem": 1.36
+    },
+    "Sergipe": {
+        "UF": "SE",
+        "populacao": 2209558,
+        "porcentagem": 1.09
+    },
+    "Rond\u00f4nia": {
+        "UF": "RO",
+        "populacao": 1581016,
+        "porcentagem": 0.78
+    },
+    "Tocantins": {
+        "UF": "TO",
+        "populacao": 1511459,
+        "porcentagem": 0.74
+    },
+    "Acre": {
+        "UF": "AC",
+        "populacao": 830026,
+        "porcentagem": 0.41
+    },
+    "Amap\u00e1": {
+        "UF": "AP",
+        "populacao": 733508,
+        "porcentagem": 0.36
+    },
+    "Roraima": {
+        "UF": "RR",
+        "populacao": 636303,
+        "porcentagem": 0.31
+    }
+}
