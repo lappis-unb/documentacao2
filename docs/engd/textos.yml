@@ -20,3 +20,8 @@ dados_acesso:
     mas não realiza qualquer ação na mesma. Essas métricas auxiliam os organizadores a verificar se a
     quantidade de acesso na plataforma está de acordo com o previsto. Essas métricas também guiam a revisita das estratégias
     de mobilização e de comunicação na plataforma.
+
+dados_uf:
+  - |
+    Esse mapa de calor indica a quantidade total de acessos por Unidade Federativa do Brasil.
+    

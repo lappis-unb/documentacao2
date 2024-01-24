@@ -43,7 +43,7 @@ de mobilização e de comunicação na plataforma.
 ### Estatisticas de Visitas
 
 <p align="center">
-  <img src="../..//engd/assets/visits.png"
+  <img src="../../engd/assets/visits.png"
  alt="Descrição do Gráfico 2"/>
 </p>
 
