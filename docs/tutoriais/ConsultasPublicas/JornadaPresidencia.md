@@ -1,11 +1,13 @@
 # Consultas Públicas
 
-## O que é uma consulta pública?
+## Jornada da Presidência
+
+### O que é uma consulta pública?
 <p align="justify">
 &emsp;&emsp;A consulta pública tem como objetivo facilitar o diálogo entre a administração pública e os cidadãos, em conformidade com os princípios da Legalidade, Moralidade, Eficiência, Publicidade, Transparência e Motivação.
 </p>  Este processo participativo, de natureza consultiva, ocorre por um período determinado e está aberto a qualquer interessado, com a finalidade de coletar contribuições sobre um assunto específico. Ele promove a participação ativa da sociedade na elaboração e definição de políticas públicas. 
 
-## Introdução
+### Introdução
 <p align="justify">
 &emsp;&emsp;O presente documento tem como objetivo explicar como criar uma consulta pública, exemplificando como funcionam os pontos importantes, e alguns componentes do decidim dentro do módulo "Processos". Além de fornecer um tutorial, demonstrando a atualização dos dados da consulta pública e a utilização de suas funcionalidades.
 </p>  
@@ -45,7 +47,7 @@ E dentro de "CONTEÚDO" representada pela Imagem 04 estará disponível o texto 
 <h6 align = "center">Imagem 04 (Fonte: DECIDIM 2024)
 </p></h6>
 
-## Duplicando o template de consulta pública
+### Duplicando o template de consulta pública
 <p align="justify">
 &emsp;&emsp; Voltando a tela inicial mas dessa vez representada pela Imagem 05, é possivél encontrar as consultas públicas já cadastradas marcadas de amarelo e para duplicar alguma delas como template o botão está direcionado por uma seta vermelha.
 </p>  
@@ -69,89 +71,58 @@ Onde para duplicar o processo é necessário alterar o Título, a Url e selecion
 <h6 align = "center">Imagem 06 (Fonte: DECIDIM 2024)
 </p></h6>
 
-Se selecionar a parte em amarelo que tem as consultas públicas já cadastradas presente na Imagem 05, será possivel encontrar todas as informações importantes dessa consulta e alterada-las.
-
-Na Imagem 07, podemos visualizar e alterar o título, subtítulo e a url.
+### Adicionando um administrador na Consulta Pública
+<p align="justify">
+&emsp;&emsp; Na tela inicial assim como na Imagem 07, encontramos as consultas públicas já cadastradas marcadas de amarelo, e ao selecionar uma delas é possivel adicionar um novo administrador.
+</p>  
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/alterar%20infos%20pt1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/tela%20inical%20-%20consultas%20publicas.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 07 (Fonte: DECIDIM 2024)
 </p></h6>
 
-Na Imagem 08, podemos visualizar e alterar a descrição curta e a descrição dessa consulta pública.
+Como mostra na Imagem 08, basta entrar no espaço "Usuários do processo" e selecionar o botão "Novo usuário do processo" marcado de laranja.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/alterar%20infos%20pt2.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/Adiciona%20Admin.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 08 (Fonte: DECIDIM 2024)
 </p></h6>
 
-Na Imagem 09, podemos visualizar e alterar o tempo de duração da consulta pública com a data de inicio e a data final.
+E terá os campos "Nome", "Email" e "Cargo" disponíveis para ser preenchidos como na Imagem 09.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/alterar%20infos%20pt3.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/Dados%20solicitatos.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 09 (Fonte: DECIDIM 2024)
 </p></h6>
 
-Na Imagem 10, podemos visualizar e alterar os filtros dessa consulta pública, sendo importante deixar com a visibilidade destacada.
+Na Imagem 10, conseguimos ver exemplificado como devem ser preenchidos esses campos e logo em seguida na Imagem 11 podemos ver a confirmação do novo admistrador do processo.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/alterar%20infos%20pt4.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/Dados%20preenchidos.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 10 (Fonte: DECIDIM 2024)
 </p></h6>
 
-Na Imagem 11, podemos visualizar e alterar os procesos relacionados e o tipo de  processo participativo dessa consulta pública.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/alterar%20infos%20pt5.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/Confirmacao%20do%20novo%20admin.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 11 (Fonte: DECIDIM 2024)
 </p></h6>
 
-## O texto participativo
-<p align="justify">
-&emsp;&emsp; Como foi exemplificado no inicio do documento na Imagem 04, as consultas públicas contam com o texto partcipativo, e para adicionar essses textos basta abrir os componentes da consulta pública que você duplicou, lá já vai ser possivel ver um componente do tipo "propostas" denominado CONTEÚDO, como a Imagem 12.
-</p>  
+Também tem outro meio de confirmação, o novo administrador recebe um email informando que foi atribuído o cargo administrador dentro da consulta pública para ele assim como está exemplificado na Imagem 12. 
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/componentes.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/Email%20informativo.jpg?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 12 (Fonte: DECIDIM 2024)
-</p></h6>
-
-Ao selecionar o componente marcado de rosa na Imagem 12, será possivel visual a Tela representada pela Imagem 13 onde tem o botão de Texto participativos direcionado por uma seta que quando selecionado te permite enviar o documento.
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/add%20texto%20participativo%20pt1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
-</figure>
-<p align="justify">
-<h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)
-</p></h6>
-
-Aqui na Imagem 14 tem um botão para importar o documento direcionado por uma seta. 
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/add%20texto%20participativo%20pt2.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
-</figure>
-<p align="justify">
-<h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)
-</p></h6>
-
-Após selecionar o botão da Imagem 14, será direcionado para a Imagem 15 onde finalmente será possivél adicionar o documento, basta preencher os campos marcados de amarelo que são de título e descrição, também é importante que o documento seja no formato Markdown ou ODT, qualquer outro tipo não será aceito o envio.
-Pra finalizar basta selecionar o botão para carregar o documento. 
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/add%20texto%20participativo%20pt3.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
-</figure>
-<p align="justify">
-<h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)
 </p></h6>
