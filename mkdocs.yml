@@ -58,10 +58,18 @@ nav:
   - 'Jornada da Comissão Organizadora': 'jornadacomissaoorg.md'
   - 'Tutoriais de Criação':
     - 'Sumário de Documentações': 'tutoriais/sumario.md'
-    - 'Colegiados': 'tutoriais/colegiados.md'
-    - 'Questionário Perfil': 'tutoriais/perfil.md'
-    - 'Consultas Públicas': 'tutoriais/consultaspublicas.md'
-    - 'Audiências Públicas': 'tutoriais/audienciaspublicas.md'
+    - 'Colegiados': 
+      - 'Jornada da Presidência': 'tutoriais/Colegiados/JornadaPresidencia.md'
+      - 'Jornada do Órgão': 'tutoriais/Colegiados/JornadaOrgao.md'
+    - 'Questionário Perfil': 
+      - 'Jornada da Presidência': 'tutoriais/QuestionarioPerfil/JornadaPresidencia.md'
+      - 'Jornada do Órgão': 'tutoriais/Colegiados/JornadaOrgao.md'
+    - 'Consultas Públicas': 
+      - 'Jornada da Presidência': 'tutoriais/ConsultasPublicas/JornadaPresidencia.md'
+      - 'Jornada do Órgão': 'tutoriais/ConsultasPublicas/JornadaOrgao.md'
+    - 'Audiências Públicas':
+      - 'Jornada da Presidência': 'tutoriais/AudienciasPublicas/JornadaPresidencia.md'
+      - 'Jornada do Órgão': 'tutoriais/AudienciasPublicas/JornadaOrgao.md'
     
   - 'Relatórios Semanais Automatizados':
     - 'Relatório 13/09': 'conjuv/relatorio_13-09/relatorio_conjuv-13-09.md'
