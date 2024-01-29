@@ -11,7 +11,8 @@
 ## Consulta Pública
 
 * [Template](https://lab-decide.dataprev.gov.br/processes/consultaspublicas)
-* [Documentação de criação](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/consultaspublicas/)
+* [Jornada Presidência](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/ConsultasPublicas/JornadaPresidencia/)
+* [Jornada Órgão](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/ConsultasPublicas/JornadaOrgao/)
 * [Exemplo do Participa +](https://www.gov.br/participamaisbrasil/consultas-publicas)
 	* 
 
@@ -26,15 +27,17 @@
 ## Audiências Públicas
 
 * [Template](https://lab-decide.dataprev.gov.br/processes/Audiencia)
-* [Documentação de criação]()
-* [Exemplo do Participa +]()
+* [Jornada Presidência](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/AudienciasPublicas/JornadaPresidencia/)
+* [Jornada Órgão](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/AudienciasPublicas/JornadaOrgao/)
+* [Exemplo do Participa +](https://www.gov.br/participamaisbrasil/audiencias-publicas)
 * Requisitos Faltantes:
 	* 
 
 ## Colegiados
 
 * [Template](https://lab-decide.dataprev.gov.br/assemblies/colegiados-gts)
-* [Documentação de criação](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/colegiados/)
+* [Jornada Presidência](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/Colegiados/JornadaPresidencia/)
+* [Jornada Órgão](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/Colegiados/JornadaOrgao/)
 * [Exemplo do Participa +](https://www.gov.br/participamaisbrasil/colegiados)
 * Requisitos Faltantes:
 	* 
