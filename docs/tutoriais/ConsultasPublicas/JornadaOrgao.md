@@ -53,7 +53,7 @@ E dentro de "CONTEÚDO" representada pela Imagem 04 estará disponível o texto 
 </p>  
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/alterar%20infos%20pt1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/Acesso%20admin.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 05 (Fonte: DECIDIM 2024)
