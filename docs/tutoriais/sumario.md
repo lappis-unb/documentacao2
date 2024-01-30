@@ -5,7 +5,8 @@
 ## Perfil
 
 * [Template](https://lab-decide.dataprev.gov.br/processes/Enquete-Perfil)
-* [Documentação de criação]()
+* [Jornada Presidência](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/QuestionarioPerfil/JornadaPresidencia/)
+* [Jornada Órgão](https://documentacao-lappis-unb-decidimbr-0bc4b1f026bf71df159b7aaaa9694.gitlab.io/tutoriais/QuestionarioPerfil/JornadaOrgao/)
 * [Exemplo do Participa +]()
 
 ## Consulta Pública

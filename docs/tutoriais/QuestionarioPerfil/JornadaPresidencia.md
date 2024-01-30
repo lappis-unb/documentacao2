@@ -13,14 +13,14 @@
 </p>
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/processos.png" alt="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/processos.png?ref_type=heads" alt="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 01: (Fonte: DECIDIM 2024)
 </p>
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/CriandoUmProcesso.png" alt="perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/CriandoUmProcesso.png?ref_type=heads" alt="perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 02: (Fonte: DECIDIM 2024)
@@ -29,13 +29,10 @@
 <p align="justify">
 &emsp;&emsp; Já dentro do espaço do Novo Processo Participativo, indique um título, um subtítulo e um nome para a URL, pois são campos obrigatórios.
 </p>
-
-<p align="justify">
-&emsp;&emsp; Ao selecionar "criar", representada pela Imagem 04, você cria um novo processo.  
-</p>
+ Ao selecionar "criar", representada pela Imagem 04, você cria um novo processo.  
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/CriarProcesso.png" alt="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/CriarProcesso.png?ref_type=heads" alt="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 03: (Fonte: DECIDIM 2024)
@@ -48,7 +45,7 @@
 </p>  
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/enquete_obg.png" alt="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/enquete_obg.png?ref_type=heads" alt="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 04: (Fonte: DECIDIM 2024)
@@ -59,7 +56,7 @@ Após selecionar a opção de duplicar presente na Imagem 04, o administrador é
 Onde para duplicar o processo é necessário alterar o Título, a Url e selecionar o campos com os dados que deseja copiar.
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/alterar-duplic.png" alt="Audiencia Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/alterar-duplic.png?ref_type=heads" alt="Audiencia Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 05 (Fonte: DECIDIM 2024)

@@ -13,7 +13,7 @@
 </p>Nela é possível selecionar processo que queira editar.
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/enquete_obg.png" alt="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/enquete_obg.png?ref_type=heads" alt="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 01: (Fonte: DECIDIM 2024)
@@ -28,14 +28,14 @@
 </p>
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/criando_enquete_em_processos.png" alt-="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/criandoenquete_em_processos.png?ref_type=heads" alt-="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 02:(Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/enquete_criada.png"  alt-="Perfil" style="float: none; margin: auto" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/enquete_criada.png?ref_type=heads"  alt-="Perfil" style="float: none; margin: auto" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 03:(Fonte: DECIDIM 2024)
@@ -46,13 +46,13 @@
 </p> Clique no lapís para criar suas perguntas e adicionar seus termos como representado na imagem 05.
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/Criar_questao.png" style="float: none; margin: auto" alt="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/Criar_questao.png?ref_type=heads" style="float: none; margin: auto" alt="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 04:(Fonte: DECIDIM 2024)
 </p></h6>
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/criando.png"  alt-="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/criando.png?ref_type=heads"  alt-="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 05: (Fonte: DECIDIM 2024)
@@ -63,7 +63,7 @@
 </p>
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/salvando_a_enquete.png" alt="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/salvando_a_enquete.png?ref_type=heads" alt="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 06:(Fonte: DECIDIM 2024)
@@ -74,7 +74,7 @@
 </p>
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/PrimeiraQuestao.png" alt="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/PrimeiraQuestao.png?ref_type=heads" alt="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 07:(Fonte: DECIDIM 2024)
@@ -84,7 +84,7 @@
 &emsp;&emsp;Na Imagem 08 é mostrado o termo de serviço, que é obrigatório para a criação, e um exemplo .
 </p>
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/TermosDeServiço.png" alt="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/termos_de_servi%C3%A7o.png?ref_type=heads" alt="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 08:(Fonte: DECIDIM 2024)
@@ -93,8 +93,9 @@
 <p align="justify">
 &emsp;&emsp; Ao clicar em "pré-visualização", mostrado na imagem 09, Você consegue ver como está sua enquete! 
 </p>
+
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/PréVisu.png" alt="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/Pr%C3%A9Visu.png?ref_type=heads" alt="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 09: (Fonte: DECIDIM 2024)
@@ -105,7 +106,7 @@
 </p>
 
 <figure markdown>
-<img src= "../../assetsTutoriais/Perfil/Salvando.png" alt="Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/Perfil/Salvando.png?ref_type=heads" alt="Perfil" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 10:(Fonte: DECIDIM 2024)
