@@ -20,7 +20,7 @@
 </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJP/Jornada%20da%20Presidencia%20pt.01.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Tela%20inicial.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 01: Tela Inicial (Fonte: DECIDIM 2023)
@@ -31,7 +31,7 @@
 </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJP/Jornada%20da%20Presidencia%20pt.02.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Tela%20inicial%20-%20duplicar.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 02: Tela Inicial (Fonte: DECIDIM 2023)
@@ -42,7 +42,7 @@
 </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJP/Jornada%20da%20Presidencia%20pt.03.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Tela%20duplicar.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 03: Tela Duplicar Conferência (Fonte: DECIDIM 2023)
@@ -53,7 +53,7 @@
 </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJP/Jornada%20da%20Presidencia%20pt.04.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Tela%20duplicar%20-%20novo%20nome.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 04: Tela Duplicar Conferência (Fonte: DECIDIM 2023)
@@ -64,14 +64,14 @@
 </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJP/Jornada%20da%20Presidencia%20pt.05.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Tela%20duplicada.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center"> Imagem 05: Tela Inicial Atualizada (Fonte: DECIDIM 2023)
 </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJP/Jornada%20da%20Presidencia%20pt.06.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Tela%20duplicada%202.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center"> Imagem 06: Tela Inicial Atualizada (Fonte: DECIDIM 2023)
@@ -94,7 +94,7 @@
 </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJP/Jornada%20da%20Presidencia%20pt.08.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Tela%20novo%20admin.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="center">
  <h6 align = "center"> Imagem 08: Tela Administradores da assembléia (Fonte: DECIDIM 2023).</h6>
@@ -105,7 +105,7 @@
 </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJP/Jornada%20da%20Presidencia%20pt.09.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Tela%20administradores%20do%20processo.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="center">
  <h6 align = "center"> Imagem 09: Tela Administradores da assembléia (Fonte: DECIDIM 2023).</h6>
@@ -116,7 +116,7 @@
 </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJP/Jornada%20da%20Presidencia%20pt.10.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Tela%20administrradores%20do%20processo%20atualizado.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="center">
  <h6 align = "center"> Imagem 10: Tela Administradores da assembléia atualizada (Fonte: DECIDIM 2023).</h6>
