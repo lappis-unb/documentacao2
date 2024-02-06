@@ -2,7 +2,7 @@
 
 ## Introdução
 <p align="justify">
-&emsp;&emsp;O presente documento tem como objetivo explicar a jornada da comissão organizadora, exemplificando como funciona pontos importantes de uma Categoria, e alguns componentes do decidim dentro do módulo "Assembléias" na 4conjuv. Além de fornecer um tutorial, demonstrando a atualização dos dados da conferência e a utilização de suas funcionalidades.
+&emsp;&emsp;O presente documento tem como objetivo explicar a jornada da comissão organizadora, exemplificando como funciona pontos importantes de uma Categoria, e alguns componentes do decidim dentro do módulo "Processos" na 4conjuv. Além de fornecer um tutorial, demonstrando a atualização dos dados da conferência e a utilização de suas funcionalidades.
 </p>
 
 ## Entendendo a interface
@@ -14,14 +14,14 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/TelaIncial.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 01: Tela inicial (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 01 (Fonte: DECIDIM 2024)
 </p>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20confjuv.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 02: Dentro da 4confjuv (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 02 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
@@ -37,14 +37,14 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20categorias.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 03: Tela categorias (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 03 (Fonte: DECIDIM 2024)
 </p>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20atualizar%20categoria.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 04: Tela editar categorias (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 04 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
@@ -62,14 +62,14 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20Mobilizacao.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 05: Tela mobilização (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 05 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20Anexos.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 06: Tela anexos (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 06 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
@@ -84,18 +84,18 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20criar%20novo%20anexo.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 07: Tela novo anexo (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 07 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20upload.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 08: Tela upload (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 08 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
-&emsp;&emsp; Após preencher todos os campos e adicionar um arquivo compactivel basta selecinar o botão "Criar arquivo" que foi feito um novo upload dentro da mobilização.
+&emsp;&emsp; Após preencher todos os campos e adicionar um arquivo compactível basta selecinar o botão "Criar arquivo" que foi feito um novo upload dentro da mobilização.
 </p>
 
 ## Organize uma etapa:
@@ -112,14 +112,14 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20organize%20uma%20etapa.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 09: Tela organize uma etapa (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 09 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20organize%20uma%20etapa%20-%20exportar%20agente.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 10: Tela organize uma etapa - exportação (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 10 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
@@ -130,7 +130,7 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/arquivo%20exportado%20via%20email.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 11: Exemplo email (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 11 (Fonte: DECIDIM 2024)
 </p></h6>
 
 ### Moderar agenda
@@ -143,14 +143,14 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20moderar%20agenda.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 12: Moderar agenda pt.1 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 12 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20moderar%20agenda%20-%20pt2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 13:Moderar agenda pt.2 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)
 </p></h6>
 
 ## Perfil:
@@ -163,7 +163,7 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20perfil%20-%20exportar%20forms.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 14:Exportar Forms (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)
 </p></h6>
 
 ## Registre sua reunião:
@@ -176,7 +176,7 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20registre%20sua%20reuniao%20-%20exportar%20respostas.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 15:Exportar Forms (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)
 </p></h6>
 
 ## Etapa Digital:
@@ -193,14 +193,14 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20etapa%20digital.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 16:Tela etapa digital (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 16 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20etapa%20digital%20-%20exportar%20propostas%20e%20comentarios.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 17:Exportar propostas e comentários (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 17 (Fonte: DECIDIM 2024)
 </p></h6>
 
 ### Responder propostas
@@ -212,12 +212,12 @@
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20responder%20proposta%20pt1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 18:Responder propostas pt.1 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 18 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20responder%20proposta%20pt2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 19:Responder propostas pt.2 (Fonte: DECIDIM 2023)
+<h6 align = "center">Imagem 19 (Fonte: DECIDIM 2024)
 </p></h6>
