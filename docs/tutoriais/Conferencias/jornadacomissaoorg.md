@@ -98,12 +98,12 @@
 &emsp;&emsp; Após preencher todos os campos e adicionar um arquivo compactível basta selecinar o botão "Criar arquivo" que foi feito um novo upload dentro da mobilização.
 </p>
 
-## Organize uma etapa:
+## Conferências:
 <p align="justify">
 &emsp;&emsp; Ao selecionar a opção Organize uma etapa, o decidim de dicionará para a tela representada na Imagem 09, onde é possível ver listado as reuniões.
 </p>
 
-### Exportar agente
+### Exportar agenda (conferências)
 <p align="justify">
 &emsp;&emsp;  Logo no canto superior direito da Imagem 09 tem um botão "Exportar Tudo", que ao  selecinar esse botão é possivel exportar em todos os formatos ou escolher exportar só as reuniões, comentarios ou respostas além de escolher também o formato como mostra a Imagem 10.
 </p>
@@ -133,7 +133,7 @@
 <h6 align = "center">Imagem 11 (Fonte: DECIDIM 2024)
 </p></h6>
 
-### Moderar agenda
+### Moderar Conferências municipais/estaduais
 
 <p align="justify">
 &emsp;&emsp; Na Imagem 09 logo ao lado tem o desenho de um calendário chamado "agenda", que ao  selecionar esse ícone novamente você será direcionado para uma nova tela representada pela Imagem 12.
@@ -166,7 +166,7 @@
 <h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)
 </p></h6>
 
-## Registre sua reunião:
+## Devolutiva Conferência:
 ### Exportar respostas
 <p align="justify">
 &emsp;&emsp; Ao selecionar a opção de Registre sua reunião, o decidim de dicionará para a tela representada na Imagem 15, onde é possível editar o formulário para perfil e logo ao lado na direita tem um botão "Exportar Tudo" que ao seleciona-ló é possivel escolher em qual formato deseja exportar as respostas da enquete.
