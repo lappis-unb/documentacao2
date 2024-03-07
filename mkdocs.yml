@@ -51,41 +51,43 @@ markdown_extensions:
 
 nav:
   - Home: 'index.md'
-  - 'Funcionalidades': 'conferencias.md'
-  - 'Responsabilidades': 'responsabilidades.md'
-  - 'Moderação': 'moderacao.md'
+  - 'Pacote Conferência': 
+     - 'Conferência no BP': 'PacoteConferencia/conferencias.md'
+     - 'Responsabilidades': 'PacoteConferencia/responsabilidades.md'
+     - 'Moderação': 'PacoteConferencia/moderacao.md'
+     - 'Jornada da Presidência': 'tutoriais/Conferencias/jornadadapresidencia.md'
+     - 'Jornada da Comissão Organizadora': 'tutoriais/Conferencias/jornadacomissaoorg.md'
   
-  - 'Tutoriais de Criação':
+  - 'Gestão Espaços Participativos':
     - 'Sumário de Documentações': 'tutoriais/sumario.md'
     - 'Audiências Públicas':
       - 'Jornada da Presidência': 'tutoriais/AudienciasPublicas/JornadaPresidencia.md'
       - 'Jornada do Órgão': 'tutoriais/AudienciasPublicas/JornadaOrgao.md'
     - 'Colegiados': 
       - 'Jornada da Presidência': 'tutoriais/Colegiados/JornadaPresidencia.md'
-      - 'Jornada do Órgão': 'tutoriais/Colegiados/JornadaOrgao.md'
-    - 'Conferências':
-      - 'Jornada da Presidência': 'tutoriais/Conferencias/jornadadapresidencia.md'
-      - 'Jornada da Comissão Organizadora': 'tutoriais/Conferencias/jornadacomissaoorg.md'
+      - 'Jornada do Órgão': 'tutoriais/Colegiados/JornadaOrgao.md'   
     - 'Consultas Públicas': 
       - 'Jornada da Presidência': 'tutoriais/ConsultasPublicas/JornadaPresidencia.md'
       - 'Jornada do Órgão': 'tutoriais/ConsultasPublicas/JornadaOrgao.md'
     - 'Questionário Perfil': 
       - 'Jornada da Presidência': 'tutoriais/QuestionarioPerfil/JornadaPresidencia.md'
       - 'Jornada do Órgão': 'tutoriais/QuestionarioPerfil/JornadaOrgao.md'
+    - 'Gestão de Propostas': 'propostas.md'
     
-  - 'Relatórios Semanais Automatizados':
-    - 'Relatório 13/09': 'conjuv/relatorio_13-09/relatorio_conjuv-13-09.md'
-    - 'Relatório 27/09': 'conjuv/relatorio_27-09/relatorio_conjuv-27-09.md'
-    - 'Relatório 03/10': 'conjuv/relatorio_03-10/relatorio_conjuv_03-10.md'
-    - 'Relatório 05/10': 'conjuv/relatorio_03-10/relatorio_conjuv_03-10.md'
-    - 'Relatório 11/10': 'conjuv/relatorio_11-10/relatorio_conjuv_11-10.md'
-    - 'Relatório 17/10': 'conjuv/relatorio_17-10/relatorio_conjuv_17-10.md'
-    - 'Relatório 23/10': 'conjuv/relatorio_23-10/relatorio_conjuv_23-10.md'
-    - 'Relatório 31/10': 'conjuv/relatorio_31-10/relatorio_conjuv_31-10.md'
+  - 'Exemplos de Relatorios  Automatizados':
+    - 'Relatorios Semanais Conjuv':
+      - 'Relatório 13/09': 'PacoteConferencia/conjuv/relatorio_13-09/relatorio_conjuv-13-09.md'
+      - 'Relatório 27/09': 'PacoteConferencia/conjuv/relatorio_27-09/relatorio_conjuv-27-09.md'
+      - 'Relatório 03/10': 'PacoteConferencia/conjuv/relatorio_03-10/relatorio_conjuv_03-10.md'
+      - 'Relatório 05/10': 'PacoteConferencia/conjuv/relatorio_03-10/relatorio_conjuv_03-10.md'
+      - 'Relatório 11/10': 'PacoteConferencia/conjuv/relatorio_11-10/relatorio_conjuv_11-10.md'
+      - 'Relatório 17/10': 'PacoteConferencia/conjuv/relatorio_17-10/relatorio_conjuv_17-10.md'
+      - 'Relatório 23/10': 'PacoteConferencia/conjuv/relatorio_23-10/relatorio_conjuv_23-10.md'
+      - 'Relatório 31/10': 'PacoteConferencia/conjuv/relatorio_31-10/relatorio_conjuv_31-10.md'
+    - 'Relatório ENGD': 'engd/relatorio.md'
 
-  - 'Gestão de Propostas': 'propostas.md'
 
-  - 'Relatório ENGD': 'engd/relatorio.md'
+
 
 
 

@@ -7,7 +7,7 @@ A ausência ou deficiência na moderação pode resultar em uma série de proble
 
 Portanto, a moderação eficaz não apenas protege os usuários de experiências negativas, mas também fortalece a integridade da plataforma, promovendo um ambiente inclusivo, seguro e propício ao engajamento construtivo e à troca saudável de ideias.
 
-# Como é feita a moderação na Plataforma Brasil Participativo
+## Como é feita a moderação na Plataforma Brasil Participativo
 
 1. Para cada processo participativo, é criado um bot que envia as propostas e comentários em tempo real para um grupo no telegram. Cada processo participativo terá seu _bot_ no Telegram, onde os conteúdos das propostas deverão ser moderados por uma equipe do usuário órgão, que precisa verificar se há algum conteúdo de teor violento, ofensivo ou que viola direitos assegurados pela Constituição Federal e por outras leis que integram o nosso ordenamento jurídico.
 
@@ -27,7 +27,7 @@ Portanto, a moderação eficaz não apenas protege os usuários de experiências
 
 
 
-# São conteúdos com teor violento, ofensivo ou que violam direitos humanos
+## São conteúdos com teor violento, ofensivo ou que violam direitos humanos
 
 1. Conteúdo que pode configurar calúnia, ao imputar/divulgar falsamente fato definido como crime; difamação, imputando a alguém fato ofensivo à sua reputação; injúria, ao ofender a dignidade ou o decoro de alguém (Código Penal, arts. 138, 139 e 140) ou desinformação (notícias falsas/fake news)
 
@@ -48,7 +48,7 @@ Portanto, a moderação eficaz não apenas protege os usuários de experiências
 9. Conteúdos falsos ou enganosos: conteúdos que propagam informações inverídicas ou enganosas que possam prejudicar a saúde ou a segurança das pessoas.
 
  
- # Como moderar na Plataforma Brasil Participativo
+ ## Como moderar na Plataforma Brasil Participativo
 
 ```
 Clicar na aba Assembleias → Conferência → ao lado esquerdo, Etapa Digital → 
