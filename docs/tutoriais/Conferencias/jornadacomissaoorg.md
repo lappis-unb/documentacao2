@@ -5,7 +5,7 @@
 &emsp;&emsp;O presente documento tem como objetivo explicar a jornada da comissão organizadora, exemplificando como funciona pontos importantes de uma Categoria, e alguns componentes do decidim dentro do módulo "Processos" na 4conjuv. Além de fornecer um tutorial, demonstrando a atualização dos dados da conferência e a utilização de suas funcionalidades.
 </p>
 
-## Entendendo a interface
+## 1. Configuração Inicial
 <p align="justify">
 &emsp;&emsp; A tela inicial de quando se está dentro das assembléias do painel de administração do Brasil Partcipativo está representado pela Imagem 01, e a tela que será exibida ao selecionar 4confjuv está representada pela Imagem 02.
 </p>
@@ -28,30 +28,14 @@
 &emsp;&emsp; Já dentro do espaço da 4confjuv na lateral esquerda tem listada as informações da conferência da juventude, como os componentes e as categorias assim como podemos ver na imagem acima.
 </p>
 
-### Atualizar Categorias
-<p align="justify">
-&emsp;&emsp; Ao selecionar a opção de Categorias, o decidim de dicionará para a tela representada na Imagem 03, onde é possível ver listado o nome de cada categoria cadastrada e logo ao lado o desenho de um lápis, que ao  selecinar esse ícone novamente você será direcionado para uma nova tela representada pela Imagem 04.
-</p>
+TODO - Inserir os  organizadores e patrocinadores etc
 
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20categorias.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-<p align="justify">
-<h6 align = "center">Imagem 03 (Fonte: DECIDIM 2024)
-</p>
 
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20atualizar%20categoria.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-<p align="justify">
-<h6 align = "center">Imagem 04 (Fonte: DECIDIM 2024)
-</p></h6>
 
-<p align="justify">
-&emsp;&emsp; Assim como mostra a Imagem 04 na tela de editar categorias, é possível alterar o nome e a posição de ordem da mesma, ao finalizar a alteração desejada e só selecinar o botão "Atualizar".
-</p>
+## 2. Mobilização
 
-## Mobilização:
+TODO : Explicar pra que serve
+
 ### Como fazer upload de docs
 
 <p align="justify">
@@ -98,7 +82,44 @@
 &emsp;&emsp; Após preencher todos os campos e adicionar um arquivo compactível basta selecinar o botão "Criar arquivo" que foi feito um novo upload dentro da mobilização.
 </p>
 
-## Conferências:
+
+## 3. Sobre
+
+TODO: O que é e quais as principais seções necessárias
+
+- perguntas frequentes
+- regimentos
+
+
+## 4. Etapas/Datas da Conferência
+
+TODO:
+o que sao as etapas (intervalos de tempo)
+
+- Etapa 0 - Inicio da Conferência (data inicio-fim)
+- Etapa 01 - Conferencias Municipais estaduais (data inicio-fim)
+- Etapa 02 - Conferencia Municipais/estaduais + Etapa digital (data inicio-fim)
+- Etapa 03 - Consolidação delegados etapa estadual + resoluções (data inicio-fim)
+- Etapa 04 - Conferencia Nacional (data inicio-fim)
+- Etapa 05 - Devolutiva (resoluções eleitas + fotos + )
+
+## 5. Cadastre a Conferência nacional
+
+todo: na aba Conferencia, adicione as informações sobre a conferencia nacional
+- dia/ horario/local
+- quantidade de delegados eleitos
+- quantidade esperada de convidados
+- banner do ebento
+
+## 6. Pronto - Publique sua conferência
+
+TODO: até agora a conferencia está privada. Agora publique sua conferencia e comece a divulgar 
+
+
+## Conferências
+
+TODO: como habilitar/desabilitar a inserçao de conferencias de forma manual
+
 <p align="justify">
 &emsp;&emsp; Ao selecionar a opção Organize uma etapa, o decidim de dicionará para a tela representada na Imagem 09, onde é possível ver listado as reuniões.
 </p>
@@ -153,7 +174,7 @@
 <h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)
 </p></h6>
 
-## Perfil:
+## Perfil
 ### Exportar forms
 <p align="justify">
 &emsp;&emsp; Ao selecionar a opção de Perfil, o decidim de dicionará para a tela representada na Imagem 14, onde é possível editar o formulário para perfil e logo ao lado na direita tem um botão "Exportar Tudo" que ao seleciona-ló é possivel escolher em qual formato deseja exportar as respostas da enquete.
@@ -179,12 +200,41 @@
 <h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)
 </p></h6>
 
-## Etapa Digital:
+## Etapa Digital
+
+TODO: como habilitar/desabilitar a etapa digital de forma manual
+
 <p align="justify">
 &emsp;&emsp; Ao selecionar a opção Etapa Digital, o decidim de dicionará para a tela representada na Imagem 16, onde é possível ver listado cada proposta cadastrada. e logo ao lado o desenho de um lápis, que ao  selecinar esse ícone novamente você será direcionado para uma nova tela representada pela Imagem 04.
 </p>
 
+
+### Atualizar Categorias
+<p align="justify">
+&emsp;&emsp; Ao selecionar a opção de Categorias, o decidim de dicionará para a tela representada na Imagem 03, onde é possível ver listado o nome de cada categoria cadastrada e logo ao lado o desenho de um lápis, que ao  selecinar esse ícone novamente você será direcionado para uma nova tela representada pela Imagem 04.
+</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20categorias.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 03 (Fonte: DECIDIM 2024)
+</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20atualizar%20categoria.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 04 (Fonte: DECIDIM 2024)
+</p></h6>
+
+<p align="justify">
+&emsp;&emsp; Assim como mostra a Imagem 04 na tela de editar categorias, é possível alterar o nome e a posição de ordem da mesma, ao finalizar a alteração desejada e só selecinar o botão "Atualizar".
+</p>
+
+
 ### Exportar propostas e comentarios
+
 <p align="justify">
 &emsp;&emsp; Ao lado lado na direita tem um botão "Exportar Tudo" que ao seleciona-ló é possivel escolher em qual formato deseja exportar as propostas e comentários como na Imagem 17 mostra.
 </p>
@@ -203,7 +253,8 @@
 <h6 align = "center">Imagem 17 (Fonte: DECIDIM 2024)
 </p></h6>
 
-### Responder propostas
+### Devolutiva das propostas
+
 <p align="justify">
 &emsp;&emsp; Ao lado do nome de cada proposta tem o desenho de um chat, que ao  selecinar esse ícone novamente você será direcionado para uma nova tela representada pelas Imagens 18 e 19.
 </p> Onde é possivél deixar uma nota privada e responder a proposta de deseja.
@@ -221,3 +272,15 @@
 <p align="justify">
 <h6 align = "center">Imagem 19 (Fonte: DECIDIM 2024)
 </p></h6>
+
+
+### Moderação das propostas
+
+todo: como tirar uma proposta do ar (nao eh facil fazer de forma operacional)
+
+### Eleição de delegados digitais gamificado
+
+todo: Variáveis que podem ser usadas
+
+todo: exportando relatorio 
+
