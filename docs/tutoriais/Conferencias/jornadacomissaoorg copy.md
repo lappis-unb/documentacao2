@@ -1,6 +1,6 @@
 # Jornada da Comissão Organizadora
 
-# Introdução
+## Introdução
 <p align="justify">
 &emsp;&emsp;O presente documento tem como objetivo explicar a jornada da Comissão Organizadora, exemplificando como funciona pontos importantes de uma Conferências, e alguns componentes da plataforma Brasil Participativo, dentro do módulo <b>Processos</b> no <b>[Exemplo Conf] 6ª Conferência Nacional de Segurança Alimentar e Nutricional</b>. Além de fornecer um tutorial, demonstrando a atualização dos dados da conferência e a utilização de suas funcionalidades.
 </p>
@@ -480,8 +480,6 @@ regimentos
 
 
 ### <p id="8">8. Mobilização</p>
-### <p id="8">8. Mobilização</p>
-
 TODO : Explicar pra que serve
 
 #### Como fazer upload de docs
