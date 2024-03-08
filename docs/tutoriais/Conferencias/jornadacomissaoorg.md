@@ -47,6 +47,21 @@ Na página Informação Geral, representada pela Imagem 03 (todo), se concentra 
 * Data de início e final do processo participativo Conferência
 * Imagem inicial (banner principal com informações da Conferência) (Imagem 04)(todo)
 
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/info-imagem3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+
+<p align="justify">
+<h6 align = "center">Imagem 03 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/banner-imagem4.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+
+<p align="justify">
+<h6 align = "center">Imagem 04 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 ### <p id="2">2. Etapas</p>
 
