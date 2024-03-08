@@ -147,7 +147,7 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 <h6 align = "center">Imagem 12 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-### <p id="3.2.1">3.2.1. Configurar</p>
+#### <p id="3.2.1">3.2.1. Configurar</p>
 
 <p align="justify">
 &emsp;&emsp; Será aberta a página de Editar componente ao selecionar a opção de configurar. Nela é possível ajustar algumas configurações para as propostas ao decorrer da conferência. Na Imagem 13 temos as configurações globais: </p> 
@@ -191,7 +191,7 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 <h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-### <p id="3.2.2">3.2.2. Habilitar Publicação</p>
+#### <p id="3.2.2">3.2.2. Habilitar Publicação</p>
 
 <p align="justify">
 &emsp;&emsp; Outra forma para habilitar e desabilitar a publicação é através do menu de <a href="#3.2.1">configuração<sup></sup></a>, selecionando a opção Ocultar no menu (Imagem 16) e em seguida selecionando o botão <b>Atualizar</b> ao final da página.</p> 
@@ -382,33 +382,38 @@ propostaRecebida1.png?ref_type=heads" alt="Jornada Presidencia" style="float: no
 
 ### <p id="3.3">3.3. Conferências</p>
 
-Conferências Municipais e Estaduaos - cadastro de uma conferência municipal/estadual na plataforma, com possibilidade de Inscrição pela plataforma.
+Para ajudar na divulgação e organização das Conferências Municipais e Estaduais, temos esse componente Conferências. Podemos disponibilizar as informações sobre local, horário, material de divulgação, dessas conferências.
 
-Divulgação de Conferências municipais, com informações sobre local, horário, material de divulgação
+Para adicionar uma conferência, clique no botão Novas conferência, como mostra a Imagem 29(todo).
 
-Inscrição de participantes de uma etapa via plataforma- Possibilidade de inscrição de participantes utilizando o espaço cadastrado na conferência municipal/estadual. Os inscritos recebem um comprovante de inscrição.
+Preencha todas as informações dessa conferência, como:
 
-Visualização das agendas das Conferências - visualizar todas as etapas ocorrendo nas conferências Municipais, Estaduais, geolocalizadas.
+* Título
+* Descrição
+* Tipo de evento (Presencial, Virtual, Ambas)
+* Hora de início e término
+* Localização
+* Tipo de inscrição
 
-Devolutiva - ao final de cada conferência é disponibilizado informações de devolutiva sobre a execução da conferência, tais como: lista de delegados, ata de realização, lista de presença, resoluções eleitas, fotos do evento.
+Tudo isso está ilustrado na Imagem 30 (todo).
+
+Todas as conferências municipais/estaduais cadastradas, aparem em uma página, onde ele pode olhar suas datas e locais(Imagem 31). (todo) 
+
+
+Ao clicar em uma das conferências, o usuário pode ver todas as informações, além de se inscrever para participar, como mostra na Imagem 32.
+
+Ao final de cada conferência é disponibilizado informações de devolutiva sobre a execução da conferência, tais como: lista de delegados, ata de realização, lista de presença, resoluções eleitas, fotos do evento. Para que isso esteja disponível para o usuário, primeiro a comissão organizadora deve clicar no <b>ícone Pastas</b> na página adminsitrativa (Imagem 33). (todo)
+
+É esperado que se crie 3 tipos de pastas, sendo elas <b>Atas</b>,<b>Fotos do Evento</b> e <b>Resoluções Aprovadas</b>( Imagem 33.1).(todo)
+
+Após isso, para disponibilizar qualquer tipo de documento nesta conferência, a comissão organizadora deve clicar no <b>ícone Anexo</b>(Imagem 34), e adicionar um novo aquivo (Imagem 35)(todo). Durante o processo de adicionar o documento, o administrador pode selecionar a qual pasta este pertence (Imagem 36).(todo)
 
 Agenda Conferência Nacional: agenda com detalhes sobre a conferência nacional, tais como: dia, local, link para inscrição, informações gerais e fotos do evento.
-
-Cadastre a Conferência nacional
-
-todo: na aba Conferencia, adicione as informações sobre a conferencia nacional - dia/ horario/local - quantidade de delegados eleitos - quantidade esperada de convidados - banner do ebento
-
-TODO: como habilitar/desabilitar a inserçao de conferencias de forma manual
-
-Devolutiva Conferência
-
-Exportar respostas
-
 
 ### <p id="3.4">3.4. Notícias</p>
 
 <p align="justify">
-&emsp;&emsp; Esta página está destinada as publicação das notícias na plataforma. As Imagens XX e YY exibe como as notícias aparecem no site. 
+&emsp;&emsp; Esta página está destinada as publicação das notícias na plataforma. As Imagens 37 e 38 exibe como as notícias aparecem no site. 
 </p>
 
 <figure markdown>
@@ -416,7 +421,7 @@ Exportar respostas
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem XX (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 37 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <figure markdown>
@@ -424,34 +429,34 @@ Exportar respostas
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 38 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <p align="justify">
 &emsp;&emsp; No painel de Componentes, duas ações podem ser realizadas com Notícias: </p>
 
- - <a href="#19">Configurar<sup></sup></a> - ícone de engrenagem, assinalado em vermelho na Imagem ZZ.
- - <a href="#20">Gerenciar<sup></sup></a> - ícone de lápis, assinalado em azul na Imagem ZZ
+ - <a href="#3.4.1">Configurar<sup></sup></a> - ícone de engrenagem, assinalado em vermelho na Imagem 39.
+ - <a href="#3.4.2">Gerenciar<sup></sup></a> - ícone de lápis, assinalado em azul na Imagem 39
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/noticias_opcoes.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 39 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-#### <p id="19">Configurar</p>
+#### <p id="3.4.1">Configurar</p>
 
 <p align="justify">
-&emsp;&emsp; É possível adicionar anúncios e configurações que mudam a cada etapa, se adequando a necessidade da etapa atual. As configurações globais (Imagem ZZ) são opção de comentário ativado e texto de anúncio, isso é válido para todas as etapas que não forem preenchidas com algo contrário. Para cada etapa é possível definir um anúncio, se os comentários estarâo bloqueados e se os endossos estarão ativos ou bloqueados (Imagem AA).</p>
+&emsp;&emsp; É possível adicionar anúncios e configurações que mudam a cada etapa, se adequando a necessidade da etapa atual. As configurações globais (Imagem 40) são opção de comentário ativado e texto de anúncio, isso é válido para todas as etapas que não forem preenchidas com algo contrário. Para cada etapa é possível definir um anúncio, se os comentários estarâo bloqueados e se os endossos estarão ativos ou bloqueados (Imagem 41).</p>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/noticias_config.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem ZZ (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 40 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <figure markdown>
@@ -459,12 +464,12 @@ Exportar respostas
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem AA (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 41 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-#### <p id="19">Gerenciar</p>
+#### <p id="3.4.2">Gerenciar</p>
 
-
+TODO
 
 ### <p id="3.5">3.5. Sobre</p>
 
@@ -475,10 +480,66 @@ TODO: O que é e quais as principais seções necessárias
 perguntas frequentes
 regimentos
 
-### <p id="4">4. Organizadores e Apoiadores</p>
+
+## <p id="4">4. Categorias</p>
+
+<p align="justify">
+&emsp;&emsp;A seção Categorias, nada mais é do que os temas em que uma proposta submetida é relacionada.
+</p>
+<p align="justify">
+Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da Imagem XX, onde estão listados todas as categorias já cadastradas e é possível cadastrar novas no botão <b>Nova Categoria</b> (destacado na Imagem XX). Apertando o botão a tela da Imagem 04 será exibida.
+</p>
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/tela_novaCategoria.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem XX (Fonte: DECIDIM 2024)</h6>
+</p>
+
+<p align="justify">
+&emsp;&emsp; Na tela de criação, o primeiro campo é o do nome da categoria e o segundo a posição de ordem na lista, ao finalizar basta selecionar o botão "Criar Categoria".
+</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/tela_novaCategoria-1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
+</p>
+
+<p align="justify">
+&emsp;&emsp; De volta a tela das Categorias, ao lado de cada nome listado há dois ícones, um <b>lápis</b> e um <b>x</b> (Imagem ZZ). Caso deseje excluir uma categoria, basta selecionar o ícone <b>x</b> (seleção em azul na Imagem ZZ) e em seguida confirmar a exclusão. Para edição, deve selecionar a figura do <b>lápis</b> (seleção em vermelho na Imagem ZZ).
+</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/tela_editCategoria.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem ZZ (Fonte: DECIDIM 2024)</h6>
+</p>
 
 
-### <p id="5">5. Mobilização</p>
+<p align="justify">
+&emsp;&emsp; Na tela de atualização, é possível alterar o nome da categoria e a posição da ordem que ela aparece na lista, ao finalizar as alterações, basta selecionar o botão "Atualizar".
+</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/tela_editCategoria-1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 06 (Fonte: DECIDIM 2024)</h6>
+</p>
+
+
+
+### <p id="4">5. Organizadores e Apoiadores</p>
+
+(todo)
+### <p id="5">6. Mobilização</p>
 TODO : Explicar pra que serve
 
 #### Como fazer upload de docs
@@ -529,6 +590,7 @@ TODO : Explicar pra que serve
 
 ## Publicando uma Conferência
 
+Depois de ter cumprido e preenchido os dados de todos os componentes anteriores, basta o administrador salvar as alterações na página <b>Informação Geral</b>(Imagem xx), e ao final dela encontrar o botão <b>Atualizar</b>. Feito a atualização, agora pode clicar em <b>Publicar</b>. Tudo isso é mostrado na (Imagem yy).(todo)
 
 
 
@@ -566,77 +628,6 @@ TODO : Explicar pra que serve
 
 
 
-## <p id="1">Categorias</p>
-
-<p align="justify">
-&emsp;&emsp; Ao selecionar a opção de Categorias, o decidim redicionará para a tela da Imagem 03, onde estão listados todas as categorias já cadastradas e é possível cadastrar novas no botão <b>Nova Categoria</b> (destacado na Imagem 03), apertando o botão a tela da Imagem 04 será exibida.
-</p>
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/tela_novaCategoria.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-
-<p align="justify">
-<h6 align = "center">Imagem 03 (Fonte: DECIDIM 2024)</h6>
-</p>
-
-<p align="justify">
-&emsp;&emsp; Na tela de criação, o primeiro campo é o do nome da categoria e o segundo a posição de ordem na lista, ao finalizar basta selecionar o botão "Criar Categoria".
-</p>
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/tela_novaCategoria-1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-
-<p align="justify">
-<h6 align = "center">Imagem 04 (Fonte: DECIDIM 2024)</h6>
-</p>
-
-<p align="justify">
-&emsp;&emsp; De volta a tela das Categorias, ao lado de cada nome listado há dois ícones, um <b>lápis</b> e um <b>x</b> (Imagem 05). Caso deseje excluir uma categoria, basta selecionar o ícone <b>x</b> (seleção em azul na Imagem 05) e em seguida confirmar a exclusão. Para edição, deve selecionar a figura do <b>lápis</b> (seleção em vermelho na Imagem 05).
-</p>
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/tela_editCategoria.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-
-<p align="justify">
-<h6 align = "center">Imagem 05 (Fonte: DECIDIM 2024)</h6>
-</p>
-
-
-<p align="justify">
-&emsp;&emsp; Na tela de atualização, é possível alterar o nome da categoria e a posição da ordem que ela aparece na lista, ao finalizar as alterações, basta selecionar o botão "Atualizar".
-</p>
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/tela_editCategoria-1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-
-<p align="justify">
-<h6 align = "center">Imagem 06 (Fonte: DECIDIM 2024)</h6>
-</p>
-
-## <p id="3">Informação Geral</p>
-
-Pronto - Publique sua conferência
-
-TODO: até agora a conferencia está privada. Agora publique sua conferencia e comece a divulgar
-
-<p align="justify">
-&emsp;&emsp; Na tela de atualização, é possível alterar o nome da categoria e a posição da ordem que ela aparece na lista, ao finalizar as alterações, basta selecionar o botão "Atualizar".
-</p>
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/tela_infgeral.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure> 
-
-<p align="justify">
-<h6 align = "center">Imagem 07 (Fonte: DECIDIM 2024)</h6>
-</p>
-
-
-##
 
 Relatórios automatizados além dos dados brutos sobre as propostas, os organizadores também tem acesso a relatórios com o perfil dos participantes da etapa digital, possibilindo a mobilização orientada a dados
 
@@ -645,7 +636,3 @@ Gamificação de escolha de delegados digitais: possibilidade de dar pesos para 
 
 Eleição de delegados digitais gamificado
 todo: Variáveis que podem ser usadas
-
-
-Moderação das propostas -- ta dentro de nova proposta, em gerenciar na Etapa Digital
-todo: como tirar uma proposta do ar (nao eh facil fazer de forma operacional)
