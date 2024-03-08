@@ -39,13 +39,13 @@
 
 ### <p id="1">1. Informação Geral</p>
 
-Na página Informação Geral, representada pela Imagem 03 (todo), se concentra as principais informações da Conferência. A <b>Comissão Organizadora</b> deve preencher os seguintes campos:
+Na página Informação Geral, representada pela Imagem 03, se concentra as principais informações da Conferência. A <b>Comissão Organizadora</b> deve preencher os seguintes campos:
 
 * Título
 * URL Amigável (o endereço eletrônico que o usuário acessará a página da conferência)
 * Descrição
 * Data de início e final do processo participativo Conferência
-* Imagem inicial (banner principal com informações da Conferência) (Imagem 04)(todo)
+* Imagem inicial (banner principal com informações da Conferência) (Imagem 04)
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/info-imagem3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
@@ -65,7 +65,7 @@ Na página Informação Geral, representada pela Imagem 03 (todo), se concentra 
 
 ### <p id="2">2. Etapas</p>
 
-A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas presentes na conferência com as etapas de uma Conferência Nacional. Já vem definido a lista de etapas definidas, para a <b>Comissão Organizadora</b> definir <b>somente</b> os campos de <b>Data de início</b> e <b>Data final</b>. Para editar esses campos, basta clicar no ícone de lápis sinalizado na Imagem 05. Abaixo, encontra-se a lista de etapas que já existem na plataforma Brasil Participativo, ilustrado também na Imagem 05 (todo)
+A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas presentes na conferência com as etapas de uma Conferência Nacional. Já vem definido a lista de etapas definidas, para a <b>Comissão Organizadora</b> definir <b>somente</b> os campos de <b>Data de início</b> e <b>Data final</b>. Para editar esses campos, basta clicar no ícone de lápis sinalizado na Imagem 05. Abaixo, encontra-se a lista de etapas que já existem na plataforma Brasil Participativo, ilustrado também na Imagem 05.
 
 * Etapa 0 - Inicio da Conferência
 * Etapa 01 - Conferencias Municipais estaduais
@@ -73,6 +73,14 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 * Etapa 03 - Consolidação delegados etapa estadual + resoluções
 * Etapa 04 - Conferencia Nacional
 * Etapa 05 - Devolutiva
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/etapas-imagem5.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+
+<p align="justify">
+<h6 align = "center">Imagem 05 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 ### <p id="3">3. Componentes</p>
 
@@ -139,8 +147,15 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 
 
 #### Desabilitar Etapa Digital
-&emsp;&emsp; Nem todas as conferências contam com a Etapa Digital. Logo, para desabilitar esta etapa, entre na página Componentes, presente no menu lateral, e clique no <b>ícone "X"</b> ao lado do título <b>Etapa Digital</b>, como mostra a Imagem 11.</p> (todo)
+&emsp;&emsp; Nem todas as conferências contam com a Etapa Digital. Logo, para desabilitar esta etapa, entre na página Componentes, presente no menu lateral, e clique no <b>ícone "X"</b> ao lado do título <b>Etapa Digital</b>, como mostra a Imagem 11.</p>
 
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/etapadigital-imagem11.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 11 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 #### Funcionalidades da Etapa Digital
 <p align="justify">
