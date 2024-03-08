@@ -589,7 +589,7 @@ Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da 
 
 
 
-### <p id="4">5. Organizadores e Apoiadores</p>
+### <p id="5">5. Organizadores e Apoiadores</p>
 
 <p align="justify">
 &emsp;&emsp;Na seção Organizadores e Apoiadores, é possivel adicionar os parceiros da conferência.
@@ -619,47 +619,50 @@ Na Imagem YY é só preencher todos os campos como está representado abaixo e s
 <h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
 </p>
 
+### <p id="6">6. Mobilização</p>
 
-#### Como fazer upload de docs
+Na aba Mobilização, a Comissão Organizadora disponibilizar suas mídias, como imagems e documentos relacionados a Conferência. Esses documentos podem ser, por exemplo, imagens disponíveis para divulgação do evento. (Imagem XX)
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
 
 <p align="justify">
-&emsp;&emsp; Ao selecionar a opção Mobilização, o decidim de dicionará para a tela representada na Imagem 05, onde é possível ver listado as postagens cadastradas e logo ao lado o desenho de um clips, que ao  selecinar esse ícone novamente você será direcionado para uma nova tela representada pela Imagem 06.
+<h6 align = "center">Imagem XX (Fonte: DECIDIM 2024)</h6>
 </p>
 
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20Mobilizacao.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-<p align="justify">
-<h6 align = "center">Imagem 05 (Fonte: DECIDIM 2024)
-</p></h6>
 
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20Anexos.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-<p align="justify">
-<h6 align = "center">Imagem 06 (Fonte: DECIDIM 2024)
-</p></h6>
+#### Como fazer upload de documentos
 
 <p align="justify">
-&emsp;&emsp; Já dentro da tela que exibe os anexos da mobilização, no canto superior direito ainda na Imagem 06 é possivel visualizar o botão "Novo anexo" para direcionar a tela para uma nova tela representada pela Imagem 07.
+&emsp;&emsp; Ao selecionar a opção <b>Anexos</b>, entre em <b>Arquivos</b>, como mostra a Imagem YY. Nesta página, observa-se a lista de documentos já existentes, e o botão <b>Novo Anexo</b>, onde será redirecionado para inserir um novo arquivo.
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao
+_1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
 </p>
 
+
 <p align="justify">
-&emsp;&emsp; Assim sendo, nesta nova tela será possivel adicionar um novo anexo, onde os campos para serem preenchidos são o nome, posição, descrição(optativo), pasta e arquivo.
-</p> O arquivo pode ser adicionado selecionar o botão "adicionar  arquivo" que abrirá uma modal com as especificações do arquivo como tamanho e formato e como realizar o seu upload, assim como mostra na Imagem 08.
+&emsp;&emsp; Assim sendo, nesta nova tela será possivel adicionar um novo anexo, onde os campos para serem preenchidos são o nome, posição, descrição(optativo), pasta e arquivo.(Imagem ZZ)
+</p> O arquivo pode ser adicionado selecionar o botão "adicionar  arquivo" que abrirá uma modal com as especificações do arquivo como tamanho e formato e como realizar o seu upload, assim como mostra na Imagem AA.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20criar%20novo%20anexo.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/mobilizacao_3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 07 (Fonte: DECIDIM 2024)
+<h6 align = "center">Imagem ZZ (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20upload.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/mobilizacao_2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 08 (Fonte: DECIDIM 2024)
+<h6 align = "center">Imagem AA (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
