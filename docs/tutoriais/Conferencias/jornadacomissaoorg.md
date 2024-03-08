@@ -70,7 +70,6 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
  - <a href="#3.3">Conferências<sup></sup></a>
  - <a href="#3.4">Notícias<sup></sup></a>
  - <a href="#3.5">Sobre<sup></sup></a>
- - <a href="#3.6">Mobilização<sup></sup></a>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/componentes.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
@@ -88,7 +87,7 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 <h6 align = "center">Imagem 07 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-## <p id="3.1">3.1. Início</p>
+### <p id="3.1">3.1. Início</p>
 
 <p align="justify">
 &emsp;&emsp; A página de início (representado pelo ícone da casinha) apresenta o nome da conferência, banner, principais notícias, logo dos organizazadores e colaboradores, como exibido na Imagem 08. Suas informações são geradas a partir do que foi colocado em <b>Informação Geral</b>.
@@ -381,7 +380,7 @@ propostaRecebida1.png?ref_type=heads" alt="Jornada Presidencia" style="float: no
 </p> 
 
 
-### <p id="4">4. Conferências</p>
+### <p id="3.3">3.3. Conferências</p>
 
 Conferências Municipais e Estaduaos - cadastro de uma conferência municipal/estadual na plataforma, com possibilidade de Inscrição pela plataforma.
 
@@ -406,7 +405,7 @@ Devolutiva Conferência
 Exportar respostas
 
 
-### <p id="5">5. Notícias</p>
+### <p id="3.4">3.4. Notícias</p>
 
 <p align="justify">
 &emsp;&emsp; Esta página está destinada as publicação das notícias na plataforma. As Imagens XX e YY exibe como as notícias aparecem no site. 
@@ -467,7 +466,7 @@ Exportar respostas
 
 
 
-### <p id="6">6. Sobre</p>
+### <p id="3.5">3.5. Sobre</p>
 
  Informações gerais da conferência, Documentos (Decreto, regimento interno, etc), perguntas frequêntes, termo de uso, políticas de Privacidade
 
@@ -476,10 +475,10 @@ TODO: O que é e quais as principais seções necessárias
 perguntas frequentes
 regimentos
 
-### <p id="7">7. Organizadores e Apoiadores</p>
+### <p id="4">4. Organizadores e Apoiadores</p>
 
 
-### <p id="8">8. Mobilização</p>
+### <p id="5">5. Mobilização</p>
 TODO : Explicar pra que serve
 
 #### Como fazer upload de docs
@@ -528,7 +527,7 @@ TODO : Explicar pra que serve
 &emsp;&emsp; Após preencher todos os campos e adicionar um arquivo compactível basta selecinar o botão "Criar arquivo" que foi feito um novo upload dentro da mobilização.
 </p>
 
-
+## Publicando uma Conferência
 
 
 
