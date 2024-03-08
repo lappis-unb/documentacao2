@@ -12,11 +12,11 @@
 </p>
 
 <p align="justify">
-&emsp;&emsp;Representada na Imagem 01, está a tela de início quando o usuário acessa <b><link>https://brasilpartipativo.presidencia.gov.br/admin/participatory_processes</link></b>, ou seja, já dentro do módulo de <b>Processos</b>.
+&emsp;&emsp;Representada na Imagem 01, está a tela de início quando o usuário acessa <b><a href="https://brasilparticipativo.presidencia.gov.br/admin/participatory_processes/"></a>https://brasilparticipativo.presidencia.gov.br/admin/participatory_processes/</b>, ou seja, já dentro do módulo de <b>Processos</b>.
 </p>
 
 <p align="justify">
-&emsp;&emsp;É possível ver uma lista com todos os processos já criados, e o <b>Template de Conferência</b> que deve ser duplicado quando desejar criar uma nova conferência.
+&emsp;&emsp;É possível ver uma lista com todos os processos já criados, e o <b>Template Conferências</b> que deve ser duplicado quando desejar criar uma nova conferência.
 </p>
 
 <figure markdown>
