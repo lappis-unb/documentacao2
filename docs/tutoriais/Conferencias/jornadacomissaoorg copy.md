@@ -1,6 +1,6 @@
 # Jornada da Comissão Organizadora
 
-## Introdução
+# Introdução
 <p align="justify">
 &emsp;&emsp;O presente documento tem como objetivo explicar a jornada da Comissão Organizadora, exemplificando como funciona pontos importantes de uma Conferências, e alguns componentes da plataforma Brasil Participativo, dentro do módulo <b>Processos</b> no <b>[Exemplo Conf] 6ª Conferência Nacional de Segurança Alimentar e Nutricional</b>. Além de fornecer um tutorial, demonstrando a atualização dos dados da conferência e a utilização de suas funcionalidades.
 </p>
@@ -135,6 +135,9 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
  - <a href="#3.2.1">3.2.1. Configurar<sup></sup></a> - representado pelo ícone de engrenagem, delimitado de vermelho na Imagem 12. Essa funcionalidade permite editar o componente de Etapa Digital, como as configurações globais das propostas e como agirão em cada etapa diferente.
  - <a href="#3.2.2">3.2.2. Gerenciar<sup></sup></a> - representado pelo ícone de lápis, delimitado de azul na Imagem 12. Selecionar essa opção direciona para uma aba de gestão das propostas já cadastradas, criação de novas propostas, importação e exportação dos dados.
  - <a href="#3.2.3">3.2.3. Habilitar Publicação<sup></sup></a>- Quando habilitado é representado por um X, quando desabilitado é representado por um ícone de "check", delimitado de verde na Imagem 12. Desabilitar uma publicação fará com que não apareça mais publicamente, habilitar tornará visível públicamente novamente.
+ - <a href="#3.2.1">3.2.1. Configurar<sup></sup></a> - representado pelo ícone de engrenagem, delimitado de vermelho na Imagem 12. Essa funcionalidade permite editar o componente de Etapa Digital, como as configurações globais das propostas e como agirão em cada etapa diferente.
+ - <a href="#3.2.2">3.2.2. Gerenciar<sup></sup></a> - representado pelo ícone de lápis, delimitado de azul na Imagem 12. Selecionar essa opção direciona para uma aba de gestão das propostas já cadastradas, criação de novas propostas, importação e exportação dos dados.
+ - <a href="#3.2.3">3.2.3. Habilitar Publicação<sup></sup></a>- Quando habilitado é representado por um X, quando desabilitado é representado por um ícone de "check", delimitado de verde na Imagem 12. Desabilitar uma publicação fará com que não apareça mais publicamente, habilitar tornará visível públicamente novamente.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/etapa_digital.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
@@ -142,11 +145,13 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 
 <p align="justify">
 <h6 align = "center">Imagem 12 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 12 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 ### <p id="3.2.1">3.2.1. Configurar</p>
 
 <p align="justify">
+&emsp;&emsp; Será aberta a página de Editar componente ao selecionar a opção de configurar. Nela é possível ajustar algumas configurações para as propostas ao decorrer da conferência. Na Imagem 13 temos as configurações globais: </p> 
 &emsp;&emsp; Será aberta a página de Editar componente ao selecionar a opção de configurar. Nela é possível ajustar algumas configurações para as propostas ao decorrer da conferência. Na Imagem 13 temos as configurações globais: </p> 
 
  - Áreas de interesse ativados - Habilita as áreas de interesse no filtro lateral.
@@ -159,9 +164,11 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 
 <p align="justify">
 <h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <p align="justify">
+&emsp;&emsp; Nas Imagem  14 e 15 temos dois exemplos de configurações de acordo com cada etapa, podendo mudar como ocorre a Etapa Digital de acordo com a etapa atual. Nela é possível determinar em qual etapa terá participação do público atravéz da votação ativada e em qual não, como exemplificado em ambas Imagens 14 e 15. </p> 
 &emsp;&emsp; Nas Imagem  14 e 15 temos dois exemplos de configurações de acordo com cada etapa, podendo mudar como ocorre a Etapa Digital de acordo com a etapa atual. Nela é possível determinar em qual etapa terá participação do público atravéz da votação ativada e em qual não, como exemplificado em ambas Imagens 14 e 15. </p> 
 
 <p align="justify">
@@ -173,6 +180,7 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 
 <p align="justify">
 <h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <figure markdown>
@@ -181,11 +189,13 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 
 <p align="justify">
 <h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 ### <p id="3.2.2">3.2.2. Habilitar Publicação</p>
 
 <p align="justify">
+&emsp;&emsp; Outra forma para habilitar e desabilitar a publicação é através do menu de <a href="#3.2.1">configuração<sup></sup></a>, selecionando a opção Ocultar no menu (Imagem 16) e em seguida selecionando o botão <b>Atualizar</b> ao final da página.</p> 
 &emsp;&emsp; Outra forma para habilitar e desabilitar a publicação é através do menu de <a href="#3.2.1">configuração<sup></sup></a>, selecionando a opção Ocultar no menu (Imagem 16) e em seguida selecionando o botão <b>Atualizar</b> ao final da página.</p> 
 
 <figure markdown>
@@ -193,6 +203,7 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 </figure>
 
 <p align="justify">
+<h6 align = "center">Imagem 16 (Fonte: DECIDIM 2024)</h6>
 <h6 align = "center">Imagem 16 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
@@ -213,6 +224,7 @@ Para gereciar a Etapa Digital, há 4 funcionalidades:</p>
 
 <p align="justify">
 &emsp;&emsp; Para criar uma Nova Proposta deve clicar no botão assinalado em vermelho na Imagem 17. </p> 
+&emsp;&emsp; Para criar uma Nova Proposta deve clicar no botão assinalado em vermelho na Imagem 17. </p> 
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/etapa_digital_prop_novaProp.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
@@ -220,9 +232,11 @@ Para gereciar a Etapa Digital, há 4 funcionalidades:</p>
 
 <p align="justify">
 <h6 align = "center">Imagem 17 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 17 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <p align="justify">
+&emsp;&emsp; Em seguida, a tela da Imagem 18 irá aparecer, os campos de título, descrição devem ser preenchidos corretamente, caso deseje pode selecionar as opções de interação habilitada e/ou se a proposta vem de uma reunião, um tema pode ser escolhdo no último campo e por fim selecionar o botão criar. </p> 
 &emsp;&emsp; Em seguida, a tela da Imagem 18 irá aparecer, os campos de título, descrição devem ser preenchidos corretamente, caso deseje pode selecionar as opções de interação habilitada e/ou se a proposta vem de uma reunião, um tema pode ser escolhdo no último campo e por fim selecionar o botão criar. </p> 
 
 <figure markdown>
@@ -231,15 +245,18 @@ Para gereciar a Etapa Digital, há 4 funcionalidades:</p>
 
 <p align="justify">
 <h6 align = "center">Imagem 18 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 18 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <p align="justify">
+&emsp;&emsp; Para editar Proposta deve clicar no ícone de lápis assinalado em azul na Imagem 17. Em seguida, a tela da Imagem 19 irá aparecer com todos os dados da proposta, após alterar os dados necessários pode concluir a ação clicando no botão <b>Atualizar</b>. </p> 
 &emsp;&emsp; Para editar Proposta deve clicar no ícone de lápis assinalado em azul na Imagem 17. Em seguida, a tela da Imagem 19 irá aparecer com todos os dados da proposta, após alterar os dados necessários pode concluir a ação clicando no botão <b>Atualizar</b>. </p> 
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/editar_proposta.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
+<h6 align = "center">Imagem 19 (Fonte: DECIDIM 2024)</h6>
 <h6 align = "center">Imagem 19 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
@@ -253,6 +270,7 @@ Para gereciar a Etapa Digital, há 4 funcionalidades:</p>
 
 <p align="justify">
 &emsp;&emsp; Para realizar a devolutiva de uma proposta, deve selecionar o ícone de <b>balão de conversa</b> contornado na Imagem 20. </p> 
+&emsp;&emsp; Para realizar a devolutiva de uma proposta, deve selecionar o ícone de <b>balão de conversa</b> contornado na Imagem 20. </p> 
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/
@@ -261,9 +279,11 @@ etapa_digital_prop_devolutiva.png?ref_type=heads" alt="Jornada Presidencia" styl
 
 <p align="justify">
 <h6 align = "center">Imagem 20 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 20 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <p align="justify">
+&emsp;&emsp; Na tela de Respostas, há uma seção de Notas Privadas onde é possível deixar notas sobre uma proposta (Imagem 21), após o envio a nota ficará salva como apresentado na Imagem 22. </p> 
 &emsp;&emsp; Na tela de Respostas, há uma seção de Notas Privadas onde é possível deixar notas sobre uma proposta (Imagem 21), após o envio a nota ficará salva como apresentado na Imagem 22. </p> 
 
 <figure markdown>
@@ -272,6 +292,7 @@ nota_priv.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; marg
 </figure> 
 
 <p align="justify">
+<h6 align = "center">Imagem 21 (Fonte: DECIDIM 2024)</h6>
 <h6 align = "center">Imagem 21 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
@@ -282,9 +303,11 @@ nota_priv.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; marg
 
 <p align="justify">
 <h6 align = "center">Imagem 22 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 22 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <p align="justify">
+&emsp;&emsp; Na seção de Resposta para a proposta é realizada a devolutiva da proposta. Deve ser selecionada como recebida ou rejeitada e preenchida uma resposta (Imagem 23). </p> 
 &emsp;&emsp; Na seção de Resposta para a proposta é realizada a devolutiva da proposta. Deve ser selecionada como recebida ou rejeitada e preenchida uma resposta (Imagem 23). </p> 
  
 <figure markdown>
@@ -294,9 +317,11 @@ devolutiva.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; mar
 
 <p align="justify">
 <h6 align = "center">Imagem 23 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 23 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <p align="justify">
+&emsp;&emsp; Quando uma proposta recebe uma devolutiva, é possível ver na página de Etapa Digital da conferênia a resposta, as Imagens 24 e 25 mostram o resultado da devolutiva realizada pelos exemplos acima.</p> 
 &emsp;&emsp; Quando uma proposta recebe uma devolutiva, é possível ver na página de Etapa Digital da conferênia a resposta, as Imagens 24 e 25 mostram o resultado da devolutiva realizada pelos exemplos acima.</p> 
 
 <figure markdown>
@@ -305,6 +330,7 @@ propostaRecebida.png?ref_type=heads" alt="Jornada Presidencia" style="float: non
 </figure> --->
 
 <p align="justify">
+<h6 align = "center">Imagem 24 (Fonte: DECIDIM 2024)</h6>
 <h6 align = "center">Imagem 24 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
@@ -316,11 +342,13 @@ propostaRecebida1.png?ref_type=heads" alt="Jornada Presidencia" style="float: no
 
 <p align="justify">
 <h6 align = "center">Imagem 25 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 25 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 ##### <p id="prop4">4. Exportar propostas e comentários</p>
 
 <p align="justify">
+&emsp;&emsp; Para exportar propostas e comentários, há um botão Exportar tudo, assinalado na Imagem 26, selecionando ele aparecerá uma lista com formatos de arquivo, assinalado na Imagem 27, escolha e selecione um formato e o arquivo exportado será enviado para seu email quando concluido (Imagem 28).
 &emsp;&emsp; Para exportar propostas e comentários, há um botão Exportar tudo, assinalado na Imagem 26, selecionando ele aparecerá uma lista com formatos de arquivo, assinalado na Imagem 27, escolha e selecione um formato e o arquivo exportado será enviado para seu email quando concluido (Imagem 28).
 </p>
 
@@ -329,6 +357,7 @@ propostaRecebida1.png?ref_type=heads" alt="Jornada Presidencia" style="float: no
 </figure> 
 
 <p align="justify">
+<h6 align = "center">Imagem 26 (Fonte: DECIDIM 2024)</h6>
 <h6 align = "center">Imagem 26 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
@@ -339,6 +368,7 @@ propostaRecebida1.png?ref_type=heads" alt="Jornada Presidencia" style="float: no
 
 <p align="justify">
 <h6 align = "center">Imagem 27 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 27 (Fonte: DECIDIM 2024)</h6>
 </p> export_email
 
 <figure markdown>
@@ -346,6 +376,7 @@ propostaRecebida1.png?ref_type=heads" alt="Jornada Presidencia" style="float: no
 </figure> 
 
 <p align="justify">
+<h6 align = "center">Imagem 28 (Fonte: DECIDIM 2024)</h6>
 <h6 align = "center">Imagem 28 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
@@ -448,6 +479,7 @@ regimentos
 ### <p id="7">7. Organizadores e Apoiadores</p>
 
 
+### <p id="8">8. Mobilização</p>
 ### <p id="8">8. Mobilização</p>
 
 TODO : Explicar pra que serve
