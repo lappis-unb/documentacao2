@@ -746,16 +746,16 @@ _1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: aut
 _2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 55 (Fonte: DECIDIM 2024)
-</p></h6>
+<h6 align = "center">Imagem 55 (Fonte: DECIDIM 2024)</h6>
+</p>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao
 _3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 56 (Fonte: DECIDIM 2024)
-</p></h6>
+<h6 align = "center">Imagem 56 (Fonte: DECIDIM 2024)</h6>
+</p>
 
 <p align="justify">
 &emsp;&emsp; Após preencher todos os campos e adicionar um arquivo compactível basta selecinar o botão "Criar arquivo" que foi feito um novo upload dentro da mobilização.
@@ -763,6 +763,7 @@ _3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: aut
 
 
 ## Publicando uma Conferência
+
 
 <p align="justify">
 &emsp;&emsp; Depois de ter cumprido e preenchido os dados de todos os componentes anteriores, basta o administrador salvar as alterações na página <b>Informação Geral</b> (Imagem 57), e ao final dela encontrar o botão <b>Atualizar</b>. Feito a atualização, agora pode clicar em <b>Publicar</b>. Tudo isso é mostrado na (Imagem 58).
@@ -773,12 +774,12 @@ _3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: aut
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/publicado1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 57 (Fonte: DECIDIM 2024)
-</p></h6>
+<h6 align = "center">Imagem 57 (Fonte: DECIDIM 2024)</h6>
+</p>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/publicado2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 58 (Fonte: DECIDIM 2024)
-</p></h6>
+<h6 align = "center">Imagem 58 (Fonte: DECIDIM 2024)</h6>
+</p>
