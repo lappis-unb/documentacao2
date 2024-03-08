@@ -54,6 +54,20 @@ Portanto, a moderação eficaz não apenas protege os usuários de experiências
 Clique na aba Processos e ache sua conferência. Dentro de Conferência, abra a página Etapa Digital. Dentro de Etapa Digital, busque o ID da proposta a ser rejeitada, e clique em seu título, como mostra a Imagem 1. Ao abrir a proposta, e clique em rejeitada, como mostra a Imagem 2, e responda com o texto padrão definido abaixo.
 ```
 
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/moderacao-imagem1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 1 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/moderacao-imagem2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 2 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
 **Mensagem Padrão:**
 ```
 Prezada (o) xxxxxxxx,
@@ -74,11 +88,7 @@ Agradecemos novamente a sua participação.
 
  **Caminho na Plataforma Brasil Participativo**
 ```
-Clicar na aba Assembleias → Conferência → ao lado esquerdo, Etapa Digital → 
-buscar o ID da proposta a ser ocultada → clicar no link da proposta → 
-clicar na bandeirinha ao lado da proposta e escolher o motivo da denúncia → 
-retornar ao menu da Conferência e clicar em Moderação → 
-localizar a proposta e clicar em ocultar.
+Clique na aba Processos e ache sua conferência. Dentro de Conferência, abra a página Etapa Digital. Dentro de Etapa Digital, busque o ID da proposta a ser rejeitada, e clique em seu título, como mostra a Imagem 1. Ao abrir a proposta, e clique em rejeitada, como mostra a Imagem 2, e responda com o texto padrão definido abaixo.
 ```
 
 1. A proposta, então, estará ocultada da plataforma e seu conteúdo não será mais visualizado. Caso queira mostrar de novo a proposta na plataforma digital (por eventual erro de análise), clique na proposta para expandi-la e clique em mostrar.
@@ -87,10 +97,9 @@ localizar a proposta e clicar em ocultar.
 3. Não há conteúdo de teor violento, ofensivo ou que viola direitos, mas a proposta está fora do escopo do processo participativo? É uma mensagem que não contém proposta de política pública? É uma proposta que contém pedidos pessoais? A proposta poderá ser **rejeitada na plataforma e, dependendo do conteúdo, pode conter uma mensagem padrão específica.**
 
  **Caminho na Plataforma Brasil Participativo**
+
 ```
-Clicar na aba Assembleias → Conferência → ao lado esquerdo, Etapa Digital → 
-buscar o ID da proposta a ser rejeitada → Abrir a proposta e 
-clicar em rejeitada → responder com o texto padrão.
+Clique na aba Processos e ache sua conferência. Dentro de Conferência, abra a página Etapa Digital. Dentro de Etapa Digital, busque o ID da proposta a ser rejeitada, e clique em seu título, como mostra a Imagem 1. Ao abrir a proposta, e clique em rejeitada, como mostra a Imagem 2, e responda com o texto padrão definido abaixo.
 ```
 
 Exemplos de resposta para **propostas fora do escopo ao processo participativo** 
@@ -199,10 +208,16 @@ Agradecemos novamente a sua participação.
 
  **Caminho na Plataforma Brasil Participativo**
 
- ```
-  Clicar na aba Assembleias → Conferência → ao lado esquerdo, Etapa Digital → buscar o ID da proposta a ser
-   recebida → Abrir a proposta e clicar em recebida → responder com o texto padrão.
 ```
+Clique na aba Processos e ache sua conferência. Dentro de Conferência, abra a página Etapa Digital. Dentro de Etapa Digital, busque o ID da proposta a ser rejeitada, e clique em seu título, como mostra a Imagem 1. Ao abrir a proposta, e clique em recebida, como mostra a Imagem 3, e responda com o texto padrão definido abaixo.
+```
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/moderacao-imagem3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 3 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 **Mensagem Padrão**
 
