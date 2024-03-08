@@ -438,36 +438,47 @@ Ao final de cada conferência é disponibilizado informações de devolutiva sob
 <h6 align = "center">Imagem 33 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-É esperado que se crie 3 tipos de pastas, sendo elas <b>Atas</b>,<b>Fotos do Evento</b> e <b>Resoluções Aprovadas</b>(Imagem 33.1).
+<p align="justify">
+&emsp;&emsp; É esperado que se crie 3 tipos de pastas, sendo elas <b>Atas</b>, <b>Fotos do Evento</b> e <b>Resoluções Aprovadas</b> (Imagem 33.1).
+</p>
+
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem331.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/image331.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
 <h6 align = "center">Imagem 33.1 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-Após isso, para disponibilizar qualquer tipo de documento nesta conferência, a comissão organizadora deve clicar no <b>ícone Anexo</b>(Imagem 34), e adicionar um novo aquivo (Imagem 35). Durante o processo de adicionar o documento, o administrador pode selecionar a qual pasta este pertence (Imagem 36).
+Após isso, para disponibilizar qualquer tipo de documento nesta conferência, a comissão organizadora deve clicar no <b>ícone Anexo</b> (Imagem 34), e adicionar um novo aquivo (Imagem 34). Durante o processo de adicionar o documento, o administrador pode selecionar a qual pasta este pertence (Imagem 35).
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem35.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center">Imagem 35 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 34 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem36.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center">Imagem 36 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 35 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 ### <p id="3.4">3.4. Notícias</p>
 
 <p align="justify">
-&emsp;&emsp; Esta página está destinada as publicação das notícias na plataforma. As Imagens 37 e 38 exibem como as notícias aparecem no site. 
+&emsp;&emsp; Esta página está destinada as publicação das notícias na plataforma. As Imagens 36 e 37 exibem como as notícias aparecem no site. 
 </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/etapa_digital.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 36 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/etapa_digital.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
@@ -477,38 +488,30 @@ Após isso, para disponibilizar qualquer tipo de documento nesta conferência, a
 <h6 align = "center">Imagem 37 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/etapa_digital.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-
-<p align="justify">
-<h6 align = "center">Imagem 38 (Fonte: DECIDIM 2024)</h6>
-</p> 
-
 <p align="justify">
 No painel de Componentes, duas ações podem ser realizadas com Notícias: </p>
 
- - <a href="#3.4.2">Gerenciar<sup></sup></a> - ícone de lápis, assinalado em azul na Imagem 39
+ - <a href="#3.4.2">Gerenciar<sup></sup></a> - ícone de lápis, assinalado em azul na Imagem 38.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/noticias_opcoes.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem 39 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 38 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 #### <p id="3.4.1">Configurar</p>
 
 <p align="justify">
-&emsp;&emsp; É possível adicionar anúncios e configurações que mudam a cada etapa, se adequando a necessidade da etapa atual. As configurações globais (Imagem 40) são opção de comentário ativado e texto de anúncio, isso é válido para todas as etapas que não forem preenchidas com algo contrário. Para cada etapa é possível definir um anúncio, se os comentários estarâo bloqueados e se os endossos estarão ativos ou bloqueados (Imagem 41).</p>
+&emsp;&emsp; É possível adicionar anúncios e configurações que mudam a cada etapa, se adequando a necessidade da etapa atual. As configurações globais (Imagem 39) são opção de comentário ativado e texto de anúncio, isso é válido para todas as etapas que não forem preenchidas com algo contrário. Para cada etapa é possível definir um anúncio, se os comentários estarâo bloqueados e se os endossos estarão ativos ou bloqueados (Imagem 40).</p>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/noticias_config.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem 40 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 39 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <figure markdown>
@@ -516,7 +519,7 @@ No painel de Componentes, duas ações podem ser realizadas com Notícias: </p>
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem 41 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 40 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 #### <p id="3.4.2">Gerenciar</p>
@@ -524,30 +527,30 @@ No painel de Componentes, duas ações podem ser realizadas com Notícias: </p>
 <p align="justify">
 Em gerenciar Notícias é possível administrar: </p>
 
- - <a href="#opcao1">Criar novas postagens<sup></sup></a> - para adicionar uma nova postagem deve-se clicar no botão Nova postagem, assinalado em vermelho na Imagem 40.
- - <a href="#opcao2">Editar postagens existentes<sup></sup></a> - para editar uma postagem deve-se clicar no ícone de lápis, assinalado em azul na Imagem 39
- - <a href="#opcao3">Adicionar pastas<sup></sup></a> - para adicionar uma nova pasta deve-se clicar no ícone de pasta, assinalado em verde na Imagem 39
- - <a href="#opcao3">Adicionar anexos<sup></sup></a> - para adicionar anexos postagem deve-se clicar no ícone de clipe, assinalado em amarelo na Imagem 39
+ - <a href="#opcao1">Criar novas postagens<sup></sup></a> - para adicionar uma nova postagem deve-se clicar no botão Nova postagem, assinalado em vermelho na Imagem 41.
+ - <a href="#opcao2">Editar postagens existentes<sup></sup></a> - para editar uma postagem deve-se clicar no ícone de lápis, assinalado em azul na Imagem 41
+ - <a href="#opcao3">Adicionar pastas<sup></sup></a> - para adicionar uma nova pasta deve-se clicar no ícone de pasta, assinalado em verde na Imagem 41
+ - <a href="#opcao3">Adicionar anexos<sup></sup></a> - para adicionar anexos postagem deve-se clicar no ícone de clipe, assinalado em amarelo na Imagem 41
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/noticias_gerenciar.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem 40 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 41 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 ##### <p id="opcao1">Criar novas postagens</p>
 
 <p align="justify">
-&emsp;&emsp; Após selecionar o botão Nova proposta como indicado em vermelho na Imagem 40, a página de Criar post (Imagem 41) é exibida, ela contém os campos a serem preenchidos para uma postagem. Os campos obrigatórios são apenas Título e Subtítulo, o Body (corpo do texto) pode ficar em branco caso a notícia seja de apenas anexos.</p>
+&emsp;&emsp; Após selecionar o botão Nova proposta como indicado em vermelho na Imagem 41, a página de Criar post (Imagem 42) é exibida, ela contém os campos a serem preenchidos para uma postagem. Os campos obrigatórios são apenas Título e Subtítulo, o Body (corpo do texto) pode ficar em branco caso a notícia seja de apenas anexos.</p>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/nova_noticia.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem 41 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 42 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <p align="justify">
@@ -558,7 +561,7 @@ Em gerenciar Notícias é possível administrar: </p>
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem 42 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 43 (Fonte: DECIDIM 2024)</h6>
 </p>
 
 ##### <p id="opcao2">Editar postagens existentes</p>
@@ -624,14 +627,14 @@ Em gerenciar Notícias é possível administrar: </p>
 &emsp;&emsp;A seção Categorias, nada mais é do que os temas em que uma proposta submetida é relacionada.
 </p>
 <p align="justify">
-Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da Imagem XX, onde estão listados todas as categorias já cadastradas e é possível cadastrar novas no botão <b>Nova Categoria</b> (destacado na Imagem XX). Apertando o botão a tela da Imagem 04 será exibida.
+Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da Imagem 47, onde estão listados todas as categorias já cadastradas e é possível cadastrar novas no botão <b>Nova Categoria</b> (destacado na Imagem 47). Apertando o botão a tela da Imagem 04 será exibida.
 </p>
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/tela_novaCategoria.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem XX (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 47 (Fonte: DECIDIM 2024)</h6>
 </p>
 
 <p align="justify">
@@ -643,11 +646,11 @@ Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 48 (Fonte: DECIDIM 2024)</h6>
 </p>
 
 <p align="justify">
-&emsp;&emsp; De volta a tela das Categorias, ao lado de cada nome listado há dois ícones, um <b>lápis</b> e um <b>x</b> (Imagem ZZ). Caso deseje excluir uma categoria, basta selecionar o ícone <b>x</b> (seleção em azul na Imagem ZZ) e em seguida confirmar a exclusão. Para edição, deve selecionar a figura do <b>lápis</b> (seleção em vermelho na Imagem ZZ).
+&emsp;&emsp; De volta a tela das Categorias, ao lado de cada nome listado há dois ícones, um <b>lápis</b> e um <b>x</b> (Imagem 49). Caso deseje excluir uma categoria, basta selecionar o ícone <b>x</b> (seleção em azul na Imagem 49) e em seguida confirmar a exclusão. Para edição, deve selecionar a figura do <b>lápis</b> (seleção em vermelho na Imagem 49).
 </p>
 
 <figure markdown>
@@ -655,7 +658,7 @@ Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem ZZ (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 49 (Fonte: DECIDIM 2024)</h6>
 </p>
 
 
@@ -668,7 +671,7 @@ Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem 06 (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 50 (Fonte: DECIDIM 2024)</h6>
 </p>
 
 
@@ -679,7 +682,7 @@ Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da 
 </p>
 
 <p align="justify">
-Ao selecionar a opção Organizadores e Apoiadores, a plataforma redicionará para a tela da Imagem XX, onde estão listados todas os organizadores e apoiadores já cadastradas e é possível cadastrar novos no botão <b>Nova Parceiro</b>  além disso também é possivel <b>editar e remover</b> o apoiador ou organizador cadastrado (destacado na Imagem XX). Apertando o botão a tela da Imagem YY será exibida.
+Ao selecionar a opção Organizadores e Apoiadores, a plataforma redicionará para a tela da Imagem 51, onde estão listados todas os organizadores e apoiadores já cadastradas e é possível cadastrar novos no botão <b>Nova Parceiro</b>  além disso também é possivel <b>editar e remover</b> o apoiador ou organizador cadastrado (destacado na Imagem 51). Apertando o botão a tela da Imagem YY será exibida.
 </p>
 
 <figure markdown>
@@ -687,11 +690,11 @@ Ao selecionar a opção Organizadores e Apoiadores, a plataforma redicionará pa
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem XX (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 51 (Fonte: DECIDIM 2024)</h6>
 </p>
 
 <p align="justify">
-Na Imagem YY é só preencher todos os campos como está representado abaixo e selecionar a opção <b>Criar</b> para adicionar um novo apoiador ou organizador.
+Na Imagem 52 é só preencher todos os campos como está representado abaixo e selecionar a opção <b>Criar</b> para adicionar um novo apoiador ou organizador.
 </p>
 
 <figure markdown>
@@ -699,26 +702,26 @@ Na Imagem YY é só preencher todos os campos como está representado abaixo e s
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 52 (Fonte: DECIDIM 2024)</h6>
 </p>
 
 ### <p id="6">6. Mobilização</p>
 
-Na aba Mobilização, a Comissão Organizadora disponibilizar suas mídias, como imagems e documentos relacionados a Conferência. Esses documentos podem ser, por exemplo, imagens disponíveis para divulgação do evento. (Imagem XX)
+Na aba Mobilização, a Comissão Organizadora disponibilizar suas mídias, como imagems e documentos relacionados a Conferência. Esses documentos podem ser, por exemplo, imagens disponíveis para divulgação do evento. (Imagem 53)
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem XX (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 53 (Fonte: DECIDIM 2024)</h6>
 </p>
 
 
 #### Como fazer upload de documentos
 
 <p align="justify">
-&emsp;&emsp; Ao selecionar a opção <b>Anexos</b>, entre em <b>Arquivos</b>, como mostra a Imagem YY. Nesta página, observa-se a lista de documentos já existentes, e o botão <b>Novo Anexo</b>, onde será redirecionado para inserir um novo arquivo.
+&emsp;&emsp; Ao selecionar a opção <b>Anexos</b>, entre em <b>Arquivos</b>, como mostra a Imagem 54. Nesta página, observa-se a lista de documentos já existentes, e o botão <b>Novo Anexo</b>, onde será redirecionado para inserir um novo arquivo.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao
@@ -726,16 +729,16 @@ _1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: aut
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center">Imagem 54 (Fonte: DECIDIM 2024)</h6>
 </p>
 
 
 <p align="justify">
-&emsp;&emsp; Assim sendo, nesta nova tela será possivel adicionar um novo anexo, onde os campos para serem preenchidos são o nome, posição, descrição(optativo), pasta e arquivo.(Imagem ZZ)
+&emsp;&emsp; Assim sendo, nesta nova tela será possivel adicionar um novo anexo, onde os campos para serem preenchidos são o nome, posição, descrição(optativo), pasta e arquivo.(Imagem 55)
 </p> 
 
 <p align="justify" id="opcao3">
-&emsp;&emsp; O arquivo pode ser adicionado selecionar o botão "adicionar  arquivo" que abrirá uma modal com as especificações do arquivo como tamanho e formato e como realizar o seu upload, assim como mostra na Imagem AA.
+&emsp;&emsp; O arquivo pode ser adicionado selecionar o botão "adicionar  arquivo" que abrirá uma modal com as especificações do arquivo como tamanho e formato e como realizar o seu upload, assim como mostra na Imagem 56.
 </p> 
 
 <figure markdown>
@@ -743,7 +746,7 @@ _1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: aut
 _2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem ZZ (Fonte: DECIDIM 2024)
+<h6 align = "center">Imagem 55 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
@@ -751,17 +754,18 @@ _2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: aut
 _3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem AA (Fonte: DECIDIM 2024)
+<h6 align = "center">Imagem 56 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
 &emsp;&emsp; Após preencher todos os campos e adicionar um arquivo compactível basta selecinar o botão "Criar arquivo" que foi feito um novo upload dentro da mobilização.
 </p>
 
+
 ## Publicando uma Conferência
 
 <p align="justify">
-&emsp;&emsp; Depois de ter cumprido e preenchido os dados de todos os componentes anteriores, basta o administrador salvar as alterações na página <b>Informação Geral</b> (Imagem AA), e ao final dela encontrar o botão <b>Atualizar</b>. Feito a atualização, agora pode clicar em <b>Publicar</b>. Tudo isso é mostrado na (Imagem BB).
+&emsp;&emsp; Depois de ter cumprido e preenchido os dados de todos os componentes anteriores, basta o administrador salvar as alterações na página <b>Informação Geral</b> (Imagem 57), e ao final dela encontrar o botão <b>Atualizar</b>. Feito a atualização, agora pode clicar em <b>Publicar</b>. Tudo isso é mostrado na (Imagem 58).
 </p>
 
 
@@ -769,12 +773,12 @@ _3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: aut
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/publicado1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem AA (Fonte: DECIDIM 2024)
+<h6 align = "center">Imagem 57 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/publicado2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem BB (Fonte: DECIDIM 2024)
+<h6 align = "center">Imagem 58 (Fonte: DECIDIM 2024)
 </p></h6>
