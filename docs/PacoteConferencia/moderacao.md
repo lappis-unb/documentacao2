@@ -51,8 +51,7 @@ Portanto, a moderação eficaz não apenas protege os usuários de experiências
  ## Como moderar na Plataforma Brasil Participativo
 
 ```
-Clicar na aba Assembleias → Conferência → ao lado esquerdo, Etapa Digital → 
-buscar o ID da proposta a ser rejeitada → Abrir a proposta e clicar em rejeitada → responder com o texto padrão.
+Clique na aba Processos e ache sua conferência. Dentro de Conferência, abra a página Etapa Digital. Dentro de Etapa Digital, busque o ID da proposta a ser rejeitada, e clique em seu título, como mostra a Imagem 1. Ao abrir a proposta, e clique em rejeitada, como mostra a Imagem 2, e responda com o texto padrão definido abaixo.
 ```
 
 **Mensagem Padrão:**
