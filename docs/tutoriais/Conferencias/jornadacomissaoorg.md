@@ -588,7 +588,6 @@ Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da 
 </p>
 
 
-
 ### <p id="5">5. Organizadores e Apoiadores</p>
 
 <p align="justify">
