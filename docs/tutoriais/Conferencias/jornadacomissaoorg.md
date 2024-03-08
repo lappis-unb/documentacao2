@@ -734,7 +734,7 @@ _1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: aut
 &emsp;&emsp; Assim sendo, nesta nova tela será possivel adicionar um novo anexo, onde os campos para serem preenchidos são o nome, posição, descrição(optativo), pasta e arquivo.(Imagem ZZ)
 </p> 
 
-<p align="justify">
+<p align="justify" id="opcao3">
 &emsp;&emsp; O arquivo pode ser adicionado selecionar o botão "adicionar  arquivo" que abrirá uma modal com as especificações do arquivo como tamanho e formato e como realizar o seu upload, assim como mostra na Imagem AA.
 </p> 
 
