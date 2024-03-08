@@ -381,7 +381,16 @@ propostaRecebida1.png?ref_type=heads" alt="Jornada Presidencia" style="float: no
 
 Para ajudar na divulgação e organização das Conferências Municipais e Estaduais, temos esse componente Conferências. Podemos disponibilizar as informações sobre local, horário, material de divulgação, dessas conferências.
 
-Para adicionar uma conferência, clique no botão Novas conferência, como mostra a Imagem 29(todo).
+Para adicionar uma conferência, clique no botão Novas conferência, como mostra a Imagem 29.
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem29.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+
+<p align="justify">
+<h6 align = "center">Imagem 29 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
 
 Preencha todas as informações dessa conferência, como:
 
@@ -392,20 +401,67 @@ Preencha todas as informações dessa conferência, como:
 * Localização
 * Tipo de inscrição
 
-Tudo isso está ilustrado na Imagem 30 (todo).
+Tudo isso está ilustrado na Imagem 30.
 
-Todas as conferências municipais/estaduais cadastradas, aparem em uma página, onde ele pode olhar suas datas e locais(Imagem 31). (todo) 
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem30.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
 
+<p align="justify">
+<h6 align = "center">Imagem 30 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+Todas as conferências municipais/estaduais cadastradas, aparem em uma página, onde ele pode olhar suas datas e locais(Imagem 31).
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem31.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 31 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 Ao clicar em uma das conferências, o usuário pode ver todas as informações, além de se inscrever para participar, como mostra na Imagem 32.
 
-Ao final de cada conferência é disponibilizado informações de devolutiva sobre a execução da conferência, tais como: lista de delegados, ata de realização, lista de presença, resoluções eleitas, fotos do evento. Para que isso esteja disponível para o usuário, primeiro a comissão organizadora deve clicar no <b>ícone Pastas</b> na página adminsitrativa (Imagem 33). (todo)
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem32.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 32 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
-É esperado que se crie 3 tipos de pastas, sendo elas <b>Atas</b>,<b>Fotos do Evento</b> e <b>Resoluções Aprovadas</b>( Imagem 33.1).(todo)
+Ao final de cada conferência é disponibilizado informações de devolutiva sobre a execução da conferência, tais como: lista de delegados, ata de realização, lista de presença, resoluções eleitas, fotos do evento. Para que isso esteja disponível para o usuário, primeiro a comissão organizadora deve clicar no <b>ícone Pastas</b> na página adminsitrativa (Imagem 33).
 
-Após isso, para disponibilizar qualquer tipo de documento nesta conferência, a comissão organizadora deve clicar no <b>ícone Anexo</b>(Imagem 34), e adicionar um novo aquivo (Imagem 35)(todo). Durante o processo de adicionar o documento, o administrador pode selecionar a qual pasta este pertence (Imagem 36).(todo)
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem33.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 33 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
-Agenda Conferência Nacional: agenda com detalhes sobre a conferência nacional, tais como: dia, local, link para inscrição, informações gerais e fotos do evento.
+É esperado que se crie 3 tipos de pastas, sendo elas <b>Atas</b>,<b>Fotos do Evento</b> e <b>Resoluções Aprovadas</b>(Imagem 33.1).
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem331.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 33.1 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+Após isso, para disponibilizar qualquer tipo de documento nesta conferência, a comissão organizadora deve clicar no <b>ícone Anexo</b>(Imagem 34), e adicionar um novo aquivo (Imagem 35). Durante o processo de adicionar o documento, o administrador pode selecionar a qual pasta este pertence (Imagem 36).
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem35.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 35 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem36.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 36 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 ### <p id="3.4">3.4. Notícias</p>
 
