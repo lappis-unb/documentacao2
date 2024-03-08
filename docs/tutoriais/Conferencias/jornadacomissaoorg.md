@@ -386,7 +386,7 @@ Agenda Conferência Nacional: agenda com detalhes sobre a conferência nacional,
 ### <p id="3.4">3.4. Notícias</p>
 
 <p align="justify">
-&emsp;&emsp; Esta página está destinada as publicação das notícias na plataforma. As Imagens 37 e 38 exibe como as notícias aparecem no site. 
+&emsp;&emsp; Esta página está destinada as publicação das notícias na plataforma. As Imagens 37 e 38 exibem como as notícias aparecem no site. 
 </p>
 
 <figure markdown>
@@ -406,9 +406,8 @@ Agenda Conferência Nacional: agenda com detalhes sobre a conferência nacional,
 </p> 
 
 <p align="justify">
-&emsp;&emsp; No painel de Componentes, duas ações podem ser realizadas com Notícias: </p>
+No painel de Componentes, duas ações podem ser realizadas com Notícias: </p>
 
- - <a href="#3.4.1">Configurar<sup></sup></a> - ícone de engrenagem, assinalado em vermelho na Imagem 39.
  - <a href="#3.4.2">Gerenciar<sup></sup></a> - ícone de lápis, assinalado em azul na Imagem 39
 
 <figure markdown>
@@ -442,17 +441,102 @@ Agenda Conferência Nacional: agenda com detalhes sobre a conferência nacional,
 
 #### <p id="3.4.2">Gerenciar</p>
 
-TODO
+<p align="justify">
+Em gerenciar Notícias é possível administrar: </p>
+
+ - <a href="#opcao1">Criar novas postagens<sup></sup></a> - para adicionar uma nova postagem deve-se clicar no botão Nova postagem, assinalado em vermelho na Imagem 40.
+ - <a href="#opcao2">Editar postagens existentes<sup></sup></a> - para editar uma postagem deve-se clicar no ícone de lápis, assinalado em azul na Imagem 39
+ - <a href="#opcao3">Adicionar pastas<sup></sup></a> - para adicionar uma nova pasta deve-se clicar no ícone de pasta, assinalado em verde na Imagem 39
+ - <a href="#opcao3">Adicionar anexos<sup></sup></a> - para adicionar anexos postagem deve-se clicar no ícone de clipe, assinalado em amarelo na Imagem 39
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/noticias_gerenciar.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 40 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+##### <p id="opcao1">Criar novas postagens</p>
+
+<p align="justify">
+&emsp;&emsp; Após selecionar o botão Nova proposta como indicado em vermelho na Imagem 40, a página de Criar post (Imagem 41) é exibida, ela contém os campos a serem preenchidos para uma postagem. Os campos obrigatórios são apenas Título e Subtítulo, o Body (corpo do texto) pode ficar em branco caso a notícia seja de apenas anexos.</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/nova_noticia.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 41 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; A Imagem 42 apresenta os campos preenchidos da notícia, no campo do corpo do texto (Body) é possível adicionar além do texto, como mostrado na imagem. Após adicionar todas as iformações, confirmar a criação clicando no botão <b>Criar</b>.</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/nova_noticia1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 42 (Fonte: DECIDIM 2024)</h6>
+</p>
+
+##### <p id="opcao2">Editar postagens existentes</p>
+
+<p align="justify">
+&emsp;&emsp; A Imagem 43 apresenta os campos já preenchidos da notícia, assim como na criação os campos obrigatórios de estarem completos são apenas Título e Subtítulo, o Body (corpo do texto) pode ficar em branco. Após mudar as iformações necessárias, confirmar a atualização clicando no botão <b>Atualizar</b>.</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/edit_noticia.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 43 (Fonte: DECIDIM 2024)</h6>
+</p>
+
 
 ### <p id="3.5">3.5. Sobre</p>
 
- Informações gerais da conferência, Documentos (Decreto, regimento interno, etc), perguntas frequêntes, termo de uso, políticas de Privacidade
+<p align="justify">
+&emsp;&emsp; O Sobre contém Informações gerais da conferência, Documentos (Decreto, regimento interno, etc), perguntas frequêntes, termo de uso, políticas de Privacidade. A Imagem 44 apresenta as funcionalidades no componente sobre: </p>
 
-TODO: O que é e quais as principais seções necessárias
+ - <a href="#3.5.1">Configurar<sup></sup></a> - ícone da engrenagem, assinalado em vermelho na Imagem 44
+ - <a href="#3.5.2">Gerenciar<sup></sup></a> - ícone de lápis, assinalado em azul na Imagem 44
 
-perguntas frequentes
-regimentos
 
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/sobre_opcoes.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 44 (Fonte: DECIDIM 2024)</h6>
+</p>
+
+#### <p id="3.5">3.5.1 Configurar</p>
+
+<p align="justify">
+&emsp;&emsp; É possível adicionar anúncios que mudam a cada etapa, se adequando a necessidade da etapa atual. As configurações globais (Imagem 45) é o texto de anúncio válido para todas as etapas que não forem preenchidas com outro anúncio. Para cada etapa é possível definir um anúncio específico, como mostrado para a Etapa 00 na Imagem 45.</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/sobre_config.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 45 (Fonte: DECIDIM 2024)</h6>
+</p>
+
+#### <p id="3.5">3.5.2 Gerenciar</p>
+
+<p align="justify">
+&emsp;&emsp; Nessa aba há um campo de texto (Imagem 46) para escrever o sobre da sua conferência, é possível adicionar textos e imagens necessários para as Informações gerais da conferência, Documentos (Decreto, regimento interno, etc), perguntas frequêntes, termo de uso, políticas de Privacidade. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/sobre_edit.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 46 (Fonte: DECIDIM 2024)</h6>
+</p>
 
 ### <p id="4">4. Categorias</p>
 
