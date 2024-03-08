@@ -146,8 +146,7 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 #### <p id="3.2.1">3.2.1. Configurar</p>
 
 <p align="justify">
-&emsp;&emsp; Será aberta a página de Editar componente ao selecionar a opção de configurar. Nela é possível ajustar algumas configurações para as propostas ao decorrer da conferência. Na Imagem 13 temos as configurações globais: </p> 
-&emsp;&emsp; Será aberta a página de Editar componente ao selecionar a opção de configurar. Nela é possível ajustar algumas configurações para as propostas ao decorrer da conferência. Na Imagem 13 temos as configurações globais: </p> 
+&emsp;&emsp; Será aberta a página de Editar componente ao selecionar a opção de configurar. Nela é possível ajustar algumas configurações para as propostas ao decorrer da conferência. Na Imagem 13 temos as configurações globais: </p>
 
  - Áreas de interesse ativados - Habilita as áreas de interesse no filtro lateral.
  - Área de interesse - Deve ser preenchida com a área de interesse da Etapa Digital, ou seja, o tema relacionado com a conferência.
@@ -159,13 +158,10 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 
 <p align="justify">
 <h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)</h6>
-<h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <p align="justify">
-&emsp;&emsp; Nas Imagem  14 e 15 temos dois exemplos de configurações de acordo com cada etapa, podendo mudar como ocorre a Etapa Digital de acordo com a etapa atual. Nela é possível determinar em qual etapa terá participação do público atravéz da votação ativada e em qual não, como exemplificado em ambas Imagens 14 e 15. </p> 
-&emsp;&emsp; Nas Imagem  14 e 15 temos dois exemplos de configurações de acordo com cada etapa, podendo mudar como ocorre a Etapa Digital de acordo com a etapa atual. Nela é possível determinar em qual etapa terá participação do público atravéz da votação ativada e em qual não, como exemplificado em ambas Imagens 14 e 15. </p> 
-
+&emsp;&emsp; Nas Imagem  14 e 15 temos dois exemplos de configurações de acordo com cada etapa, podendo mudar como ocorre a Etapa Digital de acordo com a etapa atual. Nela é possível determinar em qual etapa terá participação do público atravéz da votação ativada e em qual não, como exemplificado em ambas Imagens 14 e 15. </p>
 <p align="justify">
 &emsp;&emsp; Outras configurações como bloquear os comentários, permitir que participantes criem propostas, resposta de proposta ativada, endossos habilitados ou bloqueados, todas essas definições quando selecionadas são aplicadas no início da etapa e ao fim de uma etapa são aplicadas as configurações da etapa seguinte. </p> 
 
@@ -175,7 +171,6 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 
 <p align="justify">
 <h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)</h6>
-<h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <figure markdown>
@@ -183,7 +178,6 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)</h6>
 <h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
