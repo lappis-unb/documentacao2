@@ -591,9 +591,34 @@ Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da 
 
 ### <p id="4">5. Organizadores e Apoiadores</p>
 
-(todo)
-### <p id="5">6. Mobilização</p>
-TODO : Explicar pra que serve
+<p align="justify">
+&emsp;&emsp;Na seção Organizadores e Apoiadores, é possivel adicionar os parceiros da conferência.
+</p>
+
+<p align="justify">
+Ao selecionar a opção Organizadores e Apoiadores, a plataforma redicionará para a tela da Imagem XX, onde estão listados todas os organizadores e apoiadores já cadastradas e é possível cadastrar novos no botão <b>Nova Parceiro</b>  além disso também é possivel <b>editar e remover</b> o apoiador ou organizador cadastrado (destacado na Imagem XX). Apertando o botão a tela da Imagem YY será exibida.
+</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/apoiadores_-_lista.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem XX (Fonte: DECIDIM 2024)</h6>
+</p>
+
+<p align="justify">
+Na Imagem YY é só preencher todos os campos como está representado abaixo e selecionar a opção <b>Criar</b> para adicionar um novo apoiador ou organizador.
+</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/apoiadores.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
+</p>
+
 
 #### Como fazer upload de docs
 
