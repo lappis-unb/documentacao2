@@ -648,17 +648,23 @@ _1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: aut
 
 <p align="justify">
 &emsp;&emsp; Assim sendo, nesta nova tela será possivel adicionar um novo anexo, onde os campos para serem preenchidos são o nome, posição, descrição(optativo), pasta e arquivo.(Imagem ZZ)
-</p> O arquivo pode ser adicionado selecionar o botão "adicionar  arquivo" que abrirá uma modal com as especificações do arquivo como tamanho e formato e como realizar o seu upload, assim como mostra na Imagem AA.
+</p> 
+
+<p align="justify">
+&emsp;&emsp; O arquivo pode ser adicionado selecionar o botão "adicionar  arquivo" que abrirá uma modal com as especificações do arquivo como tamanho e formato e como realizar o seu upload, assim como mostra na Imagem AA.
+</p> 
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/mobilizacao_3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao
+_2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem ZZ (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/mobilizacao_2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao
+_3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem AA (Fonte: DECIDIM 2024)
@@ -670,49 +676,18 @@ _1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: aut
 
 ## Publicando uma Conferência
 
-Depois de ter cumprido e preenchido os dados de todos os componentes anteriores, basta o administrador salvar as alterações na página <b>Informação Geral</b>(Imagem xx), e ao final dela encontrar o botão <b>Atualizar</b>. Feito a atualização, agora pode clicar em <b>Publicar</b>. Tudo isso é mostrado na (Imagem yy).(todo)
+Depois de ter cumprido e preenchido os dados de todos os componentes anteriores, basta o administrador salvar as alterações na página <b>Informação Geral</b> (Imagem AA), e ao final dela encontrar o botão <b>Atualizar</b>. Feito a atualização, agora pode clicar em <b>Publicar</b>. Tudo isso é mostrado na (Imagem BB).
 
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/publicado1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem AA (Fonte: DECIDIM 2024)
+</p></h6>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Relatórios automatizados além dos dados brutos sobre as propostas, os organizadores também tem acesso a relatórios com o perfil dos participantes da etapa digital, possibilindo a mobilização orientada a dados
-
-Gamificação de escolha de delegados digitais: possibilidade de dar pesos para ações do usuário na plataforma e criar regras de seleção de delegados digitais de forma gamificada. Relatório de ação dos usuários com a pontuação disponibilizado aos organizadores
-
-
-Eleição de delegados digitais gamificado
-todo: Variáveis que podem ser usadas
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/publicado2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem BB (Fonte: DECIDIM 2024)
+</p></h6>
