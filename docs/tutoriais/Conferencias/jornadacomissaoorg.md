@@ -39,18 +39,33 @@
 
 ### <p id="1">1. Informação Geral</p>
 
-Na página Informação Geral, representada pela Imagem 03 (todo), se concentra as principais informações da Conferência. A <b>Comissão Organizadora</b> deve preencher os seguintes campos:
+Na página Informação Geral, representada pela Imagem 03, se concentra as principais informações da Conferência. A <b>Comissão Organizadora</b> deve preencher os seguintes campos:
 
 * Título
 * URL Amigável (o endereço eletrônico que o usuário acessará a página da conferência)
 * Descrição
 * Data de início e final do processo participativo Conferência
-* Imagem inicial (banner principal com informações da Conferência) (Imagem 04)(todo)
+* Imagem inicial (banner principal com informações da Conferência) (Imagem 04)
 
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/info-imagem3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+
+<p align="justify">
+<h6 align = "center">Imagem 03 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/banner-imagem4.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+
+<p align="justify">
+<h6 align = "center">Imagem 04 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 ### <p id="2">2. Etapas</p>
 
-A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas presentes na conferência com as etapas de uma Conferência Nacional. Já vem definido a lista de etapas definidas, para a <b>Comissão Organizadora</b> definir <b>somente</b> os campos de <b>Data de início</b> e <b>Data final</b>. Para editar esses campos, basta clicar no ícone de lápis sinalizado na Imagem 05. Abaixo, encontra-se a lista de etapas que já existem na plataforma Brasil Participativo, ilustrado também na Imagem 05 (todo)
+A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas presentes na conferência com as etapas de uma Conferência Nacional. Já vem definido a lista de etapas definidas, para a <b>Comissão Organizadora</b> definir <b>somente</b> os campos de <b>Data de início</b> e <b>Data final</b>. Para editar esses campos, basta clicar no ícone de lápis sinalizado na Imagem 05. Abaixo, encontra-se a lista de etapas que já existem na plataforma Brasil Participativo, ilustrado também na Imagem 05.
 
 * Etapa 0 - Inicio da Conferência
 * Etapa 01 - Conferencias Municipais estaduais
@@ -58,6 +73,14 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 * Etapa 03 - Consolidação delegados etapa estadual + resoluções
 * Etapa 04 - Conferencia Nacional
 * Etapa 05 - Devolutiva
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/etapas-imagem5.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+
+<p align="justify">
+<h6 align = "center">Imagem 05 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 ### <p id="3">3. Componentes</p>
 
@@ -124,8 +147,15 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 
 
 #### Desabilitar Etapa Digital
-&emsp;&emsp; Nem todas as conferências contam com a Etapa Digital. Logo, para desabilitar esta etapa, entre na página Componentes, presente no menu lateral, e clique no <b>ícone "X"</b> ao lado do título <b>Etapa Digital</b>, como mostra a Imagem 11.</p> (todo)
+&emsp;&emsp; Nem todas as conferências contam com a Etapa Digital. Logo, para desabilitar esta etapa, entre na página Componentes, presente no menu lateral, e clique no <b>ícone "X"</b> ao lado do título <b>Etapa Digital</b>, como mostra a Imagem 11.</p>
 
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/etapadigital-imagem11.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 11 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 #### Funcionalidades da Etapa Digital
 <p align="justify">
@@ -146,8 +176,7 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 #### <p id="3.2.1">3.2.1. Configurar</p>
 
 <p align="justify">
-&emsp;&emsp; Será aberta a página de Editar componente ao selecionar a opção de configurar. Nela é possível ajustar algumas configurações para as propostas ao decorrer da conferência. Na Imagem 13 temos as configurações globais: </p> 
-&emsp;&emsp; Será aberta a página de Editar componente ao selecionar a opção de configurar. Nela é possível ajustar algumas configurações para as propostas ao decorrer da conferência. Na Imagem 13 temos as configurações globais: </p> 
+&emsp;&emsp; Será aberta a página de Editar componente ao selecionar a opção de configurar. Nela é possível ajustar algumas configurações para as propostas ao decorrer da conferência. Na Imagem 13 temos as configurações globais: </p>
 
  - Áreas de interesse ativados - Habilita as áreas de interesse no filtro lateral.
  - Área de interesse - Deve ser preenchida com a área de interesse da Etapa Digital, ou seja, o tema relacionado com a conferência.
@@ -159,13 +188,10 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 
 <p align="justify">
 <h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)</h6>
-<h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <p align="justify">
-&emsp;&emsp; Nas Imagem  14 e 15 temos dois exemplos de configurações de acordo com cada etapa, podendo mudar como ocorre a Etapa Digital de acordo com a etapa atual. Nela é possível determinar em qual etapa terá participação do público atravéz da votação ativada e em qual não, como exemplificado em ambas Imagens 14 e 15. </p> 
-&emsp;&emsp; Nas Imagem  14 e 15 temos dois exemplos de configurações de acordo com cada etapa, podendo mudar como ocorre a Etapa Digital de acordo com a etapa atual. Nela é possível determinar em qual etapa terá participação do público atravéz da votação ativada e em qual não, como exemplificado em ambas Imagens 14 e 15. </p> 
-
+&emsp;&emsp; Nas Imagem  14 e 15 temos dois exemplos de configurações de acordo com cada etapa, podendo mudar como ocorre a Etapa Digital de acordo com a etapa atual. Nela é possível determinar em qual etapa terá participação do público atravéz da votação ativada e em qual não, como exemplificado em ambas Imagens 14 e 15. </p>
 <p align="justify">
 &emsp;&emsp; Outras configurações como bloquear os comentários, permitir que participantes criem propostas, resposta de proposta ativada, endossos habilitados ou bloqueados, todas essas definições quando selecionadas são aplicadas no início da etapa e ao fim de uma etapa são aplicadas as configurações da etapa seguinte. </p> 
 
@@ -175,7 +201,6 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 
 <p align="justify">
 <h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)</h6>
-<h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 <figure markdown>
@@ -183,7 +208,6 @@ A página <b>Etapas</b> visa estabelecer uma relação entre as outras páginas 
 </figure>
 
 <p align="justify">
-<h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)</h6>
 <h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)</h6>
 </p> 
 
@@ -357,7 +381,16 @@ propostaRecebida1.png?ref_type=heads" alt="Jornada Presidencia" style="float: no
 
 Para ajudar na divulgação e organização das Conferências Municipais e Estaduais, temos esse componente Conferências. Podemos disponibilizar as informações sobre local, horário, material de divulgação, dessas conferências.
 
-Para adicionar uma conferência, clique no botão Novas conferência, como mostra a Imagem 29(todo).
+Para adicionar uma conferência, clique no botão Novas conferência, como mostra a Imagem 29.
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem29.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+
+<p align="justify">
+<h6 align = "center">Imagem 29 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
 
 Preencha todas as informações dessa conferência, como:
 
@@ -368,20 +401,67 @@ Preencha todas as informações dessa conferência, como:
 * Localização
 * Tipo de inscrição
 
-Tudo isso está ilustrado na Imagem 30 (todo).
+Tudo isso está ilustrado na Imagem 30.
 
-Todas as conferências municipais/estaduais cadastradas, aparem em uma página, onde ele pode olhar suas datas e locais(Imagem 31). (todo) 
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem30.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
 
+<p align="justify">
+<h6 align = "center">Imagem 30 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+Todas as conferências municipais/estaduais cadastradas, aparem em uma página, onde ele pode olhar suas datas e locais(Imagem 31).
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem31.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 31 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 Ao clicar em uma das conferências, o usuário pode ver todas as informações, além de se inscrever para participar, como mostra na Imagem 32.
 
-Ao final de cada conferência é disponibilizado informações de devolutiva sobre a execução da conferência, tais como: lista de delegados, ata de realização, lista de presença, resoluções eleitas, fotos do evento. Para que isso esteja disponível para o usuário, primeiro a comissão organizadora deve clicar no <b>ícone Pastas</b> na página adminsitrativa (Imagem 33). (todo)
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem32.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 32 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
-É esperado que se crie 3 tipos de pastas, sendo elas <b>Atas</b>,<b>Fotos do Evento</b> e <b>Resoluções Aprovadas</b>( Imagem 33.1).(todo)
+Ao final de cada conferência é disponibilizado informações de devolutiva sobre a execução da conferência, tais como: lista de delegados, ata de realização, lista de presença, resoluções eleitas, fotos do evento. Para que isso esteja disponível para o usuário, primeiro a comissão organizadora deve clicar no <b>ícone Pastas</b> na página adminsitrativa (Imagem 33).
 
-Após isso, para disponibilizar qualquer tipo de documento nesta conferência, a comissão organizadora deve clicar no <b>ícone Anexo</b>(Imagem 34), e adicionar um novo aquivo (Imagem 35)(todo). Durante o processo de adicionar o documento, o administrador pode selecionar a qual pasta este pertence (Imagem 36).(todo)
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem33.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 33 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
-Agenda Conferência Nacional: agenda com detalhes sobre a conferência nacional, tais como: dia, local, link para inscrição, informações gerais e fotos do evento.
+É esperado que se crie 3 tipos de pastas, sendo elas <b>Atas</b>,<b>Fotos do Evento</b> e <b>Resoluções Aprovadas</b>(Imagem 33.1).
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem331.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 33.1 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+Após isso, para disponibilizar qualquer tipo de documento nesta conferência, a comissão organizadora deve clicar no <b>ícone Anexo</b>(Imagem 34), e adicionar um novo aquivo (Imagem 35). Durante o processo de adicionar o documento, o administrador pode selecionar a qual pasta este pertence (Imagem 36).
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem35.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 35 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/imagem36.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center">Imagem 36 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 ### <p id="3.4">3.4. Notícias</p>
 
@@ -592,53 +672,86 @@ Ao selecionar a opção de Categorias, a plataforma redicionará para a tela da 
 </p>
 
 
-
-### <p id="4">5. Organizadores e Apoiadores</p>
-
-(todo)
-### <p id="5">6. Mobilização</p>
-TODO : Explicar pra que serve
-
-#### Como fazer upload de docs
+### <p id="5">5. Organizadores e Apoiadores</p>
 
 <p align="justify">
-&emsp;&emsp; Ao selecionar a opção Mobilização, o decidim de dicionará para a tela representada na Imagem 05, onde é possível ver listado as postagens cadastradas e logo ao lado o desenho de um clips, que ao  selecinar esse ícone novamente você será direcionado para uma nova tela representada pela Imagem 06.
-</p>
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20Mobilizacao.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-<p align="justify">
-<h6 align = "center">Imagem 05 (Fonte: DECIDIM 2024)
-</p></h6>
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20Anexos.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
-</figure>
-<p align="justify">
-<h6 align = "center">Imagem 06 (Fonte: DECIDIM 2024)
-</p></h6>
-
-<p align="justify">
-&emsp;&emsp; Já dentro da tela que exibe os anexos da mobilização, no canto superior direito ainda na Imagem 06 é possivel visualizar o botão "Novo anexo" para direcionar a tela para uma nova tela representada pela Imagem 07.
+&emsp;&emsp;Na seção Organizadores e Apoiadores, é possivel adicionar os parceiros da conferência.
 </p>
 
 <p align="justify">
-&emsp;&emsp; Assim sendo, nesta nova tela será possivel adicionar um novo anexo, onde os campos para serem preenchidos são o nome, posição, descrição(optativo), pasta e arquivo.
-</p> O arquivo pode ser adicionado selecionar o botão "adicionar  arquivo" que abrirá uma modal com as especificações do arquivo como tamanho e formato e como realizar o seu upload, assim como mostra na Imagem 08.
+Ao selecionar a opção Organizadores e Apoiadores, a plataforma redicionará para a tela da Imagem XX, onde estão listados todas os organizadores e apoiadores já cadastradas e é possível cadastrar novos no botão <b>Nova Parceiro</b>  além disso também é possivel <b>editar e remover</b> o apoiador ou organizador cadastrado (destacado na Imagem XX). Apertando o botão a tela da Imagem YY será exibida.
+</p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20criar%20novo%20anexo.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/apoiadores_-_lista.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem XX (Fonte: DECIDIM 2024)</h6>
+</p>
+
+<p align="justify">
+Na Imagem YY é só preencher todos os campos como está representado abaixo e selecionar a opção <b>Criar</b> para adicionar um novo apoiador ou organizador.
+</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/apoiadores.png" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
+</p>
+
+### <p id="6">6. Mobilização</p>
+
+Na aba Mobilização, a Comissão Organizadora disponibilizar suas mídias, como imagems e documentos relacionados a Conferência. Esses documentos podem ser, por exemplo, imagens disponíveis para divulgação do evento. (Imagem XX)
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem XX (Fonte: DECIDIM 2024)</h6>
+</p>
+
+
+#### Como fazer upload de documentos
+
+<p align="justify">
+&emsp;&emsp; Ao selecionar a opção <b>Anexos</b>, entre em <b>Arquivos</b>, como mostra a Imagem YY. Nesta página, observa-se a lista de documentos já existentes, e o botão <b>Novo Anexo</b>, onde será redirecionado para inserir um novo arquivo.
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao
+_1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
+</p>
+
+
+<p align="justify">
+&emsp;&emsp; Assim sendo, nesta nova tela será possivel adicionar um novo anexo, onde os campos para serem preenchidos são o nome, posição, descrição(optativo), pasta e arquivo.(Imagem ZZ)
+</p> 
+
+<p align="justify">
+&emsp;&emsp; O arquivo pode ser adicionado selecionar o botão "adicionar  arquivo" que abrirá uma modal com as especificações do arquivo como tamanho e formato e como realizar o seu upload, assim como mostra na Imagem AA.
+</p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao
+_2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 07 (Fonte: DECIDIM 2024)
+<h6 align = "center">Imagem ZZ (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsJCO/Tela%20upload.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/mobilizacao
+_3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
-<h6 align = "center">Imagem 08 (Fonte: DECIDIM 2024)
+<h6 align = "center">Imagem AA (Fonte: DECIDIM 2024)
 </p></h6>
 
 <p align="justify">
@@ -647,49 +760,21 @@ TODO : Explicar pra que serve
 
 ## Publicando uma Conferência
 
-Depois de ter cumprido e preenchido os dados de todos os componentes anteriores, basta o administrador salvar as alterações na página <b>Informação Geral</b>(Imagem xx), e ao final dela encontrar o botão <b>Atualizar</b>. Feito a atualização, agora pode clicar em <b>Publicar</b>. Tudo isso é mostrado na (Imagem yy).(todo)
+<p align="justify">
+&emsp;&emsp; Depois de ter cumprido e preenchido os dados de todos os componentes anteriores, basta o administrador salvar as alterações na página <b>Informação Geral</b> (Imagem AA), e ao final dela encontrar o botão <b>Atualizar</b>. Feito a atualização, agora pode clicar em <b>Publicar</b>. Tudo isso é mostrado na (Imagem BB).
+</p>
 
 
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/publicado1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem AA (Fonte: DECIDIM 2024)
+</p></h6>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Relatórios automatizados além dos dados brutos sobre as propostas, os organizadores também tem acesso a relatórios com o perfil dos participantes da etapa digital, possibilindo a mobilização orientada a dados
-
-Gamificação de escolha de delegados digitais: possibilidade de dar pesos para ações do usuário na plataforma e criar regras de seleção de delegados digitais de forma gamificada. Relatório de ação dos usuários com a pontuação disponibilizado aos organizadores
-
-
-Eleição de delegados digitais gamificado
-todo: Variáveis que podem ser usadas
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/publicado2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem BB (Fonte: DECIDIM 2024)
+</p></h6>
