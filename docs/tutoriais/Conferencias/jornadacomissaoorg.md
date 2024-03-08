@@ -619,6 +619,9 @@ Na Imagem YY é só preencher todos os campos como está representado abaixo e s
 <h6 align = "center">Imagem YY (Fonte: DECIDIM 2024)</h6>
 </p>
 
+### <p id="5">6. Mobilização</p>
+TODO : Explicar pra que serve
+
 
 #### Como fazer upload de docs
 
