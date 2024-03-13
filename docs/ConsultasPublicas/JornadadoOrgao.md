@@ -175,20 +175,57 @@
 <h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)
 </p></h6>
 
-- Criando um texto participativo
+
+### <p id="3">Componentes de uma Consulta Pública</p>
+
+<p align="justify">
+&emsp;&emsp; Os componentes são os itens de uma consulta pública. Clicando na palavra <b>Componentes</b> marcada na Imagem 16, estará listadas as seguintes telas:
+</p>
+
+ - <a href="#3.1">Texto Participativo<sup></sup></a>
+ - <a href="#3.2">Propostas<sup></sup></a>
+ - <a href="#3.3">Enquetes<sup></sup></a>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/componentes1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 16 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Fica a cargo do órgão escolher quais componentes farão parte da consulta pública criada. Para isso, aqueles que deseja publicar, deve-se clicar no ícone de verificado em cada um dos componentes, como mostra a Imagem 17.</p>
+
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/componentepublicar.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 17 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+#### <p id="3.1">Criando um texto participativo</p>
+
+Ao clicar no componente <b>Texto Participativo</b>a barra lateral esquerda (Imagem 18), abrirá a página de edição. No canto superior direito, se encontra um botão chamado <b>Textos Participativos</b>
+
     - modificar um decreto para um odt
     - explicar qual é o formato de cada celula para representar cada coisa
     - apos criar o texto, entrar em componentes, depois no texto e ai definir o comportamento para cada etapa
     - Exportar respostas onde clicar
     - Responder respostas, onde clicar
 
-    Primeiro documento odt com a seguinte formatação:
-        - Titulo: fonte 18
-        - Subtitulo: fonte 16
-        - Texto: fonte 12
+    Primeiro, o documento do tipo .odt deve ter a seguinte formatação:
+        - Titulo: <b> estilo da fonte Título 1</b> (fonte 18)
+        - Subtitulo: <b> estilo da fonte Título 2</b> (fonte 16)
+        - Texto: <b> estilo da fonte Corpo de texto</b> (fonte 12)
         - Cada paragrafo pode ou não ser comentado, onde vai ser desativado na fase de ajuste.
 
+    Está disponível um arquivo de exemplo de formatação para usar como base de texto participativo. Baixe o arquivo exemplo <b><a href="https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/templatetextoparticipativo.odt?ref_type=heads"></a>CLICANDO AQUI</b>
 
+    
+#### <p id="3.2">Criando propostas</p>
+
+#### <p id="3.3">Adicionando enquete</p>
 - Criando enquetes
     - Criar a enquete
     - Definir data
