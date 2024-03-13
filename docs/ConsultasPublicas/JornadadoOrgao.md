@@ -1,0 +1,199 @@
+# Consulta Pública - Jornada do Órgão
+
+## O que é uma consulta pública?
+<p align="justify">
+&emsp;&emsp;A consulta pública tem como objetivo facilitar o diálogo entre a administração pública e os cidadãos, em conformidade com os princípios da Legalidade, Moralidade, Eficiência, Publicidade, Transparência e Motivação.
+</p>  Este processo participativo, de natureza consultiva, ocorre por um período determinado e está aberto a qualquer interessado, com a finalidade de coletar contribuições sobre um assunto específico. Ele promove a participação ativa da sociedade na elaboração e definição de políticas públicas.
+
+
+## Criando uma consulta pública
+
+<p align="justify">
+&emsp;&emsp;Abra a lista de processos, ache o processo de nome [TEMPLATE CONSULTA PÚBLICA](Imagem 1). Este é o template de uma consulta pública e contém todas as configurações necessárias para esta. Clique no botão duplicar destacado na Imagem 1.</p>
+    
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/duplicarconsulta.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 1 (Fonte: DECIDIM 2024)
+</p></h6>
+
+<p align="justify">
+&emsp;&emsp;Modifique o título da consulta, e a URL amigável para as informações de sua nova Consulta Pública. Garanta que esteja copiando as Etapas, Categorias e Componentes, como mostra a Imagem 2.</p>
+    
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/duplicarconsulta1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 2 (Fonte: DECIDIM 2024)
+</p></h6>
+
+    
+<p align="justify">
+&emsp;&emsp;Finalize a cópia clicando no botão <b>Cópia de</b> (Imagem 3). Após clicar, o botão redirecionará para a lista de processo. Para continuar a edição da nova Consulta, procure na lista pelo seu nome, e clique no ícone de lápis sinalizado na Imagem 4.</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/duplicarconsulta2.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 3 (Fonte: DECIDIM 2024)
+</p></h6>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/duplicarconsulta3.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 4 (Fonte: DECIDIM 2024)
+</p></h6>
+
+
+### Informação Geral
+
+<p align="justify">
+&emsp;&emsp;A primeira página que se visualiza é a <b>Informação Geral</b>. Nela, o órgão preencherá as informações como Setor, Contato, e também a descrição geral dessa consulta pública.</p>
+
+<p align="justify">
+&emsp;&emsp;Com o título preenchido, selecione o <b>Tipo de processo participativo </b> que nesse caso é Consulta Pública. (Imagem 5)</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/infogerais1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 5 (Fonte: DECIDIM 2024)
+</p></h6>
+
+<p align="justify">
+&emsp;&emsp;Modifique a Descrição, onde fica o resumo e objetivo da consulta pública e imagens relacionadas. (Imagem 6)</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/infogerais2.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 6 (Fonte: DECIDIM 2024)
+</p></h6>
+
+<p align="justify">
+&emsp;&emsp;Coloque a duração do processo, sua <b>Data de início</b> e <b>Data final</b>. (Imagem 7)</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/infogerais2.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 7 (Fonte: DECIDIM 2024)
+</p></h6>
+
+
+<p align="justify">
+&emsp;&emsp;Na seção <b>Dados do Processo</b> presente na Imagem 8, preencha as seguintes informações:</p>
+    * Órgão/Instituição
+    * Setor
+    * Status do Processo (Ativo, Encerrada, Encerrada-Resultado)
+    * Responsável pela consulta
+    * Publicação no DOU
+    * Contato
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/infogerais4org.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 8 (Fonte: DECIDIM 2024)
+</p></h6>
+
+
+<p align="justify">
+&emsp;&emsp;O campo Áreas de interesse (Imagem 9) é o tema relacionado à consulta criada. Já os Órgão/Instituição e Grupos de processo devem ser preenchidos com o órgão responsável. Salve essas novas informações clicando no botão destacado <b>Atualizar</b>. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/infogerais5org.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 9 (Fonte: DECIDIM 2024)
+</p></h6>
+
+
+### Etapas de uma Consulta Pública
+
+<p align="justify">
+&emsp;&emsp;As etapas definem o comportamento de toda a consulta pública. Temos que uma consulta pública pode ter os seguintes status: 
+    * <b>Ativa</b>: o cidadão pode comentar o texto participativo, criar/votar em uma proposta, ou responder uma enquete;
+    * <b>Encerrada</b>: o cidadão não interage mais com a consulta e somente tem acesso a informações prévias, como comentários já feitos, propostas criadas, ou arquivos que o órgão disponibilizou;
+    * <b>Encerrada - Resultado</b>: onde somente quem interage é o órgão, e este responde todos os questionamentos levantados pela população e disponibiliza devolutivas sobre.</p>
+
+<p align="justify">
+&emsp;&emsp;Este comportamento se reflete em regras dentro da plataforma. Cada componente, ou seja <b>Texto Participativo</b>, <b>Enquete</b> e Propostas, já esperam que para cada status, esse comportamento de permissão de interação aconteça.</p>
+
+<p align="justify">
+&emsp;&emsp;As mudanças de comportamento são automáticas, e cabe ao órgão sinalizar quando cada status acontece. Para delimitar o começo de cada etapa, o órgão deve clicar primeiramente em <b>Etapas</b>, na barra lateral esquerda, em seguida, no ícone de lápis presente em cada etapa, como mostra a Imagem 10.</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 10 (Fonte: DECIDIM 2024)
+</p></h6>
+
+
+<p align="justify">
+&emsp;&emsp;Após, será redirecionado a página de edição da etapa clicada. Os campos que devem ser modificado são <b>Data de início</b> e <b>Data Final</b> como mostra as Imagens 11 e 12. Clique no botão <b>Atualizar</b> ao final das modificações (Imagem 13).</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa2.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 11 (Fonte: DECIDIM 2024)
+</p></h6>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa3.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 12 (Fonte: DECIDIM 2024)
+</p></h6>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa31.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)
+</p></h6>
+
+<p align="justify">
+&emsp;&emsp;A Imagem 14, mostra como ficam as etapas depois de adicionar suas datas de início e final. Caso não defina as datas finais das etapas <b>Encerrada</b>/<b>Encerrada - Resultado</b>, as ative manualmente clicando no botão sinalizado na Imagem 15.</p>
+
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa4.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)
+</p></h6>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa5.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)
+</p></h6>
+
+- Criando um texto participativo
+    - modificar um decreto para um odt
+    - explicar qual é o formato de cada celula para representar cada coisa
+    - apos criar o texto, entrar em componentes, depois no texto e ai definir o comportamento para cada etapa
+    - Exportar respostas onde clicar
+    - Responder respostas, onde clicar
+
+    Primeiro documento odt com a seguinte formatação:
+        - Titulo: fonte 18
+        - Subtitulo: fonte 16
+        - Texto: fonte 12
+        - Cada paragrafo pode ou não ser comentado, onde vai ser desativado na fase de ajuste.
+
+
+- Criando enquetes
+    - Criar a enquete
+    - Definir data
+    - Definir o comportamento para cada etapa
+    - Exportar respostas
+    - Responder respostas
+
+- Adicionar anexos e informações relevantes

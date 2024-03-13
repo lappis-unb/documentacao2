@@ -1,13 +1,11 @@
 # Consultas Públicas
 
-## Jornada da Presidência
-
-### O que é uma consulta pública?
+## O que é uma consulta pública?
 <p align="justify">
 &emsp;&emsp;A consulta pública tem como objetivo facilitar o diálogo entre a administração pública e os cidadãos, em conformidade com os princípios da Legalidade, Moralidade, Eficiência, Publicidade, Transparência e Motivação.
 </p>  Este processo participativo, de natureza consultiva, ocorre por um período determinado e está aberto a qualquer interessado, com a finalidade de coletar contribuições sobre um assunto específico. Ele promove a participação ativa da sociedade na elaboração e definição de políticas públicas. 
 
-### Introdução
+## Introdução
 <p align="justify">
 &emsp;&emsp;O presente documento tem como objetivo explicar como criar uma consulta pública, exemplificando como funcionam os pontos importantes, e alguns componentes do decidim dentro do módulo "Processos". Além de fornecer um tutorial, demonstrando a atualização dos dados da consulta pública e a utilização de suas funcionalidades.
 </p>  

@@ -49,7 +49,7 @@ E dentro de "CONTEÚDO" representada pela Imagem 04 estará disponível o texto 
 
 ### Preenchendo Informações
 <p align="justify">
-&emsp;&emsp;A Imagem 05 apresenta a consulta pública que o órgão tem permição para editar.
+&emsp;&emsp;A Imagem 05 apresenta a consulta pública que o órgão tem permissão para editar.
 </p>  
 
 <figure markdown>
