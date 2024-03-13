@@ -206,31 +206,228 @@
 
 #### <p id="3.1">Criando um texto participativo</p>
 
-Ao clicar no componente <b>Texto Participativo</b>a barra lateral esquerda (Imagem 18), abrirá a página de edição. No canto superior direito, se encontra um botão chamado <b>Textos Participativos</b>
+<p align="justify">
+&emsp;&emsp; Ao clicar no componente <b>Texto Participativo</b>a barra lateral esquerda (Imagem 18), abrirá a página de edição. No canto superior direito, se encontra um botão chamado <b>Textos Participativos</b> </p>
 
-    - modificar um decreto para um odt
-    - explicar qual é o formato de cada celula para representar cada coisa
-    - apos criar o texto, entrar em componentes, depois no texto e ai definir o comportamento para cada etapa
-    - Exportar respostas onde clicar
-    - Responder respostas, onde clicar
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtexto1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 18 (Fonte: DECIDIM 2024)</h6>
+</p> 
 
-    Primeiro, o documento do tipo .odt deve ter a seguinte formatação:
-        - Titulo: <b> estilo da fonte Título 1</b> (fonte 18)
-        - Subtitulo: <b> estilo da fonte Título 2</b> (fonte 16)
-        - Texto: <b> estilo da fonte Corpo de texto</b> (fonte 12)
-        - Cada paragrafo pode ou não ser comentado, onde vai ser desativado na fase de ajuste.
+<p align="justify">
+&emsp;&emsp; No canto superior direito da Imagem 19, encontra-se um botão chamado <b>Textos Participativos</b>. </p>
 
-    Está disponível um arquivo de exemplo de formatação para usar como base de texto participativo. Baixe o arquivo exemplo <b><a href="https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/templatetextoparticipativo.odt?ref_type=heads"></a>CLICANDO AQUI</b>
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtexto2.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 19 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Ao clicar no botão anteriormente citado, é apresentada uma tela onde no canto superior direito da Imagem 20, encontra-se um botão chamado <b>Importar documento</b> para fazer <i>upload</i> do documento. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtexto3.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 20 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Será apresentada uma tela contendo um botão para <b>Adicionar arquivo</b> na Imagem 21. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtexto4.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 21 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Ao clicar no botão citado anteriormente, conforme a Imagem 22, será apresentado um <i>prompt</i>, sendo possível <b>arrastar</b> ou <b>abrir</b> o arquivo. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtexto5.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 20 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Ao fazer upload do arquivo, deve-se clicar no botão <b>Salvar</b>, conforme a Imagem 22. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtexto6.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 22 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Dado que o documento foi carregado, deve-se clicar no botão <b>Carregar documento</b>, como ilustrado na Imagem 23.  </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtexto7.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 23 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Conforme a Imagem 24, o órgão pode <b>Descartar tudo</b> ou <b>Importar outro documento</b>. Além disso, o órgão pode selecionar com quais trechos do texto os usuários podem interagir por meio do <i>checkbox</i> <b>Interação habilitada</b>. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtexto8.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 24 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Para publicar o documento, o órgão deve clicar no botão <b>Publicar documento</b>, presente no final da página, conforme a Imagem 25. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtexto10.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 25 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Para exportar todas as respostas, o órgão deve clicar no botão <b>Exportar tudo</b> e selecionar o formato no qual as respostas serão compiladas, conforme a Imagem 26. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtextodownload.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 26 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+#### <p id="3.1.1">Como formatar o texto para fazer upload?</p>
+
+<p align="justify">
+&emsp;&emsp; O texto utilizado deve diferenciar título, subtítulo e corpo por meio da formatação do texto. O texto deve seguir as seguintes especificações:
+
+- Titulo: fonte tamanho 18;
+- Subtitulo: fonte tamanho 16;
+- Texto: fonte tamanho 12.
+
+Nas Imagens 27 e 28, temos exempos de formatação para os textos participativos. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtextoexemplodearquivo.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 27 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/uploadtextoexemploresolucao.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center">Imagem 28 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Está disponível um arquivo de exemplo de formatação para usar como base de texto participativo. Baixe o arquivo exemplo <b><a href="https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/templatetextoparticipativo.odt?ref_type=heads"></a>CLICANDO AQUI</b>
+</p>
 
     
-#### <p id="3.2">Criando propostas</p>
+#### <p id="3.2">Criando Proposta</p>
+
+<p align="justify">
+&emsp;&emsp; Para criar uma proposta, deve-se clicar no botão assinalado em vermelho na Imagem 29. </p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/proposta1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 29 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Em seguida, clique no botão destacado na Imagem 30. </p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/proposta2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 30 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Em seguida, a tela da Imagem 31 será apresentada. Os campos de título, descrição devem ser preenchidos corretamente. Caso deseje, o orgão pode selecionar as opções de interação habilitada e se a proposta vem de uma reunião, um tema pode ser escolhdo no último campo. Por fim, o orgão deve clicar no botão "Criar". </p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/proposta3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 31 (Fonte: DECIDIM 2024)</h6>
+</p>
 
 #### <p id="3.3">Adicionando enquete</p>
-- Criando enquetes
-    - Criar a enquete
-    - Definir data
-    - Definir o comportamento para cada etapa
-    - Exportar respostas
-    - Responder respostas
+<p align="justify">
+&emsp;&emsp; Para criar uma enquete, deve-se clicar no botão assinalado em vermelho na Imagem 32. </p> 
 
-- Adicionar anexos e informações relevantes
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/enquetes1.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 32 (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+<p align="justify">
+&emsp;&emsp; Em seguida, a tela da Imagem 33 será apresentada. Os campos de título, descrição devem ser preenchidos corretamente. </p> 
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/enquetes2.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 33 (Fonte: DECIDIM 2024)</h6>
+</p>
+
+<p align="justify">
+&emsp;&emsp; Além disso, devem ser preenchidos os campos de Termos de Serviço e Termos de Privacidade, conforme a Imagem 34. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/enquetes3.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 34 (Fonte: DECIDIM 2024)</h6>
+</p>
+
+<p align="justify">
+&emsp;&emsp; Para adicionar perguntas, o orgão deve selecionar clicar no botão destacado na Imagem 35. Além disso, o orgão pode adicionar um separador ao clicar no botão destacado na Imagem 36 e/ou um título e descrição como destacado na Imagem 37. </p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/enquetesbotoesaddper.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 35 (Fonte: DECIDIM 2024)</h6>
+</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/enquetesbotoesaddsep.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 36 (Fonte: DECIDIM 2024)</h6>
+</p>
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/enquetesbotoesaddtitu.png?ref_type=heads" alt="Jornada Presidencia" style="float: none; margin: auto"> 
+</figure>
+
+<p align="justify">
+<h6 align = "center">Imagem 37 (Fonte: DECIDIM 2024)</h6>
+</p>
