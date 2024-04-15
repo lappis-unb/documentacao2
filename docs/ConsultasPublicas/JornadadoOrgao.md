@@ -126,7 +126,7 @@
 &emsp;&emsp;As mudanças de comportamento são automáticas, e cabe ao órgão sinalizar quando cada status acontece. Para delimitar o começo de cada etapa, o órgão deve clicar primeiramente em <b>Etapas</b>, na barra lateral esquerda, em seguida, no ícone de lápis presente em cada etapa, como mostra a Imagem 10.</p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapas1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 10 (Fonte: DECIDIM 2024)
@@ -137,21 +137,21 @@
 &emsp;&emsp;Após, será redirecionado a página de edição da etapa clicada. Os campos que devem ser modificado são <b>Data de início</b> e <b>Data Final</b> como mostra as Imagens 11 e 12. Clique no botão <b>Atualizar</b> ao final das modificações (Imagem 13).</p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa2.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapas2.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 11 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa3.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapas3.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 12 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa31.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapas31.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 13 (Fonte: DECIDIM 2024)
@@ -162,14 +162,14 @@
 
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa4.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapas4.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 14 (Fonte: DECIDIM 2024)
 </p></h6>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapa5.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/etapas5.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 15 (Fonte: DECIDIM 2024)
