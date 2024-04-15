@@ -19,7 +19,7 @@
 </p></h6>
 
 <p align="justify">
-&emsp;&emsp;Modifique o título da consulta, e a URL amigável para as informações de sua nova Consulta Pública. Garanta que esteja copiando as Etapas, Categorias e Componentes, como mostra a Imagem 2.</p>
+&emsp;&emsp;Modifique o título da consulta, e a URL amigável para as informações de sua nova Consulta Pública. Garanta que esteja copiando as Etapas, Categorias e Componentes. Além disso, altere o título para algo que represente a Consulta Pública sendo criada, como mostra a Imagem 2.</p>
     
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/duplicarconsulta1.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
@@ -87,13 +87,13 @@
 &emsp;&emsp;Na seção <b>Dados do Processo</b> presente na Imagem 8, preencha as seguintes informações:</p>
     * Órgão/Instituição
     * Setor
-    * Status do Processo (Ativo, Encerrada, Encerrada-Resultado)
+    * Telefone ou E-mail Institucional do Setor
     * Responsável pela consulta
-    * Publicação no DOU
-    * Contato
+    * Data de publicação do processo no DOU 
+    * Link da publicação do processo no DOU
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/infogerais4org.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/infoGeraisOrgao.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 8 (Fonte: DECIDIM 2024)
@@ -101,10 +101,10 @@
 
 
 <p align="justify">
-&emsp;&emsp;O campo Áreas de interesse (Imagem 9) é o tema relacionado à consulta criada. Já os Órgão/Instituição e Grupos de processo devem ser preenchidos com o órgão responsável. Salve essas novas informações clicando no botão destacado <b>Atualizar</b>. </p>
+&emsp;&emsp;O campo Áreas de interesse (Imagem 9) é o tema relacionado à consulta criada. Já a Secretaria deve ser preenchida indicando o órgão responsável pela consulta. Salve essas novas informações clicando no botão destacado <b>Atualizar</b>. </p>
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/infogerais5org.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/consultaspublicas/filtrosSecretariaOrg.png?ref_type=heads" alt="Consulta Publica" style="float: none; margin: auto"> 
 </figure>
 <p align="justify">
 <h6 align = "center">Imagem 9 (Fonte: DECIDIM 2024)
