@@ -5,7 +5,7 @@ O presente documento tem como objetivo orientar o usuário sobre como se deve cr
 Para criar propostas acesse a aba Propostas/Etapa Digital e clique na opção conforme mostra a figura xx.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/CriarProposta.jpg?ref_type=heads" alt="Jornada do Usuario Cidadao" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/blob/main/docs/assetsTutoriais/conferencias/CriarProposta.JPG?ref_type=heads" alt="Criar Minha Proposta" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
 <h6 align = "center"> Imagem 1 (Fonte: DECIDIM 2024)</h6>
