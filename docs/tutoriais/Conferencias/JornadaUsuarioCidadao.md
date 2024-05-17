@@ -4,7 +4,7 @@ O presente documento tem como objetivo explicar a jornada do usuário cidadão, 
 
 ## Criando perfil do usuário
 
-Para que você usuário cidadão possa participar de qualquer processo participativo na plataforma Brasil Participativo é necessário que crie o seu perfil. Para isto, basta que você clique na opção "**Criar perfil**" conforme imagem xx.
+Para que você usuário cidadão possa participar de qualquer processo participativo na plataforma Brasil Participativo é necessário que crie o seu perfil. Para isto, basta que você clique na opção "**Criar perfil**" conforme Imagem 01.
 
 
 <figure markdown>
