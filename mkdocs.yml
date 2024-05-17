@@ -56,7 +56,7 @@ nav:
      - 'Responsabilidades': 'PacoteConferencia/responsabilidades.md'
      - 'Moderação': 'PacoteConferencia/moderacao.md'
      - 'Jornada da Presidência': 'tutoriais/Conferencias/jornadadapresidencia.md'
-     - 'Jornada da Comissão Organizadora': 'https://gitlab.com/lappis-unb/decidimbr/documentacao/-/blob/main/docs/tutoriais/Conferencias/jornadacomissaoorg.md?ref_type=heads'
+     - 'Jornada da Comissão Organizadora': 'tutoriais/Conferencias/jornadacomissaoorg.md'
 
   - 'Consulta Pública':
     - 'Jornada da Presidência': 'ConsultasPublicas/JornadaPresidencia.md'
