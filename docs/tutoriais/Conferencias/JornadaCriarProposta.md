@@ -18,7 +18,7 @@ Após terminar de preencher você poderá visualizar a sua proposta clicando na 
 Figura XX - Pré-visualizar proposta
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/blob/main/docs/assetsTutoriais/conferencias/Previsualizar.png?ref_type=heads" alt=" Pré-visualizar Proposta" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Previsualizar.png?ref_type=heads" alt=" Pré-visualizar Proposta" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
 <h6 align = "center"> Imagem 2 (Fonte: DECIDIM 2024)</h6>
