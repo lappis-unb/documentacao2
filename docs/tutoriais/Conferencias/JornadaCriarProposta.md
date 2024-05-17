@@ -4,7 +4,7 @@ O presente documento tem como objetivo orientar o usuário sobre como se deve cr
 
 Para criar propostas acesse a aba Propostas/Etapa Digital e clique na opção conforme mostra a figura xx.
 
-Figura XX - Criar Minha Proposta
+![Figura XX - Criar Minha Proposta](CriarProposta.JPG)
 
 Preencha o Título da Proposta e faça uma descrição.
 
