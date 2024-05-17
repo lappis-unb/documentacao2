@@ -51,6 +51,7 @@ markdown_extensions:
 
 nav:
   - Home: 'index.md'
+  - 'Hello world': 'tutoriais/Conferencias/Hello_World.md'
   - 'Pacote Conferência': 
      - 'Conferência no BP': 'PacoteConferencia/conferencias.md'
      - 'Responsabilidades': 'PacoteConferencia/responsabilidades.md'
