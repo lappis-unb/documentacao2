@@ -27,12 +27,12 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
 - Descrição:
 
 - Tipo: presencial, virtual ou ambas;
-    - Se for **presencial**~~~~:
+    - Se for **presencial**:
         - Informe Endereço;
         - Informe Localização;
         - Informe dicas de localização;
 
-    - Se for **virtual**~~~~:
+    - Se for **virtual**:
         - Informe URL da reunião on-line;
         - Informe Tipo do iframe embutido;
             - Nenhum:
@@ -43,7 +43,7 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
             - Somente participantes inscrits;
             - Participantes registrados para este evento;
 
-    - Se for **ambas**~~~~:
+    - Se for **ambas**:
         - Informe Endereço;
         - Informe Localização;
         - Informe dicas de localização;
