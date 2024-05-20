@@ -1,5 +1,5 @@
 
-O presente documento tem como objetivo orientar o usuário sobre como se deve criar reuniões ou conferencias, seja a etapa municipal, estadual ou livre durante uma Conferência dentro da plataforma Brasil Participativo.
+O presente documento tem como objetivo orientar o usuário sobre como criar reuniões ou conferências, seja uma etapa municipal, estadual ou livre dentro da plataforma Brasil Participativo.
 
 Para criar reuniões/conferências acesse a aba **Conferências**, conforme mostra a Imagem 01.
 
