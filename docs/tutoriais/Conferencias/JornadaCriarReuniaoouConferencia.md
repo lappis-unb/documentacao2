@@ -1,4 +1,3 @@
-## Jornada
 
 O presente documento tem como objetivo orientar o usuário sobre como se deve criar reuniões ou conferencias, seja a etapa municipal, estadual ou livre durante uma Conferência dentro da plataforma Brasil Participativo.
 
@@ -22,13 +21,17 @@ Agora localize o botão "Nova Reunião" conforme imagem 02.
 
 
 Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
+
 - Título:
+
 - Descrição:
+
 - Tipo: presencial, virtual ou ambas;
     - Se for **presencial**~~~~:
         - Informe Endereço;
         - Informe Localização;
         - Informe dicas de localização;
+
     - Se for **virtual**~~~~:
         - Informe URL da reunião on-line;
         - Informe Tipo do iframe embutido;
@@ -39,6 +42,7 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
             - Todos os visitantes;
             - Somente participantes inscrits;
             - Participantes registrados para este evento;
+
     - Se for **ambas**~~~~:
         - Informe Endereço;
         - Informe Localização;
@@ -52,9 +56,13 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
             - Todos os visitantes;
             - Somente participantes inscrits;
             - Participantes registrados para este evento;
+
 - Hora de inicio;
+
 - Hora de término;
+
 - Categoria;
+
 - Tipo de inscrição;
     - inscrição desativada:
     - nesta plataforma:
