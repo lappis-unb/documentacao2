@@ -33,7 +33,7 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
         - Informe dicas de localização;
 
     - Se for **virtual**:
-        - Informe URL da reunião on-line;
+        - Informe URL da reunião on-line; 
         - Informe Tipo do iframe embutido;
             - Nenhum:
             - Embutir na página do evento:
@@ -67,6 +67,8 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
     - inscrição desativada:
     - nesta plataforma:
     - em uma plataforma diferente:
+
+Pronto, basta clicar no botão Criar e sua reunião estará criada.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/CriarReuniao.JPG?ref_type=heads" alt=" Criar Reunião" style="float: none; margin: auto"> 
