@@ -4,7 +4,7 @@ O presente documento tem como objetivo explicar a jornada do usuário cidadão, 
 
 ## Criando perfil do usuário
 
-Para que você usuário cidadão possa participar de qualquer processo participativo na plataforma Brasil Participativo é necessário que crie o seu perfil. Para isto, basta que você clique na opção "**Criar perfil**" conforme Imagem 01.
+Para que você usuário cidadão possa participar de qualquer processo participativo na plataforma Brasil Participativo é necessário que crie o seu perfil. Para dar inicio ao seu cadastro, você deverá clicar na opção "**Criar perfil**" conforme Imagem 01.
 
 
 <figure markdown>
@@ -17,5 +17,20 @@ Para que você usuário cidadão possa participar de qualquer processo participa
 
 Depois clique em conecte com o gov.br
 
-Imagem gov.br
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/ConecteSe.JPG?ref_type=heads" alt=" Conectar ao gov.Br" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center"> Imagem 02 - Conectar ao gov.Br (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+Após isto, preencha a tela (Imagem 03) informando seu CPF.
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/GovBr.JPG?ref_type=heads" alt="Informar CPF" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center"> Imagem 03 - Informe seu CPF (Fonte: DECIDIM 2024)</h6>
+</p> 
+
 
