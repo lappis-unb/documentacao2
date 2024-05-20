@@ -33,4 +33,13 @@ Após isto, preencha a tela (Imagem 03) informando seu CPF.
 <h6 align = "center"> Imagem 03 - Informe seu CPF (Fonte: DECIDIM 2024)</h6>
 </p> 
 
+Após informar o seu CPF, agora vc deverá criar uma senha (Imagem 04)
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/DigitarSenhaGov.JPG?ref_type=heads" alt="Informar senha" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center"> Imagem 04 - Informe senha (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+Ficou dúvidas, você pode acessar este link [Criar sua conta gov.br](https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br)
 
