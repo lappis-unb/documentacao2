@@ -4,7 +4,6 @@ O presente documento tem como objetivo orientar o usuário sobre como se deve cr
 
 Para criar reuniões/conferencias acesse a aba **Conferências** e clique na opção conforme mostra a Imagem 01.
 
-
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/AbaConferencia.JPG?ref_type=heads" alt=" Aba Conferencia" style="float: none; margin: auto"> 
 </figure> 
@@ -22,20 +21,44 @@ Agora localize o botão "Nova Reunião" conforme imagem 02.
 </p> 
 
 
-Nesta etapa você deverá preencher todos os campos (Imagem 03).
+Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
 - Título:
 - Descrição:
 - Tipo: presencial, virtual ou ambas;
-- Se a reuniao for presencial, informe dicas de localização;
-- Se a reunião for virtual, informa a URL da reunião on-line 
-    - Qual será o Tipo do iframe embutido: nenhum, embutir na pagina do evento, Abrir URL em uma nova aba
+    - Se for **presencial**~~~~:
+        - Informe Endereço;
+        - Informe Localização;
+        - Informe dicas de localização;
+    - Se for **virtual**~~~~:
+        - Informe URL da reunião on-line;
+        - Informe Tipo do iframe embutido;
+            - Nenhum:
+            - Embutir na pagina do evento:
+            - Abrir URL em uma nova aba:
+        - Nível de acesso do iframe:
+            - Todos os visitantes;
+            - Somente participantes inscrits;
+            - Participantes registrados para este evento;
+    - Se for **ambas**~~~~:
+        - Informe Endereço;
+        - Informe Localização;
+        - Informe dicas de localização;
+        - Informe URL da reunião on-line;
+        - Informe Tipo do iframe embutido;
+            - Nenhum:
+            - Embutir na pagina do evento:
+            - Abrir URL em uma nova aba:
+        - Nível de acesso do iframe:
+            - Todos os visitantes;
+            - Somente participantes inscrits;
+            - Participantes registrados para este evento;
 - Hora de inicio;
 - Hora de término;
 - Categoria;
 - Tipo de inscrição;
-    - inscrição desativada;
-    - nesta plataforma;
-    - em uma plataforma diferente;
+    - inscrição desativada:
+    - nesta plataforma:
+    - em uma plataforma diferente:
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/CriarReuniao.JPG?ref_type=heads" alt=" Criar Reunião" style="float: none; margin: auto"> 
