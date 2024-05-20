@@ -17,12 +17,12 @@ Para que você usuário cidadão possa participar de qualquer processo participa
 
 Depois clique em conecte com o gov.br
 
-`<figure markdown>
+<figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/ConecteSe.JPG?ref_type=heads" alt=" Conectar ao gov.Br" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
 <h6 align = "center"> Imagem 02 - Conectar ao gov.Br (Fonte: DECIDIM 2024)</h6>
-</p> ´
+</p> 
 
 Após isto, preencha a tela (Imagem 03) informando seu CPF.
 
