@@ -13,16 +13,16 @@ Para criar reuniões/conferências acesse a aba **Conferências**, conforme most
 
 Agora localize o botão "Nova Reunião" conforme imagem 02.
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/NovaConferencia.JPG?ref_type=heads" alt=" Criar Reunião" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/NovaConferencia.JPG?ref_type=heads" alt=" Criar uma reunião" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 02 - Nova Reunião (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 02 - Criar uma reunião (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
 Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
 
-- ~~Título~~:
+- <u>Título </u>
 
 - Descrição:
 
@@ -34,7 +34,7 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
 
     - Se for **virtual**:
         - Informe URL da reunião on-line; 
-        - Informe Tipo do iframe embutido;
+        - Informe tipo do iframe embutido;
             - Nenhum:
             - Embutir na página do evento:
             - Abrir URL em uma nova aba:
