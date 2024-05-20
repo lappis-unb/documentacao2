@@ -68,7 +68,7 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
     - nesta plataforma:
     - em uma plataforma diferente:
 
-Pronto, basta clicar no botão Criar e sua reunião estará criada.
+Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/CriarReuniao.JPG?ref_type=heads" alt=" Criar Reunião" style="float: none; margin: auto"> 
