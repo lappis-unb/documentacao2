@@ -7,20 +7,20 @@ Para criar reuniões/conferências acesse a aba **Conferências**, conforme most
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/AbaConferencia.JPG?ref_type=heads" alt=" Aba Conferência" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 01 - Aba Conferência (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 01 - Aba Conferências (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
 Agora localize o botão "Nova Reunião" conforme imagem 02.
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/NovaConferencia.JPG?ref_type=heads" alt=" Criar uma reunião" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/NovaConferencia.JPG?ref_type=heads" alt=" Criar Nova reunião" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 02 - Criar uma reunião (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 02 - Criar Nova reunião (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
-Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
+Nesta etapa (imagem 03) você deverá preencher todos os campos solicitados.
 
 - <u>Título</u>
 
