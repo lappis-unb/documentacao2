@@ -1,7 +1,7 @@
 
 O presente documento tem como objetivo orientar o usuário sobre como se deve criar reuniões ou conferencias, seja a etapa municipal, estadual ou livre durante uma Conferência dentro da plataforma Brasil Participativo.
 
-Para criar reuniões/conferências acesse a aba **Conferências** e clique na opção conforme mostra a Imagem 01.
+Para criar reuniões/conferências acesse a aba **Conferências**, conforme mostra a Imagem 01.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/AbaConferencia.JPG?ref_type=heads" alt=" Aba Conferência" style="float: none; margin: auto"> 
@@ -28,8 +28,8 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
 
 - Tipo: presencial, virtual ou ambas;
     - Se for **presencial**:
-        - Informe Endereço;
-        - Informe Localização;
+        - Informe endereço;
+        - Informe localização;
         - Informe dicas de localização;
 
     - Se for **virtual**:
@@ -44,11 +44,11 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
             - Participantes registrados para este evento;
 
     - Se for **ambas**:
-        - Informe Endereço;
-        - Informe Localização;
+        - Informe endereço;
+        - Informe localização;
         - Informe dicas de localização;
         - Informe URL da reunião on-line;
-        - Informe Tipo do iframe embutido;
+        - Informe tipo do iframe embutido;
             - Nenhum:
             - Embutir na página do evento:
             - Abrir URL em uma nova aba:
