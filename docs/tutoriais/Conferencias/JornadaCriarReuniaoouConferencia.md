@@ -22,11 +22,12 @@ Agora localize o botão "Nova Reunião" conforme imagem 02.
 
 Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
 
--<u>Título</u>
+- <u>Título</u>
 
--<u>Descrição</u>
+- <u>Descrição</u>
 
--<u>Tipo</u>: presencial, virtual ou ambas;
+- <u>Tipo</u>:
+
     - Se for **presencial**:
         - Informe endereço;
         - Informe localização;
@@ -57,13 +58,13 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
             - Somente participantes inscritos;
             - Participantes registrados para este evento;
 
--<u>Hora de início</u>: informe a data e a hora que sua reunião terá início.
+- <u>Hora de início</u>: informe a data e a hora que sua reunião terá início.
 
--<u>Hora de término</u>: informe a data e a hora que sua reunião será encerrada.
+- <u>Hora de término</u>: informe a data e a hora que sua reunião será encerrada.
 
--<u>Categoria</u>;
+- <u>Categoria</u>;
 
--<u>Tipo de inscrição</u>;
+- <u>Tipo de inscrição</u>;
     - inscrição desativada:
     - nesta plataforma:
     - em uma plataforma diferente:
