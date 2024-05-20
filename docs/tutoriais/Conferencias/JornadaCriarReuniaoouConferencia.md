@@ -22,7 +22,7 @@ Agora localize o botão "Nova Reunião" conforme imagem 02.
 
 Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
 
-- Título:
+- ~~Título~~:
 
 - Descrição:
 
@@ -57,9 +57,9 @@ Nesta etapa você deverá preencher todos os campos solicitados (Imagem 03).
             - Somente participantes inscritos;
             - Participantes registrados para este evento;
 
-- Hora de início;
+- Hora de início: informe a data e a hora que sua reunião terá início.
 
-- Hora de término;
+- Hora de término: informe a data e a hora que sua reunião será encerrada.
 
 - Categoria;
 
