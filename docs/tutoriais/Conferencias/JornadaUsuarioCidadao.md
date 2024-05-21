@@ -126,8 +126,16 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 <h6 align = "center"> Imagem 03 - Criar Reunião (Fonte: DECIDIM 2024)</h6>
 </p> 
 
+# Participando de um evento Presencial
 
-## Jornada Criar Proposta
+
+# Participando de um evento Online
+
+
+# Participando de um evento Híbrido
+
+
+## Criando Proposta
 
 O presente documento tem como objetivo orientar o usuário sobre como se deve criar propostas em uma Conferência dentro da plataforma Brasil Participativo.
 
