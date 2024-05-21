@@ -140,14 +140,26 @@ Caminho para participar: Conferência > Inscreva-se > Confirme
     - Selecione o botão conferência;
     - Escolha qual conferência deseja participar; 
     - Selecione o botão Inscreva-se; 
-    - Selecione o botão confirme; 
+    - Clique no botão confirme; 
     - Aguarde até sua participação ser validada por um moderador; 
     - Pronto você está inscrito!
 
 
 
 
-## Participando de um evento Híbrido
+## Participando de um evento híbrido
+
+Caminho para participar: Conferência > Inscreva-se > Confirme
+
+
+- <u>Como participar de um evento híbrido?</u>
+    - Identifique o processo participativo Conferências, clicando nele;
+    - Escolha qual conferência deseja participar; 
+    - Selecione o botão Inscreva-se; 
+    - Clique no botão confirme; 
+    - Aguarde até sua participação ser validada por um moderador; 
+    - Pronto você está inscrito!
+
 
 
 
