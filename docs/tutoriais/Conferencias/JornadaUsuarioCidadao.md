@@ -134,12 +134,12 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 ## Participando de um evento Online
 - <u>Como participar de um evento online?</u>
 
--Selecione o botão conferência;
--Escolha qual conferência deseja participar; 
--Selecione o botão Inscreva-se; 
--Selecione o botão confirme; 
--Aguarde até sua participação ser validada por um moderador; 
--Pronto você está participando!;
+- Selecione o botão conferência;
+- Escolha qual conferência deseja participar; 
+- Selecione o botão Inscreva-se; 
+- Selecione o botão confirme; 
+- Aguarde até sua participação ser validada por um moderador; 
+- Pronto você está participando!;
 
 
 
