@@ -49,26 +49,26 @@ Ficou com dúvida de como conectar-se com o gov.Br, acesse este link [Criar sua 
 
 O presente documento tem como objetivo orientar o usuário sobre como criar reuniões ou conferências, seja uma etapa municipal, estadual ou livre dentro da plataforma Brasil Participativo.
 
-Para criar reuniões/conferências acesse a aba **Conferências**, conforme mostra a Imagem 01.
+Para criar reuniões/conferências acesse a aba **Conferências**, conforme mostra a Imagem 05.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/AbaConferencia.JPG?ref_type=heads" alt=" Aba Conferência" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 01 - Aba Conferências (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 05 - Aba Conferências (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
-Agora localize o botão "Nova Reunião" conforme imagem 02.
+Agora localize o botão "Nova Reunião" conforme imagem 06.
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/NovaConferencia.JPG?ref_type=heads" alt=" Criar Nova reunião" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 02 - Criar Nova reunião (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 06 - Criar Nova reunião (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
-Nesta etapa (imagem 03) você deverá preencher todos os campos solicitados.
+Nesta etapa (imagem 07) você deverá preencher todos os campos solicitados.
 
 - <u>Título</u>
 
@@ -123,7 +123,7 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/CriarReuniao.JPG?ref_type=heads" alt=" Criar Reunião" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 03 - Criar Reunião (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 07 - Criar Reunião (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
@@ -156,31 +156,31 @@ Caminho para participar: Conferência > Inscreva-se > Confirme
 
 O presente documento tem como objetivo orientar o usuário sobre como se deve criar propostas em uma Conferência dentro da plataforma Brasil Participativo.
 
-Para criar propostas acesse a aba Propostas/Etapa Digital e clique na opção conforme mostra a Imagem 01.
+Para criar propostas acesse a aba Propostas/Etapa Digital e clique na opção conforme mostra a Imagem 08.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/CriarProposta.png?ref_type=heads" alt="Criar Minha Proposta" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 01 - Criar Minha Proposta (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 08 - Criar Minha Proposta (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
-Após preencha o Título da Proposta e faça uma breve descrição do que vai se tratar a sua proposta. Após terminar o preenchimento você poderá visualizar a sua proposta clicando na opção Pré-visualizar conforme Imagem 02.
+Após preencha o Título da Proposta e faça uma breve descrição do que vai se tratar a sua proposta. Após terminar o preenchimento você poderá visualizar a sua proposta clicando na opção Pré-visualizar conforme Imagem 09.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Previsualizar.png?ref_type=heads" alt=" Pré-visualizar Proposta" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 2 - Pré-visualizar Proposta (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 09 - Pré-visualizar Proposta (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
-Estando de acordo, agora você deverá publicar a sua proposta (Imagem 03).
+Estando de acordo, agora você deverá publicar a sua proposta (Imagem 10).
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Publicar_Proposta.JPG?ref_type=heads" alt=" Publicar Proposta" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 3 - Publicar Proposta (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 10 - Publicar Proposta (Fonte: DECIDIM 2024)</h6>
 </p> 
