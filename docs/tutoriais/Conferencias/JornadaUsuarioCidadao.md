@@ -6,7 +6,6 @@ O presente documento tem como objetivo explicar a jornada do usuário cidadão, 
 
 Para que você usuário cidadão possa participar de qualquer processo participativo na plataforma Brasil Participativo é necessário que crie o seu perfil. Para dar inicio ao seu cadastro, você deverá clicar na opção "**Criar perfil**" conforme Imagem 01.
 
-
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/CriarPerfil.JPG?ref_type=heads" alt=" Criar Perfil" style="float: none; margin: auto"> 
 </figure> 
@@ -126,17 +125,21 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 <h6 align = "center"> Imagem 03 - Criar Reunião (Fonte: DECIDIM 2024)</h6>
 </p> 
 
+
 ## Participando de um evento Presencial
 
 
-# Participando de um evento Online
+
+## Participando de um evento Online
 
 
-# Participando de um evento Híbrido
+
+## Participando de um evento Híbrido
 
 
 
 ## Criando Proposta
+
 
 O presente documento tem como objetivo orientar o usuário sobre como se deve criar propostas em uma Conferência dentro da plataforma Brasil Participativo.
 
@@ -168,5 +171,3 @@ Estando de acordo, agora você deverá publicar a sua proposta (Imagem 03).
 <p align="justify">
 <h6 align = "center"> Imagem 3 - Publicar Proposta (Fonte: DECIDIM 2024)</h6>
 </p> 
-
-
