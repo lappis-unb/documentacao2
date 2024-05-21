@@ -110,12 +110,12 @@ Nesta etapa (imagem 07) você deverá preencher todos os campos solicitados.
 
 - <u>Hora de término</u>: informe a data e a hora que sua reunião será encerrada.
 
-- <u>Categoria</u>;
+- <u>Categoria</u>: escolha em qual categoria sua reunião se encaixa.
 
 - <u>Tipo de inscrição</u>;
-    - inscrição desativada:
-    - nesta plataforma:
-    - em uma plataforma diferente:
+    - inscrição desativada: não é necessário se inscrever para esta reunião.
+    - nesta plataforma: a inscrição será feita pela plataforma Brasil Participativo.
+    - em uma plataforma diferente: a inscrição será feita por outra plataforma.
 
 Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 
