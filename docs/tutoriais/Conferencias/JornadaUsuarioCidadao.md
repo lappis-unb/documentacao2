@@ -42,7 +42,7 @@ Após informar o seu CPF, agora vc deverá criar uma senha (Imagem 04)
 
 Ficou com dúvida de como conectar-se com o gov.Br, acesse este link [Criar sua conta gov.br](https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br).
 
-
+***********************************************************************************************************************************
 ## Criando EVENTOS (reuniões ou conferências)
 
 
