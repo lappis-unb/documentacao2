@@ -126,13 +126,14 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 <h6 align = "center"> Imagem 03 - Criar Reunião (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-# Participando de um evento Presencial
+## Participando de um evento Presencial
 
 
 # Participando de um evento Online
 
 
 # Participando de um evento Híbrido
+
 
 
 ## Criando Proposta
