@@ -42,7 +42,7 @@ Após informar o seu CPF, agora vc deverá criar uma senha (Imagem 04)
 
 Ficou com dúvida de como conectar-se com o gov.Br, acesse este link [Criar sua conta gov.br](https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br).
 
-***********************************************************************************************************************************
+
 
 ## Criando EVENTOS (reuniões ou conferências)
 
@@ -132,9 +132,11 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 
 
 ## Participando de um evento Online
-- <u>Como participar de um evento online?</u>
-Caminho para participar: conferencia>inscreva-se>confirme
 
+Caminho para participar: Conferência > Inscreva-se > Confirme
+
+
+- <u>Como participar de um evento online?</u>
     - Selecione o botão conferência;
     - Escolha qual conferência deseja participar; 
     - Selecione o botão Inscreva-se; 
