@@ -77,17 +77,17 @@ Nesta etapa (imagem 07) você deverá preencher todos os campos solicitados.
 - <u>Tipo</u>:
 
     - Se for **presencial**:
-        - Informe endereço; descreva o endereço físico onde irá ocorrer a reunião. Exemplo: Rua, Número.
-        - Informe localização: descreva o andar do edifício se for um evento presencial.
-        - Informe dicas de localização: Descreva pontos de referência para identificar mais facilmente o endereço informado.
+        - Informe endereço: descreva o endereço físico onde irá ocorrer a reunião. Exemplo: Rua, Número.
+        - Informe localização: descreva o andar do edifício, por exemplo.
+        - Informe dicas de localização: descreva pontos de referência para identificar mais facilmente o endereço informado.
 
     - Se for **virtual**:
         - Informe URL da reunião on-line: permitido o uso de qualquer serviço de videoconferência (meet, skype, zoom, etc).
-        - Informe tipo do iframe embutido;
+        - Informe tipo do iframe embutido
             - Nenhum:
             - Embutir na página do evento:
             - Abrir URL em uma nova aba:
-        - Nível de acesso do iframe:
+        - Nível de acesso do iframe
             - Todos os visitantes;
             - Somente participantes inscritos;
             - Participantes registrados para este evento;
