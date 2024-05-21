@@ -70,19 +70,19 @@ Agora localize o botão "Nova Reunião" conforme imagem 06.
 
 Nesta etapa (imagem 07) você deverá preencher todos os campos solicitados.
 
-- <u>Título</u>
+- <u>Título</u>: descreva um título para identificar a sua reunião. 
 
-- <u>Descrição</u>
+- <u>Descrição</u>: descreva resumidamente do que se trata a reunião a ser criada.
 
 - <u>Tipo</u>:
 
     - Se for **presencial**:
-        - Informe endereço;
-        - Informe localização;
-        - Informe dicas de localização;
+        - Informe endereço; descreva o endereço físico onde irá ocorrer a reunião. Exemplo: Rua, Número.
+        - Informe localização: descreva o andar do edifício se for um evento presencial.
+        - Informe dicas de localização: Descreva pontos de referência para identificar mais facilmente o endereço informado.
 
     - Se for **virtual**:
-        - Informe URL da reunião on-line; 
+        - Informe URL da reunião on-line: permitido o uso de qualquer serviço de videoconferência (meet, skype, zoom, etc).
         - Informe tipo do iframe embutido;
             - Nenhum:
             - Embutir na página do evento:
