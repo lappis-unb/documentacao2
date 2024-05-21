@@ -127,7 +127,7 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 </p> 
 
 
-# Jornada Criar Proposta
+## Jornada Criar Proposta
 
 O presente documento tem como objetivo orientar o usuário sobre como se deve criar propostas em uma Conferência dentro da plataforma Brasil Participativo.
 
@@ -152,7 +152,6 @@ Após preencha o Título da Proposta e faça uma breve descrição do que vai se
 
 
 Estando de acordo, agora você deverá publicar a sua proposta (Imagem 03).
-
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Publicar_Proposta.JPG?ref_type=heads" alt=" Publicar Proposta" style="float: none; margin: auto"> 
