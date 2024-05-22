@@ -34,7 +34,7 @@ Digite o seu CPF (Imagem 03).
 <h6 align = "center"> Imagem 03 - Informe seu CPF (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-Após informar o seu CPF, agora você deverá digite sua senha (Imagem 04).
+Digite sua senha (Imagem 04).
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/DigitarSenhaGov.JPG?ref_type=heads" alt="Informar senha" style="float: none; margin: auto"> 
