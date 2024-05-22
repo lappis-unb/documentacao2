@@ -139,6 +139,7 @@ Caminho para participar: Eventos > Inscreva-se > Confirme
     - Clique no botão Confirme;
     - Pronto, sua inscrição foi efetuada!
 
+
 ## Criando Proposta
 
 
