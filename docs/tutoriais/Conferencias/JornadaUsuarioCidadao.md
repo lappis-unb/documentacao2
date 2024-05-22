@@ -4,9 +4,9 @@ O presente documento tem como objetivo explicar a jornada do usuário cidadão, 
 
 ## Acessando seu perfil gov.br
 
-Caminho para acessar o seu perfil: [Plataforma Brasil Participativo](https://brasilparticipativo.presidencia.gov.br/url) > Entrar
+Caminho para acessar o seu perfil: [Plataforma Brasil Participativo](https://brasilparticipativo.presidencia.gov.br) > Entrar
 
-Para que você usuário cidadão possa participar de qualquer processo participativo na nossa plataforma Brasil Participativo é necessário que você já tenha cadastrado o seu perfil. Para acessá-lo, você deverá clicar na opção "**Entrar**" conforme Imagem 01.
+Para que você usuário cidadão possa participar de qualquer processo participativo na nossa plataforma Brasil Participativo é necessário que você já tenha cadastrado o seu login único do governo federal. Para acessá-lo, você deverá clicar na opção "**Entrar**" conforme Imagem 01.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Entrar.JPG?ref_type=heads" alt=" Entrar" style="float: none; margin: auto"> 
@@ -16,13 +16,13 @@ Para que você usuário cidadão possa participar de qualquer processo participa
 </p> 
 
 
-Após isto, você será redirecionado para acessar o login único do governo federal, o Gov.br (imagem 02).
+Após isto, você será redirecionado para acessar o login único (imagem 02).
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/ConecteSe.JPG?ref_type=heads" alt=" Conectar ao gov.Br" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 02 - Conectar ao gov.Br (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 02 - Conectar ao gov.br (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 Digite o seu CPF (Imagem 03).
