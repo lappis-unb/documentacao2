@@ -16,7 +16,7 @@ Para que você usuário cidadão possa participar de qualquer processo participa
 </p> 
 
 
-Após isto, você será redirecionado para acessar o login único (imagem 02).
+Para acessar o seu login único, clique Entrar com gov.br (imagem 02). 
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/ConecteSe.JPG?ref_type=heads" alt=" Conectar ao gov.Br" style="float: none; margin: auto"> 
