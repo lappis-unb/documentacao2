@@ -2,11 +2,11 @@
 
 O presente documento tem como objetivo explicar a jornada do usuário cidadão, exemplificando quais são as jornadas que o usuário deverá percorrer para poder participar de uma Conferência dentro da plataforma Brasil Participativo.
 
-## Criando perfil do usuário
+## Acessando seu perfil gov.br
 
-Caminho para criar o perfil: [Plataforma Brasil Participativo](https://brasilparticipativo.presidencia.gov.br/url) > Entrar
+Caminho para acessar o seu perfil: [Plataforma Brasil Participativo](https://brasilparticipativo.presidencia.gov.br/url) > Entrar
 
-Para que você usuário cidadão possa participar de qualquer processo participativo na nossa plataforma Brasil Participativo é necessário que crie o seu perfil. Para dar inicio ao seu cadastro, você deverá clicar na opção "**Entrar**" conforme Imagem 01.
+Para que você usuário cidadão possa participar de qualquer processo participativo na nossa plataforma Brasil Participativo é necessário que você já tenha cadastrado o seu perfil. Para acessá-lo, você deverá clicar na opção "**Entrar**" conforme Imagem 01.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Entrar.JPG?ref_type=heads" alt=" Entrar" style="float: none; margin: auto"> 
@@ -16,7 +16,7 @@ Para que você usuário cidadão possa participar de qualquer processo participa
 </p> 
 
 
-Após isto, você será redirecionado a tela do Conecte com o gov.br (imagem 02)
+Após isto, você será redirecionado para acessar o login único do governo federal, o Gov.br (imagem 02).
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/ConecteSe.JPG?ref_type=heads" alt=" Conectar ao gov.Br" style="float: none; margin: auto"> 
@@ -25,7 +25,7 @@ Após isto, você será redirecionado a tela do Conecte com o gov.br (imagem 02)
 <h6 align = "center"> Imagem 02 - Conectar ao gov.Br (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-Após isto, preencha a tela (Imagem 03) informando seu CPF.
+Digite o seu CPF (Imagem 03).
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/GovBr.JPG?ref_type=heads" alt="Informar CPF" style="float: none; margin: auto"> 
@@ -34,7 +34,8 @@ Após isto, preencha a tela (Imagem 03) informando seu CPF.
 <h6 align = "center"> Imagem 03 - Informe seu CPF (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-Após informar o seu CPF, agora vc deverá criar uma senha (Imagem 04)
+Após informar o seu CPF, agora você deverá digite sua senha (Imagem 04).
+
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/DigitarSenhaGov.JPG?ref_type=heads" alt="Informar senha" style="float: none; margin: auto"> 
 </figure> 
