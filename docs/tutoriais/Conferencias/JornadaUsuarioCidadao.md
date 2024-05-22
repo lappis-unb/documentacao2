@@ -4,6 +4,8 @@ O presente documento tem como objetivo explicar a jornada do usuário cidadão, 
 
 ## Criando perfil do usuário
 
+Caminho para criar o perfil: [Plataforma Brasil Participativo](https://brasilparticipativo.presidencia.gov.br/url) > Entrar
+
 Para que você usuário cidadão possa participar de qualquer processo participativo na nossa plataforma Brasil Participativo é necessário que crie o seu perfil. Para dar inicio ao seu cadastro, você deverá clicar na opção "**Entrar**" conforme Imagem 01.
 
 <figure markdown>
@@ -14,7 +16,7 @@ Para que você usuário cidadão possa participar de qualquer processo participa
 </p> 
 
 
-Depois clique em conecte com o gov.br
+Após isto, você será redirecionado a tela do Conecte com o gov.br (imagem 02)
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/ConecteSe.JPG?ref_type=heads" alt=" Conectar ao gov.Br" style="float: none; margin: auto"> 
