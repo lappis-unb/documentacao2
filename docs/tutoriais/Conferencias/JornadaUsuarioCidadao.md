@@ -43,7 +43,7 @@ Após informar o seu CPF, agora você deverá digite sua senha (Imagem 04).
 <h6 align = "center"> Imagem 04 - Informe senha (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-Ficou com dúvida de como conectar-se com o gov.Br, acesse este link [Criar sua conta gov.br](https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br).
+Ficou com dúvida de como conectar-se com o gov.br, acesse este link [Criar sua conta gov.br](https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br).
 
 
 
