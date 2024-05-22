@@ -4,13 +4,13 @@ O presente documento tem como objetivo explicar a jornada do usuário cidadão, 
 
 ## Criando perfil do usuário
 
-Para que você usuário cidadão possa participar de qualquer processo participativo na plataforma Brasil Participativo é necessário que crie o seu perfil. Para dar inicio ao seu cadastro, você deverá clicar na opção "**Criar perfil**" conforme Imagem 01.
+Para que você usuário cidadão possa participar de qualquer processo participativo na nossa plataforma Brasil Participativo é necessário que crie o seu perfil. Para dar inicio ao seu cadastro, você deverá clicar na opção "**Entrar**" conforme Imagem 01.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/CriarPerfil.JPG?ref_type=heads" alt=" Criar Perfil" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/Entrar.JPG?ref_type=heads" alt=" Entrar" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 01 - Criar Perfil (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 01 - Entrar (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
