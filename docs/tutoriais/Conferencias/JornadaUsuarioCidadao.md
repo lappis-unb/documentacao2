@@ -127,17 +127,17 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 </p> 
 
 
-## Participando de um evento (online, híbrido, presencial)
+## Participando de um evento (online ou híbrido ou presencial)
 
 Caminho para participar: Conferência > Inscreva-se > Confirme
 
-    -Identifique o processo participativo conferência clicando nele 
-    - Escolha qual conferência deseja participar 
-    - Clique na aba conferência
-    - Escolha qual evento você deseja participar
-    - Clique no botão Inscreva-se 
-    - Clique o botão confirme 
-    - Pronto você está inscrito!
+    - Identifique o processo participativo conferência clicando nele;
+    - Escolha qual conferência deseja participar;
+    - Clique na aba Conferência;
+    - Escolha qual evento você deseja participar;
+    - Clique no botão Inscreva-se; 
+    - Clique no botão Confirme;
+    - Pronto, sua inscrição foi efetuada!
 
 ## Criando Proposta
 
