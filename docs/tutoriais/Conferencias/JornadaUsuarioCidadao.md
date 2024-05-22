@@ -131,9 +131,9 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 
 Caminho para participar: Eventos > Inscreva-se > Confirme
 
-    - Identifique o processo participativo conferência clicando nele;
-    - Escolha qual conferência deseja participar;
-    - Clique na aba Conferência;
+    - Identifique o processo participativo Conferência, clicando nele;
+    - Escolha qual Conferência deseja participar;
+    - Clique na aba Eventos;
     - Escolha qual evento você deseja participar;
     - Clique no botão Inscreva-se; 
     - Clique no botão Confirme;
