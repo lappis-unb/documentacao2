@@ -1,13 +1,15 @@
+## Criando EVENTOS (reuniões ou conferências) como administrador
 
-O presente documento tem como objetivo orientar o usuário sobre como criar reuniões ou conferências, seja uma etapa municipal, estadual ou livre dentro da plataforma Brasil Participativo.
 
-Para criar reuniões/conferências acesse a aba **Conferências**, conforme mostra a Imagem 01.
+O presente documento tem como objetivo orientar os administradores da comissão organizadora a criar reuniões ou conferências, seja de ambito municipal, estadual ou livre dentro da plataforma Brasil Participativo.
+
+Para criar reuniões/conferências acesse a aba **Eventos**, conforme mostra a Imagem 01.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/AbaConferencia.JPG?ref_type=heads" alt=" Aba Conferência" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/AbaConferencia.JPG?ref_type=heads" alt=" Aba Eventos" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 01 - Aba Conferências (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 01 - Aba Eventos (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
@@ -22,24 +24,24 @@ Agora localize o botão "Nova Reunião" conforme imagem 02.
 
 Nesta etapa (imagem 03) você deverá preencher todos os campos solicitados.
 
-- <u>Título</u>
+- <u>Título</u>: descreva um título para identificar a sua reunião. 
 
-- <u>Descrição</u>
+- <u>Descrição</u>: descreva resumidamente do que se trata a reunião a ser criada.
 
 - <u>Tipo</u>:
 
     - Se for **presencial**:
-        - Informe endereço;
-        - Informe localização;
-        - Informe dicas de localização;
+        - Informe endereço: descreva o endereço físico onde irá ocorrer a reunião. Exemplo: Rua, Número.
+        - Informe localização: descreva o andar do edifício, por exemplo.
+        - Informe dicas de localização: descreva pontos de referência para identificar mais facilmente o endereço informado.
 
     - Se for **virtual**:
-        - Informe URL da reunião on-line; 
-        - Informe tipo do iframe embutido;
+        - Informe URL da reunião on-line: permitido o uso de qualquer serviço de videoconferência (meet, skype, zoom, etc).
+        - Informe tipo do iframe embutido
             - Nenhum:
             - Embutir na página do evento:
             - Abrir URL em uma nova aba:
-        - Nível de acesso do iframe:
+        - Nível de acesso do iframe
             - Todos os visitantes;
             - Somente participantes inscritos;
             - Participantes registrados para este evento;
@@ -62,12 +64,12 @@ Nesta etapa (imagem 03) você deverá preencher todos os campos solicitados.
 
 - <u>Hora de término</u>: informe a data e a hora que sua reunião será encerrada.
 
-- <u>Categoria</u>;
+- <u>Categoria</u>: escolha em qual categoria sua reunião se encaixa.
 
 - <u>Tipo de inscrição</u>;
-    - inscrição desativada:
-    - nesta plataforma:
-    - em uma plataforma diferente:
+    - inscrição desativada: não é necessário se inscrever para esta reunião.
+    - nesta plataforma: a inscrição será feita pela plataforma Brasil Participativo.
+    - em uma plataforma diferente: a inscrição será feita por outra plataforma.
 
 Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 
@@ -77,5 +79,3 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 <p align="justify">
 <h6 align = "center"> Imagem 03 - Criar Reunião (Fonte: DECIDIM 2024)</h6>
 </p> 
-
-
