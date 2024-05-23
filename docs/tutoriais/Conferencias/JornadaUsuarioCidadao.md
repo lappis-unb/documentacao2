@@ -50,15 +50,15 @@ Ficou com dúvida de como conectar-se com o gov.br, acesse este link [Criar sua 
 ## Criando EVENTOS (reuniões ou conferências)
 
 
-O presente documento tem como objetivo orientar o usuário sobre como criar reuniões ou conferências, seja uma etapa municipal, estadual ou livre dentro da plataforma Brasil Participativo.
+O presente documento tem como objetivo orientar o usuário sobre como criar reuniões ou conferências, seja ela de ambito municipal, estadual ou livre dentro da plataforma Brasil Participativo.
 
-Para criar reuniões/conferências acesse a aba **Conferências**, conforme mostra a Imagem 05.
+Para criar reuniões/conferências acesse a aba **Eventos**, conforme mostra a Imagem 05.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/AbaConferencia.JPG?ref_type=heads" alt=" Aba Conferência" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/AbaConferencia.JPG?ref_type=heads" alt=" Aba Eventos" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 05 - Aba Conferências (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 05 - Aba Eventos (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
