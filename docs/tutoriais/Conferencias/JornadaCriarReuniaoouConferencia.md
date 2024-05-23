@@ -1,5 +1,14 @@
 ## Criando EVENTOS (reuniões ou conferências) como administrador
 
+# Itens para definir
+    - a nomenclatura usada na aba será EVENTOS? O botão continuará sendo "NOVA REUNIAO"?
+    - como é a jornada das municipais? o que o ADM terá que fazer de procedimentos?
+    - como é a jornada das estaduais?
+    - como é a jornada das conferencias livres?
+    - como se dará a moderação/a aprovação dos eventos? O ADM recebe um email ou tem que ficar acompanhando a plataforma?
+    - foi comentado na reunião que teria uma aba RESOLUÇÕES, nao seria DEVOLUTIVAS?
+    -  
+
 
 O presente documento tem como objetivo orientar os administradores da comissão organizadora a criar reuniões ou conferências, seja de ambito municipal, estadual ou livre dentro da plataforma Brasil Participativo.
 
