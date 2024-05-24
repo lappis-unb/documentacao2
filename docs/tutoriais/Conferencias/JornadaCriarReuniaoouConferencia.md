@@ -1,4 +1,3 @@
-## Jornada da Comissão Organizadora - Criando conferências estaduais/municipais
 
 O presente documento tem como objetivo orientar os administradores da comissão organizadora a gerenciar as conferências dentro da plataforma Brasil Participativo.
 
@@ -86,6 +85,7 @@ Após a criação da conferência ela deverá ser formalizada. Clique em Formali
 <h6 align = "center"> Imagem 03 - Formalize a conferência (Fonte: DECIDIM 2024)</h6>
 </p> 
 
+Após o processo de formalização concluído, aguarde o retorno da comissão organizadora.
 
 ## Sistematizando as Conferências Municipais - Resoluções 
 
@@ -110,6 +110,8 @@ Se a conferência não estiver formalizada ou em desacordo, a comissão organiza
 <h6 align = "center"> Imagem 05 - Validar conferências (Fonte: DECIDIM 2024)</h6>
 </p> 
 
+
+
 Ao término da conferência, a comissão organizadora deverá encerrar a conferência. Para isto deverá selecionar a conferência a ser encerrada e clicar no ícone "encerrar evento", conforme mostra imagem 06 - (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as Resoluções eleitas (vindas do excel), por meio do preenchimento do campo "**Propostas criadas no evento**". 
 
 <figure markdown>
@@ -124,9 +126,13 @@ Por fim, a comissão organizadora deverá cadastrar as resoluções eleitas, por
 ## Sistematização de Resoluções Estaduais
 
 Admin > Conferencia > Validar se está criada e formalizada > Componentes > formulario de requisicao > mostrar respostas
-Se a conferencia não estiver formalizada ou em desacordo, a comissao organizadora remove a publicação. Poderá ser enviado email a pessoas que cadastrou dando ciencia ou nao da remoção ou autorização.
+Se a conferencia não estiver formalizada ou em desacordo, a comissão organizadora remove a publicação. Poderá ser enviado email a pessoas que cadastrou dando ciência ou não da remoção ou autorização.
 
-Ao termino da conferencia, a comissao organizadora deverá "encerrar evento" (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel. Preencher o campo PROPOSTAS CRIADAS NO EVENTO. 
+
+
+**Acrescentar como ocultar ou remover - colocar telas**
+
+Ao término da conferencia, a comissao organizadora deverá "encerrar evento" (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel. Preencher o campo PROPOSTAS CRIADAS NO EVENTO. 
 
 A comissão organizadora deverá cadastrar as resoluções eleitas, por meio da aba Resoluções Estaduais.
 
