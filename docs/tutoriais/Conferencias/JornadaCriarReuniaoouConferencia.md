@@ -132,7 +132,7 @@ A comissão organizadora deverá cadastrar as resoluções eleitas, por meio da 
 
 # Registre o que aconteceu
 
-Após a Conferência Municipal estiver concluída, deverá ser registrado o que aconteceu durante e depois (Imagem 06), preenchendo o formulário solicitado.
+Assim que a Conferência Municipal for concluída os registros deverão ser feitos, conforme Imagem 06, preenchendo o formulário solicitado.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/RegistreAconteceu.JPG?ref_type=heads" alt="Registre o que aconteceu" style="float: none; margin: auto"> 
@@ -142,8 +142,7 @@ Após a Conferência Municipal estiver concluída, deverá ser registrado o que 
 </p> 
 
 
-# Encerrar a conferência
-# Vincular as propostas relacionadas com o evento de acordo com a planilha
+# Encerrar a conferência/Vinculando as propostas relacionadas com o evento de acordo com a planilha
 
 Para a comissão organizadora encerrar uma conferência, deve-se selecionar a conferência a ser encerrada e clicar no ícone "encerrar evento", conforme mostra imagem 07.
 
