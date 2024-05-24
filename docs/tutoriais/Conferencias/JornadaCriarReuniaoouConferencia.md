@@ -97,11 +97,18 @@ Ao término da conferência Municipal, deverá ser registrado o que aconteceu du
 <h6 align = "center"> Imagem 04 - Registre o que aconteceu (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-A comissão organizadora deve validar se a conferência municipal é válida por meio da validação da documentação fornecida. Para esta análise, deverá ser percorrido o seguinte caminho na plataforma DECIDIM.
+A comissão organizadora deve validar se a conferência municipal é válida por meio da validação da documentação fornecida. Para esta análise, deverá ser percorrido o seguinte caminho na plataforma DECIDIM (imagem 05)
 
-COMPONENTES > FORMULARIO DE REQUISIÇÃO > 
+COMPONENTES > FORMULARIO DE REQUISIÇÃO > MOSTRAR RESPOSTAS
 Admin > Conferencia > Validar se esta criada e formalizada > Componentes > formulario de requisicao > mostrar respostas
 Se a conferencia não estiver formalizada ou em desacordo, a comissao organizadora remove a publicação. Poderá ser enviado email a pessoas que cadastrou dando ciencia ou nao da remoção ou autorização.
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/FormularioRequisicao.JPG?ref_type=heads" alt="Validar conferências" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center"> Imagem 05 - Validar conferências (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 Ao termino da conferencia, a comissao organizadora deverá "encerrar evento" (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel. Preencher o campo PROPOSTAS CRIADAS NO EVENTO. 
 
