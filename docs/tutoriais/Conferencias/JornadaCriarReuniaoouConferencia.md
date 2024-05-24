@@ -32,7 +32,8 @@ Nesta etapa você deverá preencher todos os campos solicitados.
 - <u>Formato do evento</u>:
 
     - Se for **presencial**:
-        - Informe endereço: descreva o endereço físico onde irá ocorrer a reunião. Exemplo: Rua, Número.
+        - Informe Município: escreva o nome do seu município.
+        - Informe Estado: escreva o nome do seu Estado.
         - Informe localização: descreva o andar do edifício, por exemplo.
         - Informe dicas de localização: descreva pontos de referência para identificar mais facilmente o endereço informado.
 
@@ -48,7 +49,8 @@ Nesta etapa você deverá preencher todos os campos solicitados.
             - Participantes registrados para este evento;
 
     - Se for **ambas**:
-        - Informe endereço;
+        - Informe Município: escreva o nome do seu município.
+        - Informe Estado: escreva o nome do seu Estado.
         - Informe localização;
         - Informe dicas de localização;
         - Informe URL da reunião on-line;
@@ -127,3 +129,6 @@ Se a conferencia não estiver formalizada ou em desacordo, a comissao organizado
 Ao termino da conferencia, a comissao organizadora deverá "encerrar evento" (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel. Preencher o campo PROPOSTAS CRIADAS NO EVENTO. 
 
 A comissão organizadora deverá cadastrar as resoluções eleitas, por meio da aba Resoluções Estaduais.
+
+
+# Criando conferências na etapa Nacional
