@@ -156,7 +156,8 @@ Para a comissão organizadora encerrar uma conferência, deve-se selecionar a co
 </p> 
 
 
-DESCREVER MELHOR "**Propostas criadas no evento**". 
+DESCREVER MELHOR - vincular as propostas neste campo "**Propostas criadas no evento**". 
+
 
 # Sistematização de Resoluções Estaduais
 
