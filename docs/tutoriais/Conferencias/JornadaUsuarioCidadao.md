@@ -160,8 +160,8 @@ Após finalizar o evento:
 - Adicione fotos do evento:
    -Faça uplod de fotos na plataforma:
 - Escolha URLs de vídeo do evento:
-   -Insira o link do vídeo e faça o upload na plataforma.
-- Clique em salvar registros para finalizar 
+   -Insira o link do vídeo do evento.
+- Clique em salvar registros para finalizar. 
 
 ## Criando Proposta
 
