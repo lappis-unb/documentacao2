@@ -159,7 +159,7 @@ Para a comissão organizadora encerrar uma conferência, deve-se selecionar a co
 
 DESCREVER MELHOR "**Propostas criadas no evento**". 
 
-## Sistematização de Resoluções Estaduais
+# Sistematização de Resoluções Estaduais
 
 Em desenvolvimento!
 
