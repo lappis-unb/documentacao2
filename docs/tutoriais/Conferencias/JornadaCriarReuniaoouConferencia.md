@@ -74,8 +74,7 @@ Nesta etapa você deverá preencher todos os campos solicitados.
 
 Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 
-Após a criação da conferência ela deverá ser formalizada. Clique em Formalize a conferência (Imagem 03). Para isto tem que ser preenchido o seguinte formulário [FORMULÁRIO DE REQUISIÇÃO DE CONVOCAÇÃO]
-(https://docs.google.com/document/d/1Ifo5ZN16IHQQL_aLPRGY0CMcd-mpegAOvtAugR7HBK4/edit#heading=h.r2fi0waw1opj). Após isto, submete-lo em formato .pdf
+Após a criação da conferência ela deverá ser formalizada. Clique em Formalize a conferência (Imagem 03). Para isto tem que ser preenchido o seguinte formulário [FORMULÁRIO DE REQUISIÇÃO DE CONVOCAÇÃO](https://docs.google.com/document/d/1Ifo5ZN16IHQQL_aLPRGY0CMcd-mpegAOvtAugR7HBK4/edit#heading=h.r2fi0waw1opj). Após isto, submete-lo em formato .pdf.
 
 
 <figure markdown>
