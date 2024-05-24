@@ -91,14 +91,16 @@ Após a criação da conferência ela deverá ser formalizada. Clique em Formali
 Após o processo de formalização concluído, aguarde o retorno da comissão organizadora.
 
 
-# Sistematizando as Conferências Municipais - Resoluções 
+# Sistematizando as Conferências Municipais 
 
 # Validando uma Conferência Municipal
 
-A comissão organizadora deve validar a conferência municipal, por meio da confirmação da documentação fornecida. Para esta análise, deverá ser percorrido o seguinte caminho na plataforma DECIDIM (imagem 05).
+A comissão organizadora deve validar a conferência municipal, por meio da confirmação da documentação fornecida. Para esta análise, deverá ser percorrido o seguinte caminho na plataforma DECIDIM (imagem 05) 
 
-COMPONENTES > FORMULARIO DE REQUISIÇÃO > MOSTRAR RESPOSTAS
-Se a conferência não estiver formalizada ou em desacordo, a comissão organizadora deverá remover a publicação da referida conferência analisada. Cabe a comissão organizadora, dar ciência ao cadastrante da conferencia que ela foi removida.
+    - COMPONENTES > FORMULARIO DE REQUISIÇÃO > MOSTRAR RESPOSTAS
+
+
+Se a conferência não estiver formalizada ou em desacordo, a comissão organizadora deverá remover (imagem 06) a publicação da referida conferência analisada. Cabe a comissão organizadora, dar ciência ao cadastrante da conferencia que ela foi removida.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/FormularioRequisicao.JPG?ref_type=heads" alt="Validar conferências" style="float: none; margin: auto"> 
@@ -106,6 +108,15 @@ Se a conferência não estiver formalizada ou em desacordo, a comissão organiza
 <p align="justify">
 <h6 align = "center"> Imagem 05 - Validar conferências (Fonte: DECIDIM 2024)</h6>
 </p> 
+
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/InvalidarConferencia.JPG?ref_type=heads" alt="Invalidar conferências" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center"> Imagem 06 - Invalidar conferências (Fonte: DECIDIM 2024)</h6>
+</p> 
+
 
 # Criar as propostas eleitas pelas Resoluções Municipais
 
