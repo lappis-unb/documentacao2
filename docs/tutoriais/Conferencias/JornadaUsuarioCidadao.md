@@ -147,33 +147,21 @@ Caminho para participar: Eventos > Inscreva-se > Confirme
 ## Devolutiva de um evento
 
 Após finalizar o evento:
-•	Cadastre os registros do evento realizado;
 
- o	Insira todas as informações básicas sobre o evento que você organizou;
-
-•	Você pode optar por disponibilizar a ata como um PDF ou preencher um formulário na plataforma.
-
-•	Se escolher enviar em PDF, siga estes passos:
-
- o	Modelo da ata: Preencha o modelo ou faça o uplod na plataforma e insira o contato de uma pessoa organizadora;
-
- o	Lista de presença: Preencha o modelo ou faça o uplod na plataforma;
-
- o	Lista de delegados eleitos: Preencha o model ou faça o uplod na plataforma;
-
- o	Preencha com as resoluções eleitas: Preencha as resoluções eleitas ou faça uplod na plataforma;
-
- o	Selecione propostas relacionadas: Preencha as propostas ou faça o upload na plataforma.
-
-•	Adicione fotos do evento:
-
- o	Faça uplod de fotos na plataforma:
-
-•	Escolha URLs de vídeo do evento:
-
- o	Insira o link do vídeo e faça o upload na plataforma.
- 
-•	Clique em salvar registros para finalizar 
+- Cadastre os registros do evento realizado;
+- Insira todas as informações básicas sobre o evento que você organizou;
+- Você pode optar por disponibilizar a ata como um PDF ou preencher um formulário na plataforma.
+- Se escolher enviar em PDF, siga estes passos:
+   - Modelo da ata: Preencha o modelo ou faça o uplod na plataforma e insira o contato de uma pessoa organizadora;
+   - Lista de presença: Preencha o modelo ou faça o uplod na plataforma;
+   - Lista de delegados eleitos: Preencha o model ou faça o uplod na plataforma;
+   - Preencha com as resoluções eleitas: Preencha as resoluções eleitas ou faça uplod na plataforma;
+   -Selecione propostas relacionadas:Preencha as propostas ou faça o upload na plataforma.
+- Adicione fotos do evento:
+   -Faça uplod de fotos na plataforma:
+- Escolha URLs de vídeo do evento:
+   -Insira o link do vídeo e faça o upload na plataforma.
+- Clique em salvar registros para finalizar 
 
 ## Criando Proposta
 
