@@ -96,7 +96,7 @@ Ao término da conferência Municipal, deverá ser registrado o que aconteceu du
 <h6 align = "center"> Imagem 04 - Registre o que aconteceu (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-A comissão organizadora deve validar se a conferência municipal é válida por meio da validação da documentação fornecida. Para esta análise, deverá ser percorrido o seguinte caminho na plataforma DECIDIM (imagem 05)
+A comissão organizadora deve validar a conferência municipal, por meio da validação da documentação fornecida. Para esta análise, deverá ser percorrido o seguinte caminho na plataforma DECIDIM (imagem 05).
 
 COMPONENTES > FORMULARIO DE REQUISIÇÃO > MOSTRAR RESPOSTAS
 Se a conferência não estiver formalizada ou em desacordo, a comissão organizadora deverá remover a publicação da referida conferência analisada. Cabe a comissão organizadora, dar ciência ao cadastrante da conferencia que ela foi removida.
