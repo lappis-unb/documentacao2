@@ -1,39 +1,20 @@
-## Criando EVENTOS (reuniões ou conferências) como administrador
+## Jornada da Comissão Organizadora - Criando conferências estaduais/municipais
 
-# Itens para definir
-    - a nomenclatura usada na aba será EVENTOS? O botão continuará sendo "NOVA REUNIAO"?
-    - como é a jornada das municipais? o que o ADM terá que fazer de procedimentos?
-    - como é a jornada das estaduais?
-    - como é a jornada das conferencias livres?
-    - como se dará a moderação/a aprovação dos eventos? O ADM recebe um email ou tem que ficar acompanhando a plataforma?
-    - foi comentado na reunião que teria uma aba RESOLUÇÕES, nao seria DEVOLUTIVAS?
-    -  
+O presente documento tem como objetivo orientar os administradores da comissão organizadora a gerenciar as conferências dentro da plataforma Brasil Participativo.
 
+# Criando conferências Municipais ou Estaduais
 
-
+Para criar as conferências acesse a aba **Conferências**, conforme mostra a Imagem 01.
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/EventosAdmin.JPG?ref_type=heads" alt=" Configurar Eventos" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/AbaConferencia.JPG?ref_type=heads" alt=" Aba Conferências" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem xx - Configurar Eventos (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 01 - Aba Conferências (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
-
-O presente documento tem como objetivo orientar os administradores da comissão organizadora a criar reuniões ou conferências, seja de ambito municipal, estadual ou livre dentro da plataforma Brasil Participativo.
-
-Para criar reuniões/conferências acesse a aba **Eventos**, conforme mostra a Imagem 01.
-
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/AbaConferencia.JPG?ref_type=heads" alt=" Aba Eventos" style="float: none; margin: auto"> 
-</figure> 
-<p align="justify">
-<h6 align = "center"> Imagem 01 - Aba Eventos (Fonte: DECIDIM 2024)</h6>
-</p> 
-
-
-Agora localize o botão "Nova Reunião" conforme imagem 02.
+Agora clique no botão "Nova Reunião" conforme imagem 02.
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/NovaConferencia.JPG?ref_type=heads" alt=" Criar Nova reunião" style="float: none; margin: auto"> 
 </figure> 
@@ -44,11 +25,11 @@ Agora localize o botão "Nova Reunião" conforme imagem 02.
 
 Nesta etapa (imagem 03) você deverá preencher todos os campos solicitados.
 
-- <u>Título</u>: descreva um título para identificar a sua reunião. 
+- <u>Título do evento:</u>: descreva um título para identificar o seu evento. 
 
 - <u>Descrição</u>: descreva resumidamente do que se trata a reunião a ser criada.
 
-- <u>Tipo</u>:
+- <u>Formato do evento</u>:
 
     - Se for **presencial**:
         - Informe endereço: descreva o endereço físico onde irá ocorrer a reunião. Exemplo: Rua, Número.
@@ -82,7 +63,7 @@ Nesta etapa (imagem 03) você deverá preencher todos os campos solicitados.
 
 - <u>Hora de início</u>: informe a data e a hora que sua reunião terá início.
 
-- <u>Hora de término</u>: informe a data e a hora que sua reunião será encerrada.
+- <u>Hora de fim</u>: informe a data e a hora que sua reunião será encerrada.
 
 - <u>Categoria</u>: escolha em qual categoria sua reunião se encaixa.
 
@@ -99,3 +80,36 @@ Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 <p align="justify">
 <h6 align = "center"> Imagem 03 - Criar Reunião (Fonte: DECIDIM 2024)</h6>
 </p> 
+
+
+
+## Sistematizando as Conferências Municipais - Resoluções 
+
+
+Após a criação da conferência ela deverá ser formalizada. Clique em Formalize a conferência (Imagem 04). Para isto tem que ser preenchido o seguinte formulário [FORMULÁRIO DE REQUISIÇÃO DE CONVOCAÇÃO]
+(https://docs.google.com/document/d/1Ifo5ZN16IHQQL_aLPRGY0CMcd-mpegAOvtAugR7HBK4/edit#heading=h.r2fi0waw1opj). Após isto, submete-lo em formato .pdf
+
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/formalizeConferencia.JPG?ref_type=heads" alt=" Formalize a conferência" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center"> Imagem 04 - Formalize a conferência (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+Registre o que aconteceu - preencher o formulario e colocar o excel das propostas
+Depois Resoluções Municipais, onde sera cadastrada as propostas vindas do excel;
+
+Admin > Conferencia > Validar se esta criada e formalizada > Componentes > formulario de requisicao > mostrar respostas
+Se a conferencia não estiver formalizada ou em desacordo, a comissao organizadora remove a publicação. Poderá ser enviado email a pessoas que cadastrou dando ciencia ou nao da remoção ou autorização.
+
+Ao termino da conferencia, a comissao organizadora deverá "encerrar evento" (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel. Preencher o campo PROPOSTAS CRIADAS NO EVENTO. 
+
+## Sistematização de Resoluções Estaduais
+
+Admin > Conferencia > Validar se esta criada e formalizada > Componentes > formulario de requisicao > mostrar respostas
+Se a conferencia não estiver formalizada ou em desacordo, a comissao organizadora remove a publicação. Poderá ser enviado email a pessoas que cadastrou dando ciencia ou nao da remoção ou autorização.
+
+Ao termino da conferencia, a comissao organizadora deverá "encerrar evento" (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel. Preencher o campo PROPOSTAS CRIADAS NO EVENTO. 
+
+
