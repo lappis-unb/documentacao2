@@ -108,7 +108,7 @@ Se a conferência não estiver formalizada ou em desacordo, a comissão organiza
 <h6 align = "center"> Imagem 05 - Validar conferências (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-Ao termino da conferencia, a comissao organizadora deverá "encerrar evento" (imagem 06) (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel. Preencher o campo PROPOSTAS CRIADAS NO EVENTO. 
+Ao término da conferência, a comissão organizadora deverá encerrar a conferência. Para isto deverá selecionar a conferência a ser encerrada e clicar no ícone "encerrar evento", conforme mostra imagem 06 - (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel, por meio do preenchimento do campo "**Propostas criadas no evento**". 
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/EncerrarEvento.JPG?ref_type=heads" alt="Encerrar Evento" style="float: none; margin: auto"> 
@@ -117,11 +117,13 @@ Ao termino da conferencia, a comissao organizadora deverá "encerrar evento" (im
 <h6 align = "center"> Imagem 06 - Encerrar Evento (Fonte: DECIDIM 2024)</h6>
 </p> 
 
+Por fim, a comissão organizadora deverá cadastrar as resoluções eleitas, por meio da aba Resoluções Municipais. 
+
 ## Sistematização de Resoluções Estaduais
 
-Admin > Conferencia > Validar se esta criada e formalizada > Componentes > formulario de requisicao > mostrar respostas
+Admin > Conferencia > Validar se está criada e formalizada > Componentes > formulario de requisicao > mostrar respostas
 Se a conferencia não estiver formalizada ou em desacordo, a comissao organizadora remove a publicação. Poderá ser enviado email a pessoas que cadastrou dando ciencia ou nao da remoção ou autorização.
 
 Ao termino da conferencia, a comissao organizadora deverá "encerrar evento" (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel. Preencher o campo PROPOSTAS CRIADAS NO EVENTO. 
 
-
+A comissão organizadora deverá cadastrar as resoluções eleitas, por meio da aba Resoluções Estaduais.
