@@ -1,7 +1,8 @@
 
 O presente documento tem como objetivo orientar os administradores da comissão organizadora a gerenciar as conferências dentro da plataforma Brasil Participativo.
 
-# Criando conferências Municipais ou Estaduais
+
+## Criando conferências Municipais ou Estaduais
 
 Para criar as conferências acesse a aba **Conferências**, conforme mostra a Imagem 01.
 
@@ -75,7 +76,9 @@ Nesta etapa você deverá preencher todos os campos solicitados.
 
 Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 
-Após a criação da conferência ela deverá ser formalizada. Clique em Formalize a conferência (Imagem 03). Para isto tem que ser preenchido o seguinte formulário [FORMULÁRIO DE REQUISIÇÃO DE CONVOCAÇÃO](https://docs.google.com/document/d/1Ifo5ZN16IHQQL_aLPRGY0CMcd-mpegAOvtAugR7HBK4/edit#heading=h.r2fi0waw1opj). Após isto, submete-lo em formato .pdf.
+# Formalizando o pedido de criação de uma Conferência Municipal
+
+Após a criação da conferência ela deverá ser formalizada. Clique em Formalize a conferência (Imagem 03). Para isto tem que ser preenchido o seguinte formulário [FORMULÁRIO DE REQUISIÇÃO DE CONVOCAÇÃO](https://docs.google.com/document/d/1Ifo5ZN16IHQQL_aLPRGY0CMcd-mpegAOvtAugR7HBK4/edit#heading=h.r2fi0waw1opj). Após preenchido deverá ser submetido em formato .pdf.
 
 
 <figure markdown>
@@ -87,18 +90,12 @@ Após a criação da conferência ela deverá ser formalizada. Clique em Formali
 
 Após o processo de formalização concluído, aguarde o retorno da comissão organizadora.
 
-## Sistematizando as Conferências Municipais - Resoluções 
 
-Ao término da conferência Municipal, deverá ser registrado o que aconteceu durante e depois (Imagem 04), preenchendo o formulário solicitado.
+# Sistematizando as Conferências Municipais - Resoluções 
 
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/RegistreAconteceu.JPG?ref_type=heads" alt="Registre o que aconteceu" style="float: none; margin: auto"> 
-</figure> 
-<p align="justify">
-<h6 align = "center"> Imagem 04 - Registre o que aconteceu (Fonte: DECIDIM 2024)</h6>
-</p> 
+# Validando uma Conferência Municipal
 
-A comissão organizadora deve validar a conferência municipal, por meio da validação da documentação fornecida. Para esta análise, deverá ser percorrido o seguinte caminho na plataforma DECIDIM (imagem 05).
+A comissão organizadora deve validar a conferência municipal, por meio da confirmação da documentação fornecida. Para esta análise, deverá ser percorrido o seguinte caminho na plataforma DECIDIM (imagem 05).
 
 COMPONENTES > FORMULARIO DE REQUISIÇÃO > MOSTRAR RESPOSTAS
 Se a conferência não estiver formalizada ou em desacordo, a comissão organizadora deverá remover a publicação da referida conferência analisada. Cabe a comissão organizadora, dar ciência ao cadastrante da conferencia que ela foi removida.
@@ -110,7 +107,24 @@ Se a conferência não estiver formalizada ou em desacordo, a comissão organiza
 <h6 align = "center"> Imagem 05 - Validar conferências (Fonte: DECIDIM 2024)</h6>
 </p> 
 
+# Criar as propostas eleitas pelas Resoluções Municipais
 
+# Fazer planilha de Resoluções Eleitas com as propostas criadas 
+
+
+# Registre o que aconteceu
+
+Ao término da conferência Municipal, deverá ser registrado o que aconteceu durante e depois (Imagem 04), preenchendo o formulário solicitado.
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/RegistreAconteceu.JPG?ref_type=heads" alt="Registre o que aconteceu" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center"> Imagem 04 - Registre o que aconteceu (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+
+# Encerrar a conferência
 
 Ao término da conferência, a comissão organizadora deverá encerrar a conferência. Para isto deverá selecionar a conferência a ser encerrada e clicar no ícone "encerrar evento", conforme mostra imagem 06 - (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as Resoluções eleitas (vindas do excel), por meio do preenchimento do campo "**Propostas criadas no evento**". 
 
@@ -122,6 +136,9 @@ Ao término da conferência, a comissão organizadora deverá encerrar a confer�
 </p> 
 
 Por fim, a comissão organizadora deverá cadastrar as resoluções eleitas, por meio da aba Resoluções Municipais. 
+
+# Vincular as propostas relacionadas com o evento de acordo com a planilha
+
 
 ## Sistematização de Resoluções Estaduais
 
