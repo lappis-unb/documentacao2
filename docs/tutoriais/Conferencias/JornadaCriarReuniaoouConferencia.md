@@ -108,7 +108,7 @@ Se a conferência não estiver formalizada ou em desacordo, a comissão organiza
 <h6 align = "center"> Imagem 05 - Validar conferências (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-Ao término da conferência, a comissão organizadora deverá encerrar a conferência. Para isto deverá selecionar a conferência a ser encerrada e clicar no ícone "encerrar evento", conforme mostra imagem 06 - (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel, por meio do preenchimento do campo "**Propostas criadas no evento**". 
+Ao término da conferência, a comissão organizadora deverá encerrar a conferência. Para isto deverá selecionar a conferência a ser encerrada e clicar no ícone "encerrar evento", conforme mostra imagem 06 - (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as Resoluções eleitas (vindas do excel), por meio do preenchimento do campo "**Propostas criadas no evento**". 
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/EncerrarEvento.JPG?ref_type=heads" alt="Encerrar Evento" style="float: none; margin: auto"> 
