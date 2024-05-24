@@ -102,7 +102,7 @@ A comissão organizadora deve validar a conferência municipal, por meio da conf
 - COMPONENTES > FORMULARIO DE REQUISIÇÃO > MOSTRAR RESPOSTAS
 
 
-Se a conferência não estiver formalizada ou em desacordo, a comissão organizadora deverá cancelar (imagem 05) a publicação da referida conferência analisada. Cabe a comissão organizadora, dar ciência ao cadastrante da conferência que ela foi removida.
+Se a conferência não estiver formalizada ou em desacordo, a comissão organizadora deverá cancelar a publicação (imagem 05) da referida conferência analisada. Cabe a comissão organizadora, dar ciência ao cadastrante da conferência que ela foi removida.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/FormularioRequisicao.JPG?ref_type=heads" alt="Validar conferências" style="float: none; margin: auto"> 
@@ -157,20 +157,12 @@ Para a comissão organizadora encerrar uma conferência, deve-se selecionar a co
 </p> 
 
 
-Para vincular devendo vincular manualmente as Resoluções eleitas (vindas do excel), por meio do preenchimento do campo "**Propostas criadas no evento**". 
+DESCREVER MELHOR "**Propostas criadas no evento**". 
 
 ## Sistematização de Resoluções Estaduais
 
-Admin > Conferencia > Validar se está criada e formalizada > Componentes > formulario de requisicao > mostrar respostas
-Se a conferencia não estiver formalizada ou em desacordo, a comissão organizadora remove a publicação. Poderá ser enviado email a pessoas que cadastrou dando ciência ou não da remoção ou autorização.
-
-
-
-**Acrescentar como ocultar ou remover - colocar telas**
-
-Ao término da conferencia, a comissao organizadora deverá "encerrar evento" (CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO), devendo vincular manualmente as requisições eleitas advindas do excel. Preencher o campo PROPOSTAS CRIADAS NO EVENTO. 
-
-A comissão organizadora deverá cadastrar as resoluções eleitas, por meio da aba Resoluções Estaduais.
-
+Em desenvolvimento!
 
 # Criando conferências na etapa Nacional
+
+Em desenvolvimento!
