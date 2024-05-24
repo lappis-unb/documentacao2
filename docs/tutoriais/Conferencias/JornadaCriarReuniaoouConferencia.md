@@ -23,7 +23,7 @@ Agora clique no botão "Nova Reunião" conforme imagem 02.
 </p> 
 
 
-Nesta etapa (imagem 03) você deverá preencher todos os campos solicitados.
+Nesta etapa você deverá preencher todos os campos solicitados.
 
 - <u>Título do evento:</u>: descreva um título para identificar o seu evento. 
 
@@ -74,19 +74,7 @@ Nesta etapa (imagem 03) você deverá preencher todos os campos solicitados.
 
 Pronto, basta clicar no botão **Criar** e sua reunião foi gerada.
 
-<figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/CriarReuniao.JPG?ref_type=heads" alt=" Criar Reunião" style="float: none; margin: auto"> 
-</figure> 
-<p align="justify">
-<h6 align = "center"> Imagem 03 - Criar Reunião (Fonte: DECIDIM 2024)</h6>
-</p> 
-
-
-
-## Sistematizando as Conferências Municipais - Resoluções 
-
-
-Após a criação da conferência ela deverá ser formalizada. Clique em Formalize a conferência (Imagem 04). Para isto tem que ser preenchido o seguinte formulário [FORMULÁRIO DE REQUISIÇÃO DE CONVOCAÇÃO]
+Após a criação da conferência ela deverá ser formalizada. Clique em Formalize a conferência (Imagem 03). Para isto tem que ser preenchido o seguinte formulário [FORMULÁRIO DE REQUISIÇÃO DE CONVOCAÇÃO]
 (https://docs.google.com/document/d/1Ifo5ZN16IHQQL_aLPRGY0CMcd-mpegAOvtAugR7HBK4/edit#heading=h.r2fi0waw1opj). Após isto, submete-lo em formato .pdf
 
 
@@ -94,12 +82,24 @@ Após a criação da conferência ela deverá ser formalizada. Clique em Formali
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/formalizeConferencia.JPG?ref_type=heads" alt=" Formalize a conferência" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 04 - Formalize a conferência (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 03 - Formalize a conferência (Fonte: DECIDIM 2024)</h6>
 </p> 
 
-Registre o que aconteceu - preencher o formulario e colocar o excel das propostas
-Depois Resoluções Municipais, onde sera cadastrada as propostas vindas do excel;
 
+## Sistematizando as Conferências Municipais - Resoluções 
+
+Ao término da conferência Municipal, deverá ser registrado o que aconteceu durante e depois (Imagem 04), preenchendo o formulário solicitado.
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/RegistreAconteceu.JPG?ref_type=heads" alt="Registre o que aconteceu" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center"> Imagem 04 - Registre o que aconteceu (Fonte: DECIDIM 2024)</h6>
+</p> 
+
+A comissão organizadora deve validar se a conferência municipal é válida por meio da validação da documentação fornecida. Para esta análise, deverá ser percorrido o seguinte caminho na plataforma DECIDIM.
+
+COMPONENTES > FORMULARIO DE REQUISIÇÃO > 
 Admin > Conferencia > Validar se esta criada e formalizada > Componentes > formulario de requisicao > mostrar respostas
 Se a conferencia não estiver formalizada ou em desacordo, a comissao organizadora remove a publicação. Poderá ser enviado email a pessoas que cadastrou dando ciencia ou nao da remoção ou autorização.
 
