@@ -25,7 +25,7 @@ Agora clique no botão "Nova Reunião" conforme imagem 02.
 
 Nesta etapa você deverá preencher todos os campos solicitados.
 
-- <u>Título do evento:</u>: descreva um título para identificar o seu evento. 
+- <u>Título do evento</u>: descreva um título para identificar o seu evento. 
 
 - <u>Descrição</u>: descreva resumidamente do que se trata a reunião a ser criada.
 
@@ -164,7 +164,7 @@ Para a comissão organizadora encerrar uma conferência, deve-se selecionar a co
 </p> 
 
 
-DESCREVER MELHOR - vincular as propostas neste campo "**Propostas criadas no evento**". 
+Localize o campo "**Propostas criadas no evento**" e faça a vinculação das propostas.
 
 
 # Sistematização de Resoluções Estaduais
