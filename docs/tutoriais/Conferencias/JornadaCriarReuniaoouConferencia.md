@@ -126,7 +126,7 @@ A comissão organizadora deverá cadastrar as resoluções eleitas, por meio da 
 
 
 <figure markdown>
-<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/ResolucaoEstadual.JPG?ref_type=heads" alt="Resoluções Municipais" style="float: none; margin: auto"> 
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/ResolucoesMunicipais.JPG?ref_type=heads" alt="Resoluções Municipais" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
 <h6 align = "center"> Imagem 06 - Resoluções Municipais (Fonte: DECIDIM 2024)</h6>
