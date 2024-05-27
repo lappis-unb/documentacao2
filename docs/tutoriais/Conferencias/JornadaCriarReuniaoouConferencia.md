@@ -63,9 +63,11 @@ Nesta etapa você deverá preencher todos os campos solicitados.
             - Somente participantes inscritos;
             - Participantes registrados para este evento;
 
-- <u>Hora de início</u>: informe a data e a hora que sua reunião terá início.
+- <u>Duração do evento</u>:
 
-- <u>Hora de fim</u>: informe a data e a hora que sua reunião será encerrada.
+    - <u>Hora de início</u>: informe a data e a hora que sua reunião terá início.
+
+    - <u>Hora de fim</u>: informe a data e a hora que sua reunião será encerrada.
 
 - <u>Categoria</u>: escolha em qual categoria sua reunião se encaixa.
 
