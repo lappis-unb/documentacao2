@@ -122,7 +122,15 @@ Se a conferência não estiver formalizada ou em desacordo, a comissão organiza
 
 # Criar as propostas eleitas pelas Resoluções Municipais
 
-A comissão organizadora deverá cadastrar as resoluções eleitas, por meio da aba Resoluções Municipais. 
+A comissão organizadora deverá cadastrar as resoluções eleitas, por meio da aba Resoluções Municipais (imagem 06). 
+
+
+<figure markdown>
+<img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/ResolucaoEstadual.JPG?ref_type=heads" alt="Resoluções Municipais" style="float: none; margin: auto"> 
+</figure> 
+<p align="justify">
+<h6 align = "center"> Imagem 06 - Resoluções Municipais (Fonte: DECIDIM 2024)</h6>
+</p> 
 
 
 # Fazer planilha de Resoluções Eleitas com as propostas criadas 
@@ -132,19 +140,19 @@ A comissão organizadora deverá cadastrar as resoluções eleitas, por meio da 
 
 # Registre o que aconteceu
 
-Assim que a Conferência Municipal for concluída os registros deverão ser feitos, conforme Imagem 06, preenchendo o formulário solicitado.
+Assim que a Conferência Municipal for concluída os registros deverão ser feitos, conforme Imagem 07, preenchendo o formulário solicitado.
 
 <figure markdown>
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/RegistreAconteceu.JPG?ref_type=heads" alt="Registre o que aconteceu" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 06 - Registre o que aconteceu (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 07 - Registre o que aconteceu (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
 # Encerrar a conferência/Vinculando as propostas relacionadas com o evento de acordo com a planilha
 
-Para a comissão organizadora encerrar uma conferência, deve-se selecionar a conferência a ser encerrada e clicar no ícone "encerrar evento", conforme mostra imagem 07.
+Para a comissão organizadora encerrar uma conferência, deve-se selecionar a conferência a ser encerrada e clicar no ícone "encerrar evento", conforme mostra imagem 08.
 
 - CONFERENCIA > CONFERENCIA EM QUESTÃO > ENCERRAR EVENTO.
 
@@ -152,7 +160,7 @@ Para a comissão organizadora encerrar uma conferência, deve-se selecionar a co
 <img src= "https://gitlab.com/lappis-unb/decidimbr/documentacao/-/raw/main/docs/assetsTutoriais/conferencias/EncerrarEvento.JPG?ref_type=heads" alt="Encerrar Evento" style="float: none; margin: auto"> 
 </figure> 
 <p align="justify">
-<h6 align = "center"> Imagem 07 - Encerrar Conferência (Fonte: DECIDIM 2024)</h6>
+<h6 align = "center"> Imagem 08 - Encerrar Conferência (Fonte: DECIDIM 2024)</h6>
 </p> 
 
 
